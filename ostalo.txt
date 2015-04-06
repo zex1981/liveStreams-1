@@ -1,10 +1,12 @@
 ime="TEST channel" url="plugin://plugin.video.p2p-streams/?url=acestream://b3afd13fb3c5f0c5b548a8195046fc6da2e4e27e&mode=1&name=test" img="-"
 
-ime="DW-TV" url="http://hlsstr04.svc.iptv.rt.ru/hls/CH_DEUTSCHEWELLE/variant.m3u8?version=2" img="http://www.dw.de/cssi/dwlogo-print.gif"
-ime="VIASAT EXPLORE RU" url="http://hlsstr01.svc.iptv.rt.ru/hls/CH_VIASATEXPLORER/variant.m3u8?version=2" img="-"
-ime="VIASAT GOLF RU" url="http://hlsstr04.svc.iptv.rt.ru/hls/CH_C06_VIASATGOLFHD/variant.m3u8?version=2" img="-"
-ime="VIASAT HISTORY RU" url="http://hlsstr02.svc.iptv.rt.ru/hls/CH_VIASATHISTORY/variant.m3u8?version=2" img="-"
-ime="VIASAT NATURE RU" url="http://hlsstr03.svc.iptv.rt.ru/hls/CH_VIASATNATURE/variant.m3u8?version=2" img="-"
+ime="DW-TV" 		url="http://hlsstr04.svc.iptv.rt.ru/hls/CH_DEUTSCHEWELLE/variant.m3u8?version=2" 		img="http://www.dw.de/cssi/dwlogo-print.gif"
+
+ime="VIASAT EXPLORER RU" 	url="http://hlsstr01.svc.iptv.rt.ru/hls/CH_VIASATEXPLORER/variant.m3u8?version=2" 		img="-"
+
+ime="VIASAT HISTORY RU" 	url="http://hlsstr02.svc.iptv.rt.ru/hls/CH_VIASATHISTORY/variant.m3u8?version=2" 		img="-"
+
+ime="VIASAT NATURE RU" 	url="http://hlsstr03.svc.iptv.rt.ru/hls/CH_VIASATNATURE/variant.m3u8?version=2" 		img="-"
 
 
 
