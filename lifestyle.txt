@@ -1,0 +1,3 @@
+ime=" Fashion TV" url="http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8" img="-"
+ime=" GINX" url="http://204.107.26.252:1935/live/796.high.stream/HasBahCa.m3u8" img="-"
+ime=" MTV" url="rtmp://83.218.202.202/live swfUrl=http://webtv.md/swf/WebTV.swf playpath=wt_mtv.stream" img="-"
