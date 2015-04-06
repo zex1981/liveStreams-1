@@ -1,0 +1,2 @@
+ime="Disney Channel" url="http://bit.do/26NY" img="http://cdnvideo.dolimg.com/cdn_assets/0dfecd0d9b7870bcb6037932bb22a5ea366ba029.png"
+ime="History Channel" url="http://bit.do/22GL" img="http://www.nyinterconnect.com/wp-content/uploads/history.gif"
