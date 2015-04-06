@@ -14,7 +14,7 @@ ime="SRF2_HD" url="http://ipm.iphone-tv.eu:1345/Live/Auth:test/Channel:srf2_hd/p
 ime="ARD_HD" url="http://ipm.iphone-tv.eu:1345/Live/Auth:test/Channel:ard_hd/playlist.m3u8" img="-"
 ime="ZDF_HD" url="http://ipm.iphone-tv.eu:1345/Live/Auth:test/Channel:zdf_hd/playlist.m3u8" img="-"
 ime="3PLUS" url="http://ipm.iphone-tv.eu:1345/Live/Auth:test/Channel:3plus/playlist.m3u8" img="-"
-ime="4PLUS" url="http://ipm.iphone-tv.eu:1345/Live/Auth:test/Channel:4plus/playlist.m3u8" img="-"
+ime="4PLUS" url="http://ipm.iphone-tv.eu:1345/Live/Auth:test/Channel:4plus/playlist.m3u8?" img="-"
 ime="ORF1_HD" url="http://ipm.iphone-tv.eu:1345/Live/Auth:test/Channel:orf1_hd/playlist.m3u8" img="-"
 ime="ORF2_HD" url="http://ipm.iphone-tv.eu:1345/Live/Auth:test/Channel:orf2_hd/playlist.m3u8" img="-"
 ime="ARTE_HD_DE" url="http://ipm.iphone-tv.eu:1345/Live/Auth:test/Channel:arte_hd_de/playlist.m3u8" img="-"
