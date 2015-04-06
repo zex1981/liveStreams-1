@@ -1,5 +1,5 @@
 ime="DW-TV" url="http://hlsstr04.svc.iptv.rt.ru/hls/CH_DEUTSCHEWELLE/variant.m3u8?version=2" img="http://www.dw.de/cssi/dwlogo-print.gif"
-ime="TEST nba" url="plugin://plugin.video.p2p-streams/?url=acestream://20f586f024788e9faaa56de3c4ba5977af8b5071&mode=1&name=NBA" img="-"
+ime="TEST food" url="plugin://plugin.video.p2p-streams/?url=acestream://f5265ef6a40fd835dcd11136f1d8eb794adc9d49&mode=1&name=NBA" img="-"
 
 
 
