@@ -2,6 +2,8 @@ ime="Sport Klub 1 (acestream)" url="plugin://plugin.video.p2p-streams/?url=acest
 
 ime="Sport Klub 2 (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://a6d9f4fad0adf8727c145b395d52b5a9432bcf0b&mode=1&name=acestream+SportKlub2" img="http://www.sportklub.rs/img/pssk2.png"
 
+ime="Arena Sport 1 HD (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://a3243b48bb634ecd163dd2bdbdf722d10b2602bb&mode=1&name=Arena+Sport+1" img="http://upload.wikimedia.org/wikipedia/hr/f/fa/Arenasport1.png"
+
 ime="Arena Sport 1 (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://5678b6325f9ba4cd18bd89a67c692c73ec75f364&mode=1&name=acestream+ArenaSport1" img="http://upload.wikimedia.org/wikipedia/hr/f/fa/Arenasport1.png"
 
 ime="Arena Sport 2" url="http://62.112.54.4/hls/arena2.m3u8" img="http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport2_s.gif"
