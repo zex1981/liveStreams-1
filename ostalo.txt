@@ -1,1 +1,4 @@
 ime="DW-TV" url="http://hlsstr04.svc.iptv.rt.ru/hls/CH_DEUTSCHEWELLE/variant.m3u8?version=2" img="http://www.dw.de/cssi/dwlogo-print.gif"
+ime="Test 1 (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://01c28296b99a6bcaaa7f5b665471eeabea417844&mode=1&name=acestream+Food" img="http://upload.wikimedia.org/wikipedia/hr/f/fa/Arenasport1.png"
+
+
