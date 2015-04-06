@@ -1,3 +1,6 @@
+ime="BBC One (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://304528e8bd201ae6eec3bb321ab3247f3f09366f&mode=1&name=BBC+One" img="http://upload.wikimedia.org/wikipedia/commons/1/1a/BBC_One_2002.png"
+
+ime="BBC Two (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://7c4d5ec7f9dcfb7c8d6bcc8bd942fae1971d20e4&mode=1&name=BBC+Two" img="http://i1.cdnds.net/10/24/broadcasting_bbc_two.jpg"
 
 ime="Dave" url="http://93.184.221.133/00573D/290/290-0.m3u8" img="http://i1.cdnds.net/13/06/300x225/media-dave-logo.jpg"
 
@@ -17,6 +20,6 @@ ime="NASA TV" url="http://media.infozen.cshls.lldns.net/infozen/media/media/medi
 
 ime="National Geographic" url="http://techstream.dynns.com:1935/ind/netgeowild/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMTUgMTA6NDg6MTYgQU0maGFzaF92YWx1ZT1rbk9yK3lnRWcvYTJIbFhMdXN2VUN3PT0mdmFsaWRtaW51dGVzPTI" img="http://i0.wp.com/pmcvariety.files.wordpress.com/2014/05/national-geographic-channel-logo.jpg?crop=108px%2C56px%2C818px%2C455px&resize=670%2C377"
 
-ime="NatGeo Wild" url="http://188.227.86.4:4022/udp/239.77.0.85:1234" img="http://tvbythenumbers.zap2it.com/wp-content/uploads/2012/09/Nat-Geo-wild-new.jpg"
+ime="NatGeo Wild" url="http://techstream.dynns.com:1935/ind/netgeowild/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMTUgMTA6NDg6MTYgQU0maGFzaF92YWx1ZT1rbk9yK3lnRWcvYTJIbFhMdXN2VUN3PT0mdmFsaWRtaW51dGVzPTI" img="http://tvbythenumbers.zap2it.com/wp-content/uploads/2012/09/Nat-Geo-wild-new.jpg"
 
 ime="Yesterday" url="http://93.184.221.133/00573D/294/294-0.m3u8" img="http://yesterday.uktv.co.uk/static/img/default_image.jpg"
