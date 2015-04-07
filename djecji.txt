@@ -8,6 +8,5 @@ ime="Cartoon Network" url="http://5.128.139.50:81/udp/239.1.3.3:1234" img="http:
 ime="Disney Channel" url="http://techstream.dynns.com:1935/ind/disney/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zLzIwMTUgNjowNzo0NiBQTSZoYXNoX3ZhbHVlPXplc1E2Ulg3U2VlMU1QeDhrb2VPaVE9PSZ2YWxpZG1pbnV0ZXM9Mg" img="http://cdnvideo.dolimg.com/cdn_assets/0dfecd0d9b7870bcb6037932bb22a5ea366ba029.png"
 
 ime="Nickelodeon" url="http://5.128.139.50:81/udp/239.1.3.4:1234" img="https://hotteahotbooks.files.wordpress.com/2012/10/osn-logo-old-school-nickelodeon-39575_353_204.jpg"
-
-ime="Tom & Jerry" url="http://66.90.111.66:1935/ctv/tom/waldo_paes.m3u8" img="http://fc01.deviantart.net/fs43/f/2009/108/0/b/Tom_and_Jerry_40s_Titlecard_by_LuckyHRE.jpg"
+ime="Tom i Jerry" url="http://66.90.111.66:1935/ctv/tom/waldo_paes.m3u8" img="http://fc01.deviantart.net/fs43/f/2009/108/0/b/Tom_and_Jerry_40s_Titlecard_by_LuckyHRE.jpg"
 
