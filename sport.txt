@@ -24,9 +24,15 @@ ime="Eurosport 1 (Dual Audio)" url="http://hlsstr04.svc.iptv.rt.ru/hls/CH_EUROSP
 ime="Eurosport 1 HD (Dual Audio)" url="http://hlsstr04.svc.iptv.rt.ru/hls/CH_C02_EUROSPORTHD/variant.m3u8?version=2" img="http://www.smarttvradar.com/wp-content/uploads/2012/11/logoBritishEurosport.jpg"
 ime="Eurosport 2 (Dual Audio)" url="http://hlsstr02.svc.iptv.rt.ru/hls/CH_EUROSPORT2/variant.m3u8?version=2" img="http://images.bennetts.co.uk/PageFiles/11764/BritishEurosport.jpg"
 
+ime="Fox Sports 2" url="http://103.242.13.66:5000/nn_live.ts?id=starsport-m-h" img="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_lam_2.jpg"
+
 ime="NBA TV" url="rtmp://213.152.180.159:1935/stream/ playpath=0f5bZcQBIw.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=1474b4j5b5l5p393v416n274s214y2s2b424w2u2v2t24394&adx=&stream=6474b4j554f4t2u2n5a4t2k5644443n234m5z264u3a4t3o4v456t254w2q274w203p2t274x2z34303y3p2o5a4j5c574o3o4r4i2k4j4v5k474n33574a414p4h4z33456t2y3s2p2l51313s274d4z284236324q264m554o5v2r2m5a4u274t254a484g54484z2o2y2t2343434t2y3s2p224&sooor=Ng==&str=is&ok=&cat=2&link=1&idom=ifirstrow.eu" img="http://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1055px-NBA_TV.svg.png"
 ime="NBA TV HD (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://20f586f024788e9faaa56de3c4ba5977af8b5071&mode=1&name=NBA+HD" img="http://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1055px-NBA_TV.svg.png"
 ime="NBA TV (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://6cb64a8da93a64b473b50a5ad91a4214fe7d24ff&mode=1&name=NBA" img="http://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1055px-NBA_TV.svg.png"
+
+ime="NTV+ Football 1" url="http://iptv4.zargacum.net/iptv/KEKNKTM4T4/124/index.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/ntv_plus_futbol.jpg"
+ime="NTV+ Football 2" url="http://iptv4.zargacum.net/iptv/KEKNKTM4T4/530/index.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/ntv_plus_futbol2.jpg"
+ime="NTV+ Football 3" url="http://iptv4.zargacum.net/iptv/KEKNKTM4T4/522/index.m3u8" img="http://only-tv.org/images/ntv_football_3.png"
 
 
 ime="Viasat Golf" url="http://93.184.221.133/00573D/911/911-0.m3u8" img="http://img3.wikia.nocookie.net/__cb20100523130740/logopedia/images/6/6b/Viasat_Golf_2008.png"
@@ -44,6 +50,12 @@ ime="SkySports 5" url="rtmp://89.248.171.90:443/liverepeater playpath=31 swfUrl=
 ime="SkySports F1" url="rtmpe://46.246.29.160:1935/l swfUrl=http://hdcast.org/eplayer.swf live=1 pageUrl=http://www.hdcast.org/embedlive4.php?u=sskysf1&vw=650&vh=470&domain=cricbox.tv/amine1313dz token=Fo5_n0w?U.rA6l3-70w47ch playpath=sskysf1" img="http://vignette3.wikia.nocookie.net/f1wikia/images/7/77/SkySportsF1.png/revision/latest?cb=20140320200040"
 
 ime="SkySports News" url="http://93.184.221.133/00573D/183/183-0.m3u8" img="http://hub.tv-ark.org.uk/images/skytv/sky_images/skysportsnews/skysportsnews_open1_2003b.jpg"
+
+ime="Sport" url="http://hlsstr01.svc.iptv.rt.ru/hls/CH_SPORT/variant.m3u8?version=2" img="http://www.tv-logo.com/pt-data/uploads/images/logo/sport1_ua.jpg"
+ime="Sport 1" url="http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2" img="http://www.tv-logo.com/pt-data/uploads/images/logo/sport1_ua.jpg"
+ime="Sport 1 HD" url="http://hlsstr03.svc.iptv.rt.ru/hls/CH_C04_SPORT1HD/variant.m3u8?version=2" img="http://www.tv-logo.com/pt-data/uploads/images/logo/sport1_ua.jpg"
+
+
 
 ime="Sport time TV 1HD" url="rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200" img="http://3.bp.blogspot.com/-4AF4qYRjs3w/VJARS9pOZwI/AAAAAAAAAPU/2-mAmReA2ww/s1600/s3.jpeg"
 ime="Sport time TV 2HD" url="rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200" img="http://3.bp.blogspot.com/-4AF4qYRjs3w/VJARS9pOZwI/AAAAAAAAAPU/2-mAmReA2ww/s1600/s3.jpeg"
