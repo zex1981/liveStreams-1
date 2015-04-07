@@ -30,11 +30,6 @@ ime="NBA TV" url="rtmp://213.152.180.159:1935/stream/ playpath=0f5bZcQBIw.stream
 ime="NBA TV HD (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://20f586f024788e9faaa56de3c4ba5977af8b5071&mode=1&name=NBA+HD" img="http://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1055px-NBA_TV.svg.png"
 ime="NBA TV (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://6cb64a8da93a64b473b50a5ad91a4214fe7d24ff&mode=1&name=NBA" img="http://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1055px-NBA_TV.svg.png"
 
-ime="NTV+ Football 1" url="http://iptv4.zargacum.net/iptv/KEKNKTM4T4/124/index.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/ntv_plus_futbol.jpg"
-ime="NTV+ Football 2" url="http://iptv4.zargacum.net/iptv/KEKNKTM4T4/530/index.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/ntv_plus_futbol2.jpg"
-ime="NTV+ Football 3" url="http://iptv4.zargacum.net/iptv/KEKNKTM4T4/522/index.m3u8" img="http://only-tv.org/images/ntv_football_3.png"
-
-
 ime="Viasat Golf" url="http://93.184.221.133/00573D/911/911-0.m3u8" img="http://img3.wikia.nocookie.net/__cb20100523130740/logopedia/images/6/6b/Viasat_Golf_2008.png"
 
 ime="SkySports 1" url="http://bit.do/3bwB" img="http://3.bp.blogspot.com/-_5hLpXCOCu0/VAW6b9Z5u3I/AAAAAAAAFUY/tiCj5Ilg6Fo/s1600/sky%2Bsports%2B1%2Blive%2Bmykora.png"
