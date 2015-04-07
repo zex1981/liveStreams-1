@@ -3,8 +3,10 @@ ime="JimJam" url="http://46.149.185.5:30036" img="http://upload.wikimedia.org/wi
 ime="Baby TV" url="http://hlsstr03.svc.iptv.rt.ru/hls/CH_BABYTV/variant.m3u8" img="http://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png"
 
 ime="Cartoon Network" url="http://hls.svc.moyo.tv/hls/CH_CARTOON/variant.m3u8?version=2" img="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/2000px-Cartoon_Network_2004_logo.svg.png"
+ime="Cartoon Network" url="http://5.128.139.50:81/udp/239.1.3.3:1234" img="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/2000px-Cartoon_Network_2004_logo.svg.png"
 
 ime="Disney Channel" url="http://techstream.dynns.com:1935/ind/disney/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zLzIwMTUgNjowNzo0NiBQTSZoYXNoX3ZhbHVlPXplc1E2Ulg3U2VlMU1QeDhrb2VPaVE9PSZ2YWxpZG1pbnV0ZXM9Mg" img="http://cdnvideo.dolimg.com/cdn_assets/0dfecd0d9b7870bcb6037932bb22a5ea366ba029.png"
 
+ime="Nickelodeon url="http://5.128.139.50:81/udp/239.1.3.4:1234" img="http://vector.me/files/images/4/5/45648/nickelodeon.png"
 
 
