@@ -9,5 +9,5 @@ ime="Disney Channel" url="http://techstream.dynns.com:1935/ind/disney/playlist.m
 
 ime="Nickelodeon" url="http://5.128.139.50:81/udp/239.1.3.4:1234" img="https://hotteahotbooks.files.wordpress.com/2012/10/osn-logo-old-school-nickelodeon-39575_353_204.jpg"
 
-ime="Tom & Jerry" url="http://66.90.111.66:1935/ctv/tom/waldo_paes.m3u8" img="https://marcosdavidh.files.wordpress.com/2013/04/tom-y-jerry-logo.png"
+ime="Tom & Jerry" url="http://66.90.111.66:1935/ctv/tom/waldo_paes.m3u8" img="http://fc01.deviantart.net/fs43/f/2009/108/0/b/Tom_and_Jerry_40s_Titlecard_by_LuckyHRE.jpg"
 
