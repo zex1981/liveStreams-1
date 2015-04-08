@@ -4,7 +4,7 @@ ime=" CBS Reality" url="http://93.184.221.133/00573D/713/713-0.m3u8" img="http:/
 ime=" C-More Action" url="http://93.184.221.133/00573D/1460/1460-0.m3u8" img="http://www.lyngsat-logo.com/hires/cc/c_more_action.png"
 ime=" CBS 2 " url="http://93.184.221.133/00573D/1084/1084-0.m3u8" img="http://img4.wikia.nocookie.net/__cb20101102122716/logopedia/images/7/7a/WBBM_CBS2_logo.png"
 ime=" Fox Life" url="http://176.52.178.23/2018/playlist.m3u8?stb_id=76408&uid=29d3b00b272e86e9876ed39e8be61959" img="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_life_lam.jpg"
-ime=" Fox Life" url="http://5.128.139.50:81/udp/239.1.3.11:1234" img="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_life_lam.jpg"
+ime=" Fox Life" url="http://178.165.45.203:4022/udp/239.0.0.141:1234" img="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_life_lam.jpg"
 
 ime=" Fox Life HD (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://4f831a2ae4b5daa954a068b9a854def82cf20261&mode=1&name=FOX+Life+HD" img="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_life_lam.jpg"
 ime=" Fox Crime" url="http://176.52.178.23/2019/playlist.m3u8?stb_id=76408&uid=29d3b00b272e86e9876ed39e8be61959" img="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_crime_bg.jpg"
