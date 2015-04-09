@@ -14,7 +14,7 @@ ime="Discovery ID" url="http://bit.do/22FN" img="http://upload.wikimedia.org/wik
 ime="Discovery Science" url="http://bit.do/26Z8" img="http://bigtv.pp.ua/img/Discovery%20Science.png"
 ime="Discovery World" url="http://188.227.86.4:4022/udp/239.77.0.78:1234" img="http://www.examiner.com/images/blog/replicate/EXID41517/images/discovery_world_logo(1).jpg"
 ime="History Channel" url="http://50.7.69.186:1935/edge/_definst_/logojbjhar79pc8/manifest.m3u8?wowzasessionid=1426231700" img="http://www.tv-logo.com/pt-data/uploads/images/logo/history_us.jpg"
-
+ime="Food Network (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream%3A%2F%2Ff9094180656eb239db9240d249108140fac091b3" img="http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2013/11/13/0/FN-3D-Logo-336x252.jpg"
 ime="Horse & Country" url="http://cdn.live.simplestream.com/coder5/coder.channels.channel5/hls/4/playlist.m3u8" img="http://www.britishdressage.co.uk/uploads/Image/horse%20and%20country.jpg"
 
 ime="NASA TV" url="http://media.infozen.cshls.lldns.net/infozen/media/media/media_1000.m3u8" img="http://www.nasa.gov/sites/default/files/files/tv_share.jpg"
