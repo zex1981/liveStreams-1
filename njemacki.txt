@@ -1,0 +1,1 @@
+ime="DW-TV" 		url="http://hlsstr04.svc.iptv.rt.ru/hls/CH_DEUTSCHEWELLE/variant.m3u8?version=2" 		img="http://www.dw.de/cssi/dwlogo-print.gif"
