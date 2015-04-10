@@ -14,12 +14,12 @@ ime="Arena Sport 4 (acestream)" url="plugin://plugin.video.p2p-streams/?url=aces
 ime="3Sport 1" url="http://93.184.221.133/00573D/236/236-0.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/viasat_tv3_sport1_dk.jpg"
 ime="3Sport 2" url="http://93.184.221.133/00573D/837/837-0.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/viasat_tv3_sport2_dk.jpg"
 
-ime="BeIn Sports 1 HD" url="http://45.33.78.45:8080/beinhd-iptv.php?access=freebeinhd1" img="http://cdn.girondins.com/sites/default/files/upload/logo-beinsports.png"
-ime="BeIn Sports 2 HD" url="http://45.33.78.45:8080/beinhd-iptv.php?access=freebeinhd2" img="http://cdn.girondins.com/sites/default/files/upload/logo-beinsports.png"
-ime="BeIn Sports 3 HD" url="http://45.33.78.45:8080/beinhd-iptv.php?access=freebeinhd3" img="http://cdn.girondins.com/sites/default/files/upload/logo-beinsports.png"
+ime="BeIn Sports 1 HD" url="http://45.33.78.45:8080/beinhd-iptv.php?access=freebeinhd1" img="http://img2.wikia.nocookie.net/__cb20140103213705/logopedia/images/f/ff/Bein-sports.jpg"
+ime="BeIn Sports 2 HD" url="http://45.33.78.45:8080/beinhd-iptv.php?access=freebeinhd2" img="http://img2.wikia.nocookie.net/__cb20140103213705/logopedia/images/f/ff/Bein-sports.jpg"
+ime="BeIn Sports 3 HD" url="http://45.33.78.45:8080/beinhd-iptv.php?access=freebeinhd3" img="http://img2.wikia.nocookie.net/__cb20140103213705/logopedia/images/f/ff/Bein-sports.jpg"
 
 ime="BT Sport 1" url="rtmp://89.248.172.159:443/liverepeater playpath=13 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=13&width=600&height=450 token=#atd%#$ZH" img="http://sport.bt.com/images/bt-sport-1-logo-136381974803410401-130801120118.jpg"
-ime="BT Sports 1 rezerva" url="http://192.99.24.176:8080/BTt1/BTt1/index.m3u8" img="http://sport.bt.com/images/bt-sport-1-logo-136381974803410401-130801120118.jpg"
+ime="BT Sport 1 rezerva" url="http://192.99.24.176:8080/BTt1/BTt1/index.m3u8" img="http://sport.bt.com/images/bt-sport-1-logo-136381974803410401-130801120118.jpg"
 ime="BT Sport 2" url="rtmp://89.248.172.159:443/liverepeater playpath=15 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=23&width=600&height=450 token=#atd%#$ZH" img="http://sport.bt.com/images/bt-sport-2-logo-136381974821910401-130801120415.jpg"
 
 ime="British Eurosport 1" url="http://93.184.221.133/00573D/1210/1210-0.m3u8" img="http://www.smarttvradar.com/wp-content/uploads/2012/11/logoBritishEurosport.jpg"
@@ -70,7 +70,6 @@ ime="SkySports F1" url="rtmpe://46.246.29.160:1935/l swfUrl=http://hdcast.org/ep
 ime="SkySports News" url="http://93.184.221.133/00573D/183/183-0.m3u8" img="http://hub.tv-ark.org.uk/images/skytv/sky_images/skysportsnews/skysportsnews_open1_2003b.jpg"
 
 ime="Sky Sports 1 rezerva" url="http://192.99.24.176:8080/Skyy1/Skky1/index.m3u8" img="http://3.bp.blogspot.com/-_5hLpXCOCu0/VAW6b9Z5u3I/AAAAAAAAFUY/tiCj5Ilg6Fo/s1600/sky%2Bsports%2B1%2Blive%2Bmykora.png"
-ime="Sky Sports 2 rezerva" url="http://192.99.24.176:8080/skySpo02L/sKk0oYSpll0Wo20o20w/index.m3u8" img="http://4.bp.blogspot.com/-jYg8ovLGy-g/VAW6cF2XvII/AAAAAAAAFUc/PuxutEG0yto/s1600/sky%2Bsports%2B2%2Blive%2Bmykora.png"
 ime="Sky Sports 3 rezerva" url="http://192.99.24.176:8080/skkY3/sk303/index.m3u8" img="http://4.bp.blogspot.com/-7FewPVsDh7A/VAW6c2XPZTI/AAAAAAAAFUg/weBNX1d4Ly4/s1600/sky%2Bsports%2B3%2Blive%2Bmykora.png"
 ime="Sky Sports 4 rezerva" url="http://192.99.24.176:8080/skY4/sSk4/index.m3u8" img="http://s25.postimg.org/dvmlvo5q7/sky_sports_4.png"
 ime="Sky Sports 5 rezerva" url="http://192.99.24.176:8080/skY5/skK5/index.m3u8" img="http://www1.skysports.com/core/img/channels/Sky-Sports-5-Logo.png"
