@@ -11,10 +11,8 @@ ime="3Sport 2" url="http://93.184.221.133/00573D/837/837-0.m3u8" img="http://www
 
 ime="BBC Sport" url="http://93.184.221.133/00573D/1104/1104-0.m3u8" img="http://newsimg.bbc.co.uk/media/images/67165000/jpg/_67165916_67165915.jpg"
 ime="Boxnation" url="http://93.184.221.133/00573D/1222/1222-0.m3u8" img="http://roundbyroundboxing.com/wp-content/uploads/2014/02/Box-Nation-Logo.jpg"
-ime="BT Sport 1" url="rtmp://89.248.172.159:443/liverepeater playpath=13 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=13&width=600&height=450 token=#atd%#$ZH" img="http://sport.bt.com/images/bt-sport-1-logo-136381974803410401-130801120118.jpg"
-ime="BT Sport 1 rezerva" url="http://192.99.24.176:8080/BTt1/BTt1/index.m3u8" img="http://sport.bt.com/images/bt-sport-1-logo-136381974803410401-130801120118.jpg"
-ime="BT Sport 2" url="rtmp://89.248.172.159:443/liverepeater playpath=15 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=23&width=600&height=450 token=#atd%#$ZH" img="http://sport.bt.com/images/bt-sport-2-logo-136381974821910401-130801120415.jpg"
-ime="BT Sport 2 rezerva" url="rtmp://31.220.0.206:1935/live/_definst_/btx22" img="http://sport.bt.com/images/bt-sport-2-logo-136381974821910401-130801120415.jpg"
+ime="BT Sport 1" url="http://192.99.24.176:8080/BTt1/BTt1/index.m3u8" img="http://sport.bt.com/images/bt-sport-1-logo-136381974803410401-130801120118.jpg"
+ime="BT Sport 2 " url="rtmp://31.220.0.206:1935/live/_definst_/btx22" img="http://sport.bt.com/images/bt-sport-2-logo-136381974821910401-130801120415.jpg"
 
 
 ime="British Eurosport 1" url="http://93.184.221.133/00573D/1210/1210-0.m3u8" img="http://www.smarttvradar.com/wp-content/uploads/2012/11/logoBritishEurosport.jpg"
