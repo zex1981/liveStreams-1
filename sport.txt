@@ -4,8 +4,7 @@ ime="Sport Klub 3 (acestream)" url="plugin://plugin.video.p2p-streams/?url=acest
 
 ime="Arena Sport 1 HD (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://a3243b48bb634ecd163dd2bdbdf722d10b2602bb&mode=1&name=Arena+Sport+1" img="http://upload.wikimedia.org/wikipedia/hr/f/fa/Arenasport1.png"
 ime="Arena Sport 1 (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://5678b6325f9ba4cd18bd89a67c692c73ec75f364&mode=1&name=acestream+ArenaSport1" img="http://upload.wikimedia.org/wikipedia/hr/f/fa/Arenasport1.png"
-
-ime="Arena Sport 4 (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://aa91ce66404752e0660079d9dbf36cb7b6f85431&mode=1&name=acestream+ArenaSport4" img="http://1.bp.blogspot.com/-IPwpsok5-Tk/VIyI7xDgM5I/AAAAAAAAALo/uccPSaHbUHc/s1600/arena-sport-4.gif"
+ime="Arena Sport 3 (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://1e4f0431ba299f9cca2d2a364b88ee686ed8530e&mode=1&name=acestream+ArenaSport1" img="http://upload.wikimedia.org/wikipedia/hr/f/fa/Arenasport1.png"
 
 ime="3Sport 1" url="http://93.184.221.133/00573D/236/236-0.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/viasat_tv3_sport1_dk.jpg"
 ime="3Sport 2" url="http://93.184.221.133/00573D/837/837-0.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/viasat_tv3_sport2_dk.jpg"
