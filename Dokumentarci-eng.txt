@@ -1,4 +1,4 @@
-ime="Animal planet" url="http://sjc-uhls-vip01.ustream.tv/watch/playlist.m3u8?cid=12762028" img="http://www.tv-logo.com/pt-data/uploads/images/logo/animal_planet_europe.jpg"
+ime="Animal planet" url="http://techstream.dynns.com:1935/ind/animalplanet/playlist.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/animal_planet_europe.jpg"
 ime="BBC One (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://304528e8bd201ae6eec3bb321ab3247f3f09366f&mode=1&name=BBC+One" img="http://upload.wikimedia.org/wikipedia/commons/1/1a/BBC_One_2002.png"
 
 ime="BBC Two (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://7c4d5ec7f9dcfb7c8d6bcc8bd942fae1971d20e4&mode=1&name=BBC+Two" img="http://i1.cdnds.net/10/24/broadcasting_bbc_two.jpg"
