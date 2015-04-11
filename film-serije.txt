@@ -1,3 +1,4 @@
+ime="24/7 HD Movies 2" url="http://50.7.69.186:1935/edge/_definst_/3mu6xhoy4xa8l7w/playlist.m3u8?wowzasessionid=1420172620 img="http://www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg"
 ime="CBS Action" url="http://93.184.221.133/00573D/711/711-0.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/cbs_action.jpg"
 ime="CBS Drama" url="http://93.184.221.133/00573D/712/712-0.m3u8" img="http://img2.wikia.nocookie.net/__cb20091107144033/logopedia/images/b/b2/CBS_drama_RGB.png"
 ime="CBS Reality" url="http://93.184.221.133/00573D/713/713-0.m3u8" img="http://prnew.info/wp-content/uploads/2012/10/CBS-REALITY-LOGO.jpg"
