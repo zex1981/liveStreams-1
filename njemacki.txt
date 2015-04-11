@@ -2,7 +2,7 @@ ime="DW-TV" url="http://hlsstr04.svc.iptv.rt.ru/hls/CH_DEUTSCHEWELLE/variant.m3u
 
 ime="ARD 1" url="http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8" img="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/DasErste-Logo.svg/120px-DasErste-Logo.svg.png"
 ime="WDR" url="http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8" img="http://www.lyngsat-logo.com/hires/ww/wdr_fernsehen.png"
-ime="DISNEY CHANNEL" url="https://de_fta_simulcast-lh.akamaihd.net/i/live_1@153866/master.m3u8" img="-"|X-Forwarded-For=91.63.136.21" img="http://img2.wikia.nocookie.net/__cb20101205140109/logopedia/images/4/48/Disney_channel_Logo_2010.png"
+ime="DISNEY CHANNEL" url="https://de_fta_simulcast-lh.akamaihd.net/i/live_1@153866/master.m3u8|X-Forwarded-For=91.63.136.21" img="http://img2.wikia.nocookie.net/__cb20101205140109/logopedia/images/4/48/Disney_channel_Logo_2010.png"
 ime="ARD" url="http://pebbles112-lh.akamaihd.net/i/daserste_1@97481/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21" img="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/DasErste-Logo.svg/120px-DasErste-Logo.svg.png"
 ime="ZDF" url="http://pebbles112-lh.akamaihd.net/i/zdf_1@97483/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21" img="http://img4.wikia.nocookie.net/__cb20091208105436/logopedia/images/6/6b/ZDF_logo_old.svg"
 ime="RTL" url="http://pebbles106-lh.akamaihd.net/i/rtl_1@97459/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21" img="http://upload.wikimedia.org/wikipedia/de/0/0b/RTL_Logo_2004.jpg"
