@@ -9,7 +9,8 @@ ime="Arena Sport 4 (acestream)" url="plugin://plugin.video.p2p-streams/?url=aces
 ime="3Sport 1" url="http://93.184.221.133/00573D/236/236-0.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/viasat_tv3_sport1_dk.jpg"
 ime="3Sport 2" url="http://93.184.221.133/00573D/837/837-0.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/viasat_tv3_sport2_dk.jpg"
 
-
+ime="BBC Sport" url="http://93.184.221.133/00573D/1104/1104-0.m3u8" img="http://newsimg.bbc.co.uk/media/images/67165000/jpg/_67165916_67165915.jpg"
+ime="Boxnation" url="http://93.184.221.133/00573D/1222/1222-0.m3u8" img="http://roundbyroundboxing.com/wp-content/uploads/2014/02/Box-Nation-Logo.jpg"
 ime="BT Sport 1" url="rtmp://89.248.172.159:443/liverepeater playpath=13 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=13&width=600&height=450 token=#atd%#$ZH" img="http://sport.bt.com/images/bt-sport-1-logo-136381974803410401-130801120118.jpg"
 ime="BT Sport 1 rezerva" url="http://192.99.24.176:8080/BTt1/BTt1/index.m3u8" img="http://sport.bt.com/images/bt-sport-1-logo-136381974803410401-130801120118.jpg"
 ime="BT Sport 2" url="rtmp://89.248.172.159:443/liverepeater playpath=15 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=23&width=600&height=450 token=#atd%#$ZH" img="http://sport.bt.com/images/bt-sport-2-logo-136381974821910401-130801120415.jpg"
@@ -49,12 +50,8 @@ ime="NTV+ Football 3 HD" url="http://46.61.226.18/hls/CH_FUTBALL3HD/bw3000000/va
 ime="NTV+ Sport plus" url="http://hlsstr03.svc.iptv.rt.ru/hls/CH_NTVPLUSPORT/variant.m3u8?version=2" img="http://www.television.lv/wp-content/uploads/2014/07/ntv-plus-sport.jpg"
 ime="NTV+ Basketball" url="http://hlsstr02.svc.iptv.rt.ru/hls/CH_NTVPLUSBASKETBOL/variant.m3u8?version=2" img="http://www.lyngsat-logo.com/logo/tv/nn/ntv_plus_basketbol.png"
 
-
-
-
-
-ime="Viasat Golf" url="http://93.184.221.133/00573D/911/911-0.m3u8" img="http://img3.wikia.nocookie.net/__cb20100523130740/logopedia/images/6/6b/Viasat_Golf_2008.png"
-
+ime="PAC National HD" url="http://xrxs.net/video/live-p12netw-2328.m3u8" img="http://cdn.fansided.com/wp-content/blogs.dir/276/files/2014/02/Pac12.jpg"
+ime="PAC National Full HD" url="http://xrxs.net/video/live-p12netw-4728.m3u8" img="http://cdn.fansided.com/wp-content/blogs.dir/276/files/2014/02/Pac12.jpg"
 ime="SkySports 1" url="http://bit.do/3bwB" img="http://3.bp.blogspot.com/-_5hLpXCOCu0/VAW6b9Z5u3I/AAAAAAAAFUY/tiCj5Ilg6Fo/s1600/sky%2Bsports%2B1%2Blive%2Bmykora.png"
 ime="SkySports 2" url="rtmp://80.82.64.140:443/liverepeater playpath=48 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=48&width=600&height=450 token=#atd%#$ZH" img="http://4.bp.blogspot.com/-jYg8ovLGy-g/VAW6cF2XvII/AAAAAAAAFUc/PuxutEG0yto/s1600/sky%2Bsports%2B2%2Blive%2Bmykora.png"
 ime="SkySports 3" url="rtmp://80.82.78.26:443/liverepeater playpath=10 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=10&width=600&height=450 token=#atd%#$ZH" img="http://4.bp.blogspot.com/-7FewPVsDh7A/VAW6c2XPZTI/AAAAAAAAFUg/weBNX1d4Ly4/s1600/sky%2Bsports%2B3%2Blive%2Bmykora.png"
@@ -87,4 +84,6 @@ ime="TSN 1" url="http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeve
 ime="TSN 3" url="http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/tsn.jpg"
 ime="TSN 4" url="http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open8.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/tsn.jpg"
 ime="TSN 5" url="http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN5Open8.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/tsn.jpg"
+
+ime="Viasat Golf" url="http://93.184.221.133/00573D/911/911-0.m3u8" img="http://img3.wikia.nocookie.net/__cb20100523130740/logopedia/images/6/6b/Viasat_Golf_2008.png"
 
