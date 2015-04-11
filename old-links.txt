@@ -2,3 +2,10 @@ ime="History Channel" url="http://bit.do/22GL" img="http://www.nyinterconnect.co
 ime="HBO Films" url="rtmp://207.244.76.206/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php token=#ed%h0#w18623jsda6523lDGD" img="http://img2.wikia.nocookie.net/__cb20120618180714/logopedia/images/c/ce/HBO_Films_logo.png"
 ime="Fox Crime" url="http://176.52.178.23/2019/playlist.m3u8?stb_id=76408&uid=29d3b00b272e86e9876ed39e8be61959" img="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_crime_bg.jpg"
 ime="Fox Life" url="http://176.52.178.23/2018/playlist.m3u8?stb_id=76408&uid=29d3b00b272e86e9876ed39e8be61959" img="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_life_lam.jpg"
+
+ime="Arena Sport 2" url="http://62.112.54.4/hls/arena2.m3u8" img="http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport2_s.gif"
+ime="Arena Sport 3" url="http://62.112.54.4/hls/arena1.m3u8" img="http://mali-ekrani.com/wp-content/uploads/2014/11/arena-sport3.gif"
+
+ime="BeIn Sports 1 HD" url="http://45.33.78.45:8080/beinhd-iptv.php?access=freebeinhd1" img="http://img2.wikia.nocookie.net/__cb20140103213705/logopedia/images/f/ff/Bein-sports.jpg"
+ime="BeIn Sports 2 HD" url="http://45.33.78.45:8080/beinhd-iptv.php?access=freebeinhd2" img="http://img2.wikia.nocookie.net/__cb20140103213705/logopedia/images/f/ff/Bein-sports.jpg"
+ime="BeIn Sports 3 HD" url="http://45.33.78.45:8080/beinhd-iptv.php?access=freebeinhd3" img="http://img2.wikia.nocookie.net/__cb20140103213705/logopedia/images/f/ff/Bein-sports.jpg"
