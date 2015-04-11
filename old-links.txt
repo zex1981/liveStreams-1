@@ -1,1 +1,4 @@
 ime="History Channel" url="http://bit.do/22GL" img="http://www.nyinterconnect.com/wp-content/uploads/history.gif"
+ime="HBO Films" url="rtmp://207.244.76.206/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php token=#ed%h0#w18623jsda6523lDGD" img="http://img2.wikia.nocookie.net/__cb20120618180714/logopedia/images/c/ce/HBO_Films_logo.png"
+ime="Fox Crime" url="http://176.52.178.23/2019/playlist.m3u8?stb_id=76408&uid=29d3b00b272e86e9876ed39e8be61959" img="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_crime_bg.jpg"
+ime="Fox Life" url="http://176.52.178.23/2018/playlist.m3u8?stb_id=76408&uid=29d3b00b272e86e9876ed39e8be61959" img="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_life_lam.jpg"
