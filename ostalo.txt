@@ -10,13 +10,6 @@ ime="VIASAT NATURE RU" 	url="http://hlsstr03.svc.iptv.rt.ru/hls/CH_VIASATNATURE/
 
 ime="test" url="plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=s0R5kwty3qY" img="-"
 
-
-ime="One piece Episode 5" url="http://s3.tinyvid.net/au/oblvsJEqvz_Z0NDjk9lGhA/1376410654/uUd6hWAo.mp4" img="http://www.ranklogos.com/wp-content/uploads/2015/01/One-Piece-Logo.png"
-ime="One piece Episode 6" url="http://s3.tinyvid.net/au/W7olM3_EDD0z_kP0O2AlIQ/1376410738/3L2TUR7l.mp4" img="http://www.ranklogos.com/wp-content/uploads/2015/01/One-Piece-Logo.png"
-ime="One piece Episode 7" url="http://s3.tinyvid.net/au/MDHtYsALyAExjpjRB3QT9A/1376410782/VOkMxtE.mp4" img="http://www.ranklogos.com/wp-content/uploads/2015/01/One-Piece-Logo.png" 
-ime="One piece Episode 8" url="http://s3.tinyvid.net/au/DjnecfYrGKA_6mxO9mqi_A/1376410912/Gp2e1oKe.mp4" img="http://www.ranklogos.com/wp-content/uploads/2015/01/One-Piece-Logo.png" 
-ime="One piece Episode 9" url="http://s3.tinyvid.net/au/jabLzteWqhkwRExmsSXTeg/1376410970/XAaSy6M2.mp4" img="http://www.ranklogos.com/wp-content/uploads/2015/01/One-Piece-Logo.png"
-
 ime="FOX MOVIES HD" url="http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8" img="-"
 
 ime="Sony SCI-FI" url="http://hls.svc.moyo.tv/hls/CH_SCI-FI/variant.m3u8?version=2" img="-"
