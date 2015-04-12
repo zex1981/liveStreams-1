@@ -15,6 +15,7 @@ ime="Eurosport 1 HD (Dual Audio)" url="http://hlsstr04.svc.iptv.rt.ru/hls/CH_C02
 ime="Eurosport 2 (Dual Audio)" url="http://hlsstr02.svc.iptv.rt.ru/hls/CH_EUROSPORT2/variant.m3u8?version=2" img="http://images.bennetts.co.uk/PageFiles/11764/BritishEurosport.jpg"
 
 ime="BT Sport 1 " url="rtmp://80.82.78.39:443/liverepeater playpath=13 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=13&width=600&height=450 token=#atd%#$ZH" img="http://sport.bt.com/images/bt-sport-2-logo-136381974821910401-130801120415.jpg"
+ime="BT Sport 1 (acestream) " url="plugin://plugin.video.p2p-streams/?url=acestream://419d44a6565ec562ec611d4d2622e19af4df035e&mode=1&name=Arena+Sport+1" img="http://sport.bt.com/images/bt-sport-2-logo-136381974821910401-130801120415.jpg"
 ime="BT Sport 2 " url="rtmp://89.248.171.90:443/liverepeater playpath=15 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=15&width=600&height=450 token=#atd%#$ZH" img="http://sport.bt.com/images/bt-sport-2-logo-136381974821910401-130801120415.jpg"
 ime="BT Sport 2 " url="rtmp://31.220.0.206:1935/live/_definst_/btx22" img="http://sport.bt.com/images/bt-sport-2-logo-136381974821910401-130801120415.jpg"
 
@@ -32,6 +33,11 @@ ime="SkySports News" url="http://93.184.221.133/00573D/183/183-0.m3u8" img="http
 
 ime="3Sport 1" url="http://93.184.221.133/00573D/236/236-0.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/viasat_tv3_sport1_dk.jpg"
 ime="3Sport 2" url="http://93.184.221.133/00573D/837/837-0.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/viasat_tv3_sport2_dk.jpg"
+
+ime="SkySport 1 Germany (acestream)" url="plugin://plugin.video.p2p-streams/?url=43e2bbb8fb2bd6dbccacfa6e7adbd4dc4e184b56&mode=1&name=Sky+Sport+1" img="http://img2.wikia.nocookie.net/__cb20111117160432/logopedia/images/e/e7/Sky_Sport_1_Germany_2011.png"
+ime="Bein 1 France (acestream)" url="plugin://plugin.video.p2p-streams/?url=1c23f6125d756ecca36ca8967ab7a8543433f957&mode=1&name=BeIN+1" img="http://3.bp.blogspot.com/-0jSHXWvdVec/VAz5CZaqxlI/AAAAAAAACCQ/0ppCYPuE4OM/s1600/bein%2B1.png"
+ime="Bein 2 France (acestream)" url="plugin://plugin.video.p2p-streams/?url=5cf38454ebf2ffa99f8793ba138d2e7e1ee89afe&mode=1&name=BeIN+2" img="http://3.bp.blogspot.com/-I56U3a-u6cU/U_uqWMMDA2I/AAAAAAAAEeI/oCodiXScOJg/s1600/bein%2B2hd.png"
+
 
 ime="Boxnation" url="http://93.184.221.133/00573D/1222/1222-0.m3u8" img="http://roundbyroundboxing.com/wp-content/uploads/2014/02/Box-Nation-Logo.jpg"
 
