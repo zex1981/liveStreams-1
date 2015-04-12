@@ -1,4 +1,4 @@
-ime="TEST channel" url="plugin://plugin.video.p2p-streams/?url=acestream://b3afd13fb3c5f0c5b548a8195046fc6da2e4e27e&mode=1&name=test" img="-"
+ime="TEST channel" url="rtmp://$OPT:rtmp-raw=rtmpe://rtmp.zerocast.tv/redirect/tPjsURqsVo4NSe23EhJP swfUrl=http://cdn.zerocast.tv/player/jwplayer.flash.swf pageUrl=http://zerocast.in/embed.php?a=16 token=OOG17t.x#K9Vh#|" img="-"
 
 ime="DW-TV" 		url="http://hlsstr04.svc.iptv.rt.ru/hls/CH_DEUTSCHEWELLE/variant.m3u8?version=2" 		img="http://www.dw.de/cssi/dwlogo-print.gif"
 
