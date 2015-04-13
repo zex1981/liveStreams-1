@@ -58,6 +58,8 @@ ime="Fox sports 2" url="http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8" i
 ime="NBA TV" url="rtmp://213.152.180.159:1935/stream/ playpath=0f5bZcQBIw.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=1474b4j5b5l5p393v416n274s214y2s2b424w2u2v2t24394&adx=&stream=6474b4j554f4t2u2n5a4t2k5644443n234m5z264u3a4t3o4v456t254w2q274w203p2t274x2z34303y3p2o5a4j5c574o3o4r4i2k4j4v5k474n33574a414p4h4z33456t2y3s2p2l51313s274d4z284236324q264m554o5v2r2m5a4u274t254a484g54484z2o2y2t2343434t2y3s2p224&sooor=Ng==&str=is&ok=&cat=2&link=1&idom=ifirstrow.eu" img="http://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1055px-NBA_TV.svg.png"
 ime="NBA TV HD (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://20f586f024788e9faaa56de3c4ba5977af8b5071&mode=1&name=NBA+HD" img="http://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1055px-NBA_TV.svg.png"
 ime="NBA TV (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://6cb64a8da93a64b473b50a5ad91a4214fe7d24ff&mode=1&name=NBA" img="http://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1055px-NBA_TV.svg.png"
+ime="NBC Sports Network" url="http://50.7.69.170:1935/edge/_definst_/0fm1lstybe4a0j4/playlist.m3u8?wowzasessionid=1419879018" img="http://sportsvideo.org/main/files/2013/06/NBC-Sports-Network.png"
+
 
 ime="NTV+ Football 1" url="http://iptv4.zargacum.net/iptv/KEKNKTM4T4/124/index.m3u8" img="http://www.goalzz.com/images/amir_ganjvar/ntv1hd.jpg"
 ime="NTV+ Football 1" url="http://hls01-07.az.myvideo.az/hls-live/livepkgr/ntvfootball/ntvfootball/ntvfootball.m3u8?seyirturk=fb:simpletvipadresleri3" img="http://www.goalzz.com/images/amir_ganjvar/ntv1hd.jpg"
