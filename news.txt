@@ -1,9 +1,6 @@
-ime="BBC World" url="http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8" img="http://news.bbcimg.co.uk/media/images/51526000/jpg/_51526914_wnlogo2.jpg"
-
-ime="CNN" url="http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_,264,528,828,.m3u8" img="https://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED.png"
-
 ime="Al Jazeera" url="http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_en/ls_satlink/b_828.m3u8" img="https://pbs.twimg.com/profile_images/448478192022474752/yOHtpEoL.jpeg"
-
 ime="Al Jazeera Balkans" url="rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live playpath=aljazeera_balkans_high pageURL=http://english.aljazeera.net/watch_now/ app=aljazeeraflashlive-live?videoId=747084146001&lineUpId=&pubId=665003303001&playerId=751182905001&affiliateId= swfUrl=http://admin.brightcove.com/viewer/us1.24.04.08.2011-01-14072625/federatedVideoUI/BrightcovePlayer.swf swfVfy=true live=true" img="http://www.mojatv.ba/fileadmin/template/bht2008.1/mojatv/aljazeera_balkans1.png"
-
+ime="BBC World" url="http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8" img="http://news.bbcimg.co.uk/media/images/51526000/jpg/_51526914_wnlogo2.jpg"
 ime="Bloomberg" url="http://cdn3.videos.bloomberg.com/btv/us/master.m3u8" img="http://cdn.gotraffic.net/custom_contents/bloombergonblack.jpg?v=20150112_141850"
+ime="CNN" url="http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_,264,528,828,.m3u8" img="https://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED.png"
+ime="FOX News" url="http://50.7.69.170:1935/edge/_definst_/ohn58e97er36vjr/playlist.m3u8?wowzasessionid=1420123821" img="http://img1.wikia.nocookie.net/__cb20120407163458/logopedia/images/a/a6/Fox-news-logo-1.jpg"
