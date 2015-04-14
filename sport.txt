@@ -1,13 +1,5 @@
 
-ime=" ATL-RMA" url="http://hls01-07.az.myvideo.az/hls-live/livepkgr/aztv/aztv/aztv.m3u8?&rRb545vJBB5tYzB7vVP" img="-"
-ime=" ATL-RMA" url="rtmp://edge4.live.irib.ir/etv3/irib3-3" img="-"
-ime=" ATL-RMA" url="rtmp://sbox.cdnss.com:1935/live/bein01?user=86p14s&pass=ktv07k" img="-"
 
-ime=" Sky sports 1" url="http://192.99.24.176:8080/Skyy1/Sk01ky1/index.m3u8" img="-"
-ime=" Sky sports 2" url="http://192.99.24.176:8080/skKiK2lo0W/sSSLLppk2/index.m3u8" img="-"
-ime=" Sky sports 3" url="http://192.99.24.176:8080/skkY3/sk3Kp03/index.m3u8" img="-"
-ime=" Sky sports 4" url="http://192.99.24.176:8080/skY4/sSksP4/index.m3u8" img="-"
-ime=" Sky sports 5" url="http://192.99.24.176:8080/skY5/skoK5/index.m3u8" img="-"
 
 ime="Sport Klub 1 (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://a79fc539f691fedbc0c85c69bfc1acb285bb26e2&mode=1&name=acestream+SportKlub1" img="http://www.sportklub.rs/img/pssk1.png"
 ime="Sport Klub 2 (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://a6d9f4fad0adf8727c145b395d52b5a9432bcf0b&mode=1&name=acestream+SportKlub2" img="http://www.sportklub.rs/img/pssk2.png"
@@ -30,6 +22,11 @@ ime="BT Sport 1 (acestream) " url="plugin://plugin.video.p2p-streams/?url=acestr
 ime="BT Sport 2 " url="rtmp://89.248.171.90:443/liverepeater playpath=15 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=15&width=600&height=450 token=#atd%#$ZH" img="http://sport.bt.com/images/bt-sport-2-logo-136381974821910401-130801120415.jpg"
 ime="BT Sport 2 " url="rtmp://31.220.0.206:1935/live/_definst_/btx22" img="http://sport.bt.com/images/bt-sport-2-logo-136381974821910401-130801120415.jpg"
 
+ime=" Sky sports 1" url="http://192.99.24.176:8080/Skyy1/Sk01ky1/index.m3u8" img="-"
+ime=" Sky sports 2" url="http://192.99.24.176:8080/skKiK2lo0W/sSSLLppk2/index.m3u8" img="-"
+ime=" Sky sports 3" url="http://192.99.24.176:8080/skkY3/sk3Kp03/index.m3u8" img="-"
+ime=" Sky sports 4" url="http://192.99.24.176:8080/skY4/sSksP4/index.m3u8" img="-"
+ime=" Sky sports 5" url="http://192.99.24.176:8080/skY5/skoK5/index.m3u8" img="-"
 
 ime="SkySports 1 (acestream)" url="plugin://plugin.video.p2p-streams/?url=e6aaeb0c93c291a4cfe2c04d05c6b1e906f54955&mode=1&name=Sky+Sports+1" img="http://3.bp.blogspot.com/-_5hLpXCOCu0/VAW6b9Z5u3I/AAAAAAAAFUY/tiCj5Ilg6Fo/s1600/sky%2Bsports%2B1%2Blive%2Bmykora.png"
 ime="SkySports 2 " url="rtmp://80.82.64.140:443/liverepeater playpath=48 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=48&width=600&height=450 token=#atd%#$ZH" img="http://4.bp.blogspot.com/-jYg8ovLGy-g/VAW6cF2XvII/AAAAAAAAFUc/PuxutEG0yto/s1600/sky%2Bsports%2B2%2Blive%2Bmykora.png"
