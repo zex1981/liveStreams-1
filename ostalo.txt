@@ -16,4 +16,4 @@ ime="Fox life" url="http://hls.svc.moyo.tv/hls/CH_FOXLIVE/variant.m3u8?version=2
 ime="Diva universal" url="http://hls.svc.moyo.tv/hls/CH_DIVA_UNIVERSAL/variant.m3u8?version=2" img="-"
 ime="Universal channel" url="http://hls.svc.moyo.tv/hls/CH_UNIVERSAL/variant.m3u8?version=2" img="-"
 
-ime="Test ace" url="plugin://plugin.video.p2p-streams/?url=acestream://419d44a6565ec562ec611d4d2622e19af4df035e&mode=1&name=acestream+BTSport1"
+ime="Test ace" url="plugin://plugin.video.p2p-streams/?url=acestream://419d44a6565ec562ec611d4d2622e19af4df035e&mode=1&name=acestream+BTSport1" img="-"
