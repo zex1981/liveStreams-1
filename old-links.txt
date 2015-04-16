@@ -1,8 +1,14 @@
+ime="FILMSKIIIIIIIIII" url="-" img="-"
 ime="History Channel" url="http://bit.do/22GL" img="http://www.nyinterconnect.com/wp-content/uploads/history.gif"
 ime="HBO Films" url="rtmp://207.244.76.206/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php token=#ed%h0#w18623jsda6523lDGD" img="http://img2.wikia.nocookie.net/__cb20120618180714/logopedia/images/c/ce/HBO_Films_logo.png"
 ime="Fox Crime" url="http://176.52.178.23/2019/playlist.m3u8?stb_id=76408&uid=29d3b00b272e86e9876ed39e8be61959" img="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_crime_bg.jpg"
 ime="Fox Life" url="http://176.52.178.23/2018/playlist.m3u8?stb_id=76408&uid=29d3b00b272e86e9876ed39e8be61959" img="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_life_lam.jpg"
 
+
+
+
+
+ime="SPORTSKIIIIIIIIII" url="-" img="-"
 ime="Arena Sport 2" url="http://62.112.54.4/hls/arena2.m3u8" img="http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport2_s.gif"
 ime="Arena Sport 3" url="http://62.112.54.4/hls/arena1.m3u8" img="http://mali-ekrani.com/wp-content/uploads/2014/11/arena-sport3.gif"
 
@@ -10,6 +16,19 @@ ime="BeIn Sports 1 HD" url="http://45.33.78.45:8080/beinhd-iptv.php?access=freeb
 ime="BeIn Sports 2 HD" url="http://45.33.78.45:8080/beinhd-iptv.php?access=freebeinhd2" img="http://img2.wikia.nocookie.net/__cb20140103213705/logopedia/images/f/ff/Bein-sports.jpg"
 ime="BeIn Sports 3 HD" url="http://45.33.78.45:8080/beinhd-iptv.php?access=freebeinhd3" img="http://img2.wikia.nocookie.net/__cb20140103213705/logopedia/images/f/ff/Bein-sports.jpg"
 
+ime="British Eurosport 1" url="http://93.184.221.133/00573D/1210/1210-0.m3u8" img="http://www.smarttvradar.com/wp-content/uploads/2012/11/logoBritishEurosport.jpg"
+ime="British Eurosport 2" url="http://93.184.221.133/00573D/1211/1211-0.m3u8" img="http://images.bennetts.co.uk/PageFiles/11764/BritishEurosport.jpg"
+ime="3Sport 1" url="http://93.184.221.133/00573D/236/236-0.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/viasat_tv3_sport1_dk.jpg"
+ime="3Sport 2" url="http://93.184.221.133/00573D/837/837-0.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/viasat_tv3_sport2_dk.jpg"
+ime="SkySports News" url="http://93.184.221.133/00573D/183/183-0.m3u8" img="http://hub.tv-ark.org.uk/images/skytv/sky_images/skysportsnews/skysportsnews_open1_2003b.jpg"
+ime="Boxnation" url="http://93.184.221.133/00573D/1222/1222-0.m3u8" img="http://roundbyroundboxing.com/wp-content/uploads/2014/02/Box-Nation-Logo.jpg"
+ime="BBC Sport" url="http://93.184.221.133/00573D/1104/1104-0.m3u8" img="http://newsimg.bbc.co.uk/media/images/67165000/jpg/_67165916_67165915.jpg"
+ime="NBC Sports Network" url="http://50.7.69.170:1935/edge/_definst_/0fm1lstybe4a0j4/playlist.m3u8?wowzasessionid=1419879018" img="http://sportsvideo.org/main/files/2013/06/NBC-Sports-Network.png"
+ime="Viasat Golf" url="http://93.184.221.133/00573D/911/911-0.m3u8" img="http://img3.wikia.nocookie.net/__cb20100523130740/logopedia/images/6/6b/Viasat_Golf_2008.png"
+
+
+
+ime="BALKANSKIIIIIIIIII" url="-" img="-"
 ime="BN BiH" url="http://62.112.54.4/hls/bn-bih.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/bn_televizija.jpg" 
 ime="BN Music" url="http://62.112.54.4/hls/bn-music.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/bn_music.jpg" 
 ime="BN sat" url="http://62.112.54.4/hls/bn-sat.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/bn_televizija.jpg" 
@@ -25,3 +44,11 @@ ime="Posavina TV" url="http://62.112.54.4/hls/posavina-tv.m3u8" img="http://www.
 ime="RTRS" url="http://62.112.54.4/hls/rtrs.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/rtrs.jpg" 
 ime="RTS SAT" url="http://62.112.54.4/hls/rts-sat.m3u8" img="http://www.dream-sat.at/web/images/stories/Foto/rts_sat.png" 
 ime="Valentino TV" url="http://62.112.54.4/hls/otv-valentino.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/tv_valentino.jpg" 
+
+
+
+
+ime="DOKUMENTARNIIIIIIIIII" url="-" img="-"
+ime="Dave" url="http://93.184.221.133/00573D/290/290-0.m3u8" img="http://i1.cdnds.net/13/06/300x225/media-dave-logo.jpg"
+ime="Discovery History" url="http://93.184.221.133/00573D/1348/1348-0.m3u8" img="http://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/445/offlinehbpl.hbpl.co.uk/news/OWM/85B1580A-9FA6-F2E6-EC5F13E7C57BD7A7.jpg"
+ime="Yesterday" url="http://93.184.221.133/00573D/294/294-0.m3u8" img="http://yesterday.uktv.co.uk/static/img/default_image.jpg"
