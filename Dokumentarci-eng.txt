@@ -1,14 +1,9 @@
 ime="Animal planet" url="http://sjc-uhls-vip01.ustream.tv/watch/playlist.m3u8?cid=12762028" img="http://www.tv-logo.com/pt-data/uploads/images/logo/animal_planet_europe.jpg"
 ime="BBC One (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://304528e8bd201ae6eec3bb321ab3247f3f09366f&mode=1&name=BBC+One" img="http://upload.wikimedia.org/wikipedia/commons/1/1a/BBC_One_2002.png"
-
 ime="BBC Two (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://7c4d5ec7f9dcfb7c8d6bcc8bd942fae1971d20e4&mode=1&name=BBC+Two" img="http://i1.cdnds.net/10/24/broadcasting_bbc_two.jpg"
 
-ime="Dave" url="http://93.184.221.133/00573D/290/290-0.m3u8" img="http://i1.cdnds.net/13/06/300x225/media-dave-logo.jpg"
-
 ime="Discovery channel" url="http://185.27.237.105:8082/TV0059" img="http://www.stream2watch.com/images/thumbs/discovery%20live%20stream.jpg"
-ime="Discovery Channel" url="http://93.184.221.133/00573D/1347/1347-0.m3u8" img="http://www.stream2watch.com/images/thumbs/discovery%20live%20stream.jpg"
 ime="Discovery Theater" url="http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8" img="http://www.stream2watch.com/images/thumbs/discovery%20live%20stream.jpg"
-ime="Discovery History" url="http://93.184.221.133/00573D/1348/1348-0.m3u8" img="http://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/445/offlinehbpl.hbpl.co.uk/news/OWM/85B1580A-9FA6-F2E6-EC5F13E7C57BD7A7.jpg"
 
 ime="Discovery ID" url="http://185.27.237.105:8082/TV0092" img="http://upload.wikimedia.org/wikipedia/en/e/ef/Discovery_ID.png"
 
@@ -19,8 +14,7 @@ ime="Horse & Country" url="http://cdn.live.simplestream.com/coder5/coder.channel
 
 ime="NASA TV" url="http://media.infozen.cshls.lldns.net/infozen/media/media/media_1000.m3u8" img="http://www.nasa.gov/sites/default/files/files/tv_share.jpg"
 
-ime="National Geographic" url="http://93.184.221.133/00573D/338/338-0.m3u8" img="http://i0.wp.com/pmcvariety.files.wordpress.com/2014/05/national-geographic-channel-logo.jpg?crop=108px%2C56px%2C818px%2C455px&resize=670%2C377"
+ime="National Geographic" url="http://103.242.13.67:5000/nn_live.ts?id=nationalgeographic-m-h" img="http://i0.wp.com/pmcvariety.files.wordpress.com/2014/05/national-geographic-channel-logo.jpg?crop=108px%2C56px%2C818px%2C455px&resize=670%2C377"
 ime="National Geographic Wild" url="http://hls.svc.moyo.tv/hls/CH_NATGEOWILD/variant.m3u8?version=2" img="http://tvbythenumbers.zap2it.com/wp-content/uploads/2012/09/Nat-Geo-wild-new.jpg"
 ime="RT Documentary" url="http://odna.octoshape.net/f3f5m2v4/cds/ch5_720p/chunklist.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/rt_america.jpg"
 ime="TLC HD" url="http://hlsstr02.svc.iptv.rt.ru/hls/CH_C04_TLCHD/variant.m3u8?version=2" img="http://www.tv-logo.com/pt-data/uploads/images/logo/tlc_east_hd.jpg"
-ime="Yesterday" url="http://93.184.221.133/00573D/294/294-0.m3u8" img="http://yesterday.uktv.co.uk/static/img/default_image.jpg"
