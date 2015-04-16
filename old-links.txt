@@ -4,6 +4,8 @@ ime="HBO Films" url="rtmp://207.244.76.206/iguide playpath=0bf02qe6msgtu4s swfUr
 ime="Fox Crime" url="http://176.52.178.23/2019/playlist.m3u8?stb_id=76408&uid=29d3b00b272e86e9876ed39e8be61959" img="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_crime_bg.jpg"
 ime="Fox Life" url="http://176.52.178.23/2018/playlist.m3u8?stb_id=76408&uid=29d3b00b272e86e9876ed39e8be61959" img="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_life_lam.jpg"
 
+ime="VIJESTIIIIIII" url="-" img="-"
+ime="FOX News" url="http://50.7.69.170:1935/edge/_definst_/ohn58e97er36vjr/playlist.m3u8?wowzasessionid=1420123821" img="http://img1.wikia.nocookie.net/__cb20120407163458/logopedia/images/a/a6/Fox-news-logo-1.jpg"
 
 
 
