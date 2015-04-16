@@ -1,25 +1,19 @@
-ime="TEST channel" url="rtmp://$OPT:rtmp-raw=rtmpe://rtmp.zerocast.tv/redirect/tPjsURqsVo4NSe23EhJP swfUrl=http://cdn.zerocast.tv/player/jwplayer.flash.swf pageUrl=http://zerocast.in/embed.php?a=16 token=OOG17t.x#K9Vh#|" img="-"
-
+ime="DW Europa" url="http://www.metafilegenerator.de/DWelle/tv-europa/ios/master.m3u8" img="http://www.dw.de/cssi/dwlogo-print.gif"
+ime="DW Usa" url="http://www.metafilegenerator.de/DWelle/tv-northamerica/ios/master.m3u8" img="http://www.dw.de/cssi/dwlogo-print.gif"
 ime="DW-TV" 		url="http://hlsstr04.svc.iptv.rt.ru/hls/CH_DEUTSCHEWELLE/variant.m3u8?version=2" 		img="http://www.dw.de/cssi/dwlogo-print.gif"
 
-ime="VIASAT EXPLORER RU" 	url="http://hlsstr01.svc.iptv.rt.ru/hls/CH_VIASATEXPLORER/variant.m3u8?version=2" 		img="-"
+ime="VIASAT EXPLORER RU" 	url="http://hlsstr01.svc.iptv.rt.ru/hls/CH_VIASATEXPLORER/variant.m3u8?version=2" 		img="http://upload.wikimedia.org/wikipedia/en/5/59/Viasat_explorer.png"
 
-ime="VIASAT HISTORY RU" 	url="http://hlsstr02.svc.iptv.rt.ru/hls/CH_VIASATHISTORY/variant.m3u8?version=2" 		img="-"
+ime="VIASAT HISTORY RU" 	url="http://hlsstr02.svc.iptv.rt.ru/hls/CH_VIASATHISTORY/variant.m3u8?version=2" 		img="http://upload.wikimedia.org/wikipedia/en/0/0d/Viasat_history.png"
 
-ime="VIASAT NATURE RU" 	url="http://hlsstr03.svc.iptv.rt.ru/hls/CH_VIASATNATURE/variant.m3u8?version=2" 		img="-"
+ime="VIASAT NATURE RU" 	url="http://hlsstr03.svc.iptv.rt.ru/hls/CH_VIASATNATURE/variant.m3u8?version=2" 		img="http://logonoid.com/images/viasat-nature-logo.jpg"
 
 ime="test" url="plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=s0R5kwty3qY" img="-"
 
 ime="FOX MOVIES HD" url="http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8" img="-"
-
 ime="Sony SCI-FI" url="http://hls.svc.moyo.tv/hls/CH_SCI-FI/variant.m3u8?version=2" img="-"
-
 ime="Fox life" url="http://hls.svc.moyo.tv/hls/CH_FOXLIVE/variant.m3u8?version=2" img="-"
-
 ime="Diva universal" url="http://hls.svc.moyo.tv/hls/CH_DIVA_UNIVERSAL/variant.m3u8?version=2" img="-"
-
 ime="Universal channel" url="http://hls.svc.moyo.tv/hls/CH_UNIVERSAL/variant.m3u8?version=2" img="-"
 
-ime="nba test snimke 1" url="https://redirector.googlevideo.com/videoplayback?requiressl=yes&shardbypass=yes&cmbypass=yes&id=e06f372f1caacc54&itag=22&source=picasa&cmo=secure_transport=yes&ip=0.0.0.0&ipbits=0&expire=1431541999&sparams=requiressl,shardbypass,cmbypass,id,itag,source,ip,ipbits,expire&signature=28F03C8DAEF9F212D51A978CFCF6513BAFAD30D6.AEDFB2D0FFB3D4C665B6DA76FDEE025F86581439&key=lh1" img="http://www.logodesignlove.com/images/classic/nba-logo.jpg"
-ime="nba test snimke 2" url="https://r6---sn-jpm-15bs.googlevideo.com/videoplayback?requiressl=yes&shardbypass=yes&cmbypass=yes&id=00398ff2c1f13d21&itag=22&source=picasa&ipbits=0&expire=1431541164&sparams=cmbypass,expire,id,ip,ipbits,itag,mm,ms,mv,pl,requiressl,shardbypass,source&signature=6380C71440CD52F73AA7B7BC60E5A7AC48EB23A9.05EBBE4545382A91F14CCBC52C5F86FC81110CF7&key=cms1&cms_redirect=yes&mm=31&ms=au&mt=1428949189&mv=m&pl=21" img="http://www.logodesignlove.com/images/classic/nba-logo.jpg"
-ime="nba test snimke 3" url="https://redirector.googlevideo.com/videoplayback?requiressl=yes&shardbypass=yes&cmbypass=yes&id=00398ff2c1f13d21&itag=22&source=picasa&cmo=secure_transport=yes&ip=0.0.0.0&ipbits=0&expire=1431541164&sparams=requiressl,shardbypass,cmbypass,id,itag,source,ip,ipbits,expire&signature=30FEFE88E45BC28E9E6B8684C53A58D89C33AE0.B9D49B2A5EBF5FFC7A078036D0451DC5678DC1D5&key=lh1" img="http://www.logodesignlove.com/images/classic/nba-logo.jpg"
+ime="Test ace" url="plugin://plugin.video.p2p-streams/?url=acestream://419d44a6565ec562ec611d4d2622e19af4df035e&mode=1&name=acestream+BTSport1"
