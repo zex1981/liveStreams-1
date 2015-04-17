@@ -7,11 +7,11 @@ ime="Sport Klub 3 (acestream)" url="plugin://plugin.video.p2p-streams/?url=acest
 
 ime="Arena Sport 1 HD (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://a3243b48bb634ecd163dd2bdbdf722d10b2602bb&mode=1&name=Arena+Sport+1" img="http://upload.wikimedia.org/wikipedia/hr/f/fa/Arenasport1.png"
 ime="Arena Sport 1 (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://5678b6325f9ba4cd18bd89a67c692c73ec75f364&mode=1&name=acestream+ArenaSport1" img="http://upload.wikimedia.org/wikipedia/hr/f/fa/Arenasport1.png"
-ime="Arena Sport 3 (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://1e4f0431ba299f9cca2d2a364b88ee686ed8530e&mode=1&name=acestream+ArenaSport1" img="http://tv-online.in/wp-content/uploads/2013/11/Arena-Sport-3-live.jpg"
+ime="Arena Sport 3 (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://1e4f0431ba299f9cca2d2a364b88ee686ed8530e&mode=1&name=acestream+ArenaSport1" img="http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport3_s.gif"
 
 ime="Arena Sport 1" url="http://netiptv.dyndns.tv:80/live?channelId=39&uid=6&deviceUser=dreamsat&devicePass=pro001" img="http://upload.wikimedia.org/wikipedia/hr/f/fa/Arenasport1.png"
 ime="Arena Sport 2" url="http://netiptv.dyndns.tv:80/live?channelId=40&uid=6&deviceUser=dreamsat&devicePass=pro001" img="http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport2_s.gif"
-ime="Arena Sport 3" url="http://netiptv.dyndns.tv:80/live?channelId=41&uid=6&deviceUser=dreamsat&devicePass=pro001" img="http://tv-online.in/wp-content/uploads/2013/11/Arena-Sport-3-live.jpg"
+ime="Arena Sport 3" url="http://netiptv.dyndns.tv:80/live?channelId=41&uid=6&deviceUser=dreamsat&devicePass=pro001" img="http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport3_s.gif"
 ime="Arena Sport 4" url="http://netiptv.dyndns.tv:80/live?channelId=80&uid=6&deviceUser=dreamsat&devicePass=pro001" img="http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport4_s.gif"
 
 ime="Sport Klub 1" url="http://netiptv.dyndns.tv:80/live?channelId=81&uid=6&deviceUser=dreamsat&devicePass=pro001" img="http://www.sportklub.rs/img/pssk1.png"
