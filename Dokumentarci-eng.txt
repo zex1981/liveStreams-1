@@ -12,7 +12,7 @@ ime="Discovery ID" url="http://185.27.237.105:8082/TV0092" img="http://upload.wi
 ime="Discovery World" url="http://188.227.86.4:4022/udp/239.77.0.78:1234" img="http://www.examiner.com/images/blog/replicate/EXID41517/images/discovery_world_logo(1).jpg"
 ime="Discovery World" url="http://113.160.49.34/lives/origin03/discoveryhd.isml/discoveryhd-2096k.m3u8" img="http://www.examiner.com/images/blog/replicate/EXID41517/images/discovery_world_logo(1).jpg"
 
-ime="History Channel" url="http://92.50.181.6/tv/1145/index.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/history_us.jpg"
+ime="History Channel" url="http://cdn.iptv.amis.net/LIVE/CROHISTORYCH/stream_wifi_1200k.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/history_us.jpg"
 ime="Horse & Country" url="http://cdn.live.simplestream.com/coder5/coder.channels.channel5/hls/4/playlist.m3u8" img="http://www.britishdressage.co.uk/uploads/Image/horse%20and%20country.jpg"
 
 ime="NASA TV" url="http://media.infozen.cshls.lldns.net/infozen/media/media/media_1000.m3u8" img="http://www.nasa.gov/sites/default/files/files/tv_share.jpg"
