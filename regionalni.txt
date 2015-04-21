@@ -1,9 +1,5 @@
 ime="Al Jazeera Balkans" url="rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live playpath=aljazeera_balkans_high pageURL=http://english.aljazeera.net/watch_now/ app=aljazeeraflashlive-live?videoId=747084146001&lineUpId=&pubId=665003303001&playerId=751182905001&affiliateId= swfUrl=http://admin.brightcove.com/viewer/us1.24.04.08.2011-01-14072625/federatedVideoUI/BrightcovePlayer.swf swfVfy=true live=true" img="http://www.mojatv.ba/fileadmin/template/bht2008.1/mojatv/aljazeera_balkans1.png"
 ime="Al Jazeera Balkans" url="http://62.112.54.4/hls/al_jaz_balkan.m3u8" img="http://www.mojatv.ba/fileadmin/template/bht2008.1/mojatv/aljazeera_balkans1.png" 
-ime="Happy" url="http://player.telegraf.spectar.tv/kopernikus/_definst_/smil:HAPPY/playlist.m3u8?min" img="http://www.tv-logo.com/pt-data/uploads/images/logo/happy_tv_rs.jpg"
-ime="KCN 1" url="http://player.telegraf.spectar.tv/kopernikus/_definst_/smil:KCN1/playlist.m3u8?min" img="http://sezamprodukcija.com/pr/wp-content/uploads/2013/04/kcn1.jpg"
-ime="KCN 2" url="http://player.telegraf.spectar.tv/kopernikus/_definst_/smil:KCN2/playlist.m3u8?min" img="http://www.tvkcn.net/data/uploads/slide/k201.jpg"
-ime="KCN 3" url="http://player.telegraf.spectar.tv/kopernikus/_definst_/smil:KCN3/playlist.m3u8?min" img="http://www.tvkcn.net/data/uploads/slide/k303.jpg"
 ime="Lov i Ribolov" url="http://176.31.59.58:8081/live/LovRibolov/playlist.m3u8" img="http://www.lyngsat-logo.com/hires/ll/lov_i_ribolov_bg.png"
 ime="N1" url="http://185.20.36.234:8080/stream/?i=eb117e17ba42c629fff9f77a02e5f1&k=11a794d6dd1b647fd1d75eb7656ad6049a11236cabd09096a807c4c72d3c2a3f334039a40abee8e9b4668c3ab24aa336a99e2dc5b0333ab98c827378da05145d87543b45c9cc18d43c7a7c16887aed2ea635c20588eb069142205422af25b5dd4d0dfa828d1d6616af215b4dc7f629d884ee0ad28b14e7f64e0b69ffb868c163906d8d77ac3731ccbe4255cea57fda26121319819d6647ef&sp=n1info&u=n1info&player=m3u8" img="http://hr.n1info.com/Images/n1-logo2.png"
 ime="Pink 1" url="http://pinkovi.hits2hits.com/fastv_2psh/Pinkglobal_rly_greece_109/hits2hits.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/pink_1_rs.jpg"
@@ -25,8 +21,6 @@ ime="Pink Music 4" url="http://pinkovi.hits2hits.com/fastv_2psh/PinkMusic4global
 ime="Pink Parada" url="http://pinkovi.hits2hits.com/fastv_2psh/PinkMusic5global_rly_greece_103/hits2hits.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/pink_music.jpg"
 ime="Pink Pedia" url="http://pinkovi.hits2hits.com/fastv_2psh/PinkPediaglobal_rly_greece_103/hits2hits.m3u8" img="http://tvprofil.net/img/kanali-logo/pinkPedia.png"
 ime="Pink Premium" url="http://pinkovi.hits2hits.com/fastv_2psh/PinkPremiumglobal_rly_greece_103/hits2hits.m3u8" img="http://tvprofil.net/img/kanali-logo/pinkPremium.png"
-ime="RTS 1" url="http://player.telegraf.spectar.tv/kopernikus/_definst_/smil:RTS1/playlist.m3u8?min" img="http://www.tv-logo.com/pt-data/uploads/images/logo/rts_1.jpg"
-ime="RTS 2" url="http://player.telegraf.spectar.tv/kopernikus/_definst_/smil:RTS2/playlist.m3u8?min" img="http://www.tv-logo.com/pt-data/uploads/images/logo/rts_2.jpg"
 
 ime="RTS 1" url="http://109.122.121.21/live/rts_1.stream/playlist.m3u8?hash=3fa56c3e2787f3ef0dc65634559e7bbc3713bead" img="-"
 ime="RTS 2" url="http://109.122.121.21/live/rts_2.stream/playlist.m3u8?hash=3fa56c3e2787f3ef0dc65634559e7bbc3713bead" img="-"
