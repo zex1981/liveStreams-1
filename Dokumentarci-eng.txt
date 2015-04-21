@@ -1,10 +1,12 @@
 ime="Animal planet" url="http://sjc-uhls-vip01.ustream.tv/watch/playlist.m3u8?cid=12762028" img="http://www.tv-logo.com/pt-data/uploads/images/logo/animal_planet_europe.jpg"
-ime="Animal Planet SLO" url"=http://cdn.iptv.amis.net/LIVE/Animal/stream_wifi_1200k.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/animal_planet_europe.jpg"
+ime="Animal Planet SLO" url="http://cdn.iptv.amis.net/LIVE/Animal/stream_wifi_1200k.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/animal_planet_europe.jpg"
 ime="BBC One (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://304528e8bd201ae6eec3bb321ab3247f3f09366f&mode=1&name=BBC+One" img="http://upload.wikimedia.org/wikipedia/commons/1/1a/BBC_One_2002.png"
 ime="BBC Two (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://7c4d5ec7f9dcfb7c8d6bcc8bd942fae1971d20e4&mode=1&name=BBC+Two" img="http://i1.cdnds.net/10/24/broadcasting_bbc_two.jpg"
+ime="BBC Knowledge" url="http://cdn.iptv.amis.net/LIVE/BBCKnowledge/stream_wifi_1200k.m3u8" img="http://upload.wikimedia.org/wikipedia/en/thumb/8/8c/BBC_Knowledge.svg/410px-BBC_Knowledge.svg.png"
+
 ime="Discovery channel" url="http://185.27.237.105:8082/TV0059" img="http://www.stream2watch.com/images/thumbs/discovery%20live%20stream.jpg"
 ime="Discovery Theater" url="http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8" img="http://www.stream2watch.com/images/thumbs/discovery%20live%20stream.jpg"
-
+ime="DaVinci Learning" url="http://cdn.iptv.amis.net/ts/DaVinciLear/stream_wifi_1200k.m3u8" img="http://images.toggle.sg/images/110913074716_956X538.png"
 ime="Discovery ID" url="http://185.27.237.105:8082/TV0092" img="http://upload.wikimedia.org/wikipedia/en/e/ef/Discovery_ID.png"
 
 ime="Discovery Science" url="http://bit.do/26Z8" img="http://bigtv.pp.ua/img/Discovery%20Science.png"
