@@ -9,3 +9,27 @@ ime="HRT 4" url="http://213.5.58.58:1935/hrt_live/smil:hrt4.smil/chunklist_w1392
 ime="Sportska televizija" url="http://80.80.58.168:1935/sporttv/smil:sptv.smil/playlist.m3u8" img="http://4.bp.blogspot.com/-lUBuqPu-xOA/UbhMBtJBvOI/AAAAAAAAAvo/v-bxFIpioCw/s320/1.png"
 
 ime="Jabuka TV" url="http://iphone-streaming.ustream.tv/ustreamVideo/12591767/streams/live/playlist.m3u8" img="http://www.jabuka.tv/wp-content/uploads/2012/09/JABUKA_TV.jpg"
+
+ime="National Geographic" url="http://cdn.iptv.amis.net/LIVE/NGCCroatia/stream_wifi_1200k.m3u8" img="-"
+
+ime="Nat Geo Wild" url="http://cdn.iptv.amis.net/LIVE/NGCWildCRO/stream_wifi_1200k.m3u8" img="-"
+
+ime="Travel Channel" url="http://cdn.iptv.amis.net/LIVE/CROTRAVEL/stream_wifi_1200k.m3u8" img="-"
+
+ime="History Channel" url="http://cdn.iptv.amis.net/LIVE/CROHISTORYCH/stream_wifi_1200k.m3u8" img="-"
+
+ime="Viasat History" url="http://cdn.iptv.amis.net/LIVE/CROHISTORY/stream_wifi_1200k.m3u8" img="-"
+
+ime="Viasat Explore" url="http://cdn.iptv.amis.net/LIVE/CROEXPLORER/stream_wifi_1200k.m3u8" img="-"
+
+ime="Sportska televizija" url="http://80.80.58.168:1935/sporttv/smil:sptv.smil/playlist.m3u8" img="-"
+
+ime="RTL" url="http://cdn.iptv.amis.net/LIVE/RTLHrvatska/stream_wifi_1200k.m3u8" img="-"
+
+ime="RTL 2" url="http://cdn.iptv.amis.net/LIVE/RTL2Hrvatska/stream_wifi_1200k.m3u8" img="-"
+
+ime="RTL Living" url="http://cdn.iptv.amis.net/LIVE/RTLplus/stream_wifi_1200k.m3u8" img="-"
+
+ime="Sportska TV" url="http://wowza.h1telekom.hr:1935/sporttv/smil:sptv.smil/playlist.m3u8" img="-"
+
+ime="CMC" url="http://cdn.iptv.amis.net/LIVE/CMC/stream_wifi_1200k.m3u8" img="-"
