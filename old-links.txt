@@ -55,6 +55,13 @@ ime="RTRS" url="http://62.112.54.4/hls/rtrs.m3u8" img="http://www.tv-logo.com/pt
 ime="RTS SAT" url="http://62.112.54.4/hls/rts-sat.m3u8" img="http://www.dream-sat.at/web/images/stories/Foto/rts_sat.png" 
 ime="Valentino TV" url="http://62.112.54.4/hls/otv-valentino.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/tv_valentino.jpg" 
 
+ime="RTS 1" url="http://player.telegraf.spectar.tv/kopernikus/_definst_/smil:RTS1/playlist.m3u8?min" img="http://www.tv-logo.com/pt-data/uploads/images/logo/rts_1.jpg"
+ime="RTS 2" url="http://player.telegraf.spectar.tv/kopernikus/_definst_/smil:RTS2/playlist.m3u8?min" img="http://www.tv-logo.com/pt-data/uploads/images/logo/rts_2.jpg"
+ime="Happy" url="http://player.telegraf.spectar.tv/kopernikus/_definst_/smil:HAPPY/playlist.m3u8?min" img="http://www.tv-logo.com/pt-data/uploads/images/logo/happy_tv_rs.jpg"
+ime="KCN 1" url="http://player.telegraf.spectar.tv/kopernikus/_definst_/smil:KCN1/playlist.m3u8?min" img="http://sezamprodukcija.com/pr/wp-content/uploads/2013/04/kcn1.jpg"
+ime="KCN 2" url="http://player.telegraf.spectar.tv/kopernikus/_definst_/smil:KCN2/playlist.m3u8?min" img="http://www.tvkcn.net/data/uploads/slide/k201.jpg"
+ime="KCN 3" url="http://player.telegraf.spectar.tv/kopernikus/_definst_/smil:KCN3/playlist.m3u8?min" img="http://www.tvkcn.net/data/uploads/slide/k303.jpg"
+
 
 
 
