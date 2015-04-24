@@ -11,6 +11,9 @@ ime="Fox Life" url="http://176.52.178.23/2018/playlist.m3u8?stb_id=76408&uid=29d
 ime="HBO Films" url="rtmp://207.244.76.206/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php token=#ed%h0#w18623jsda6523lDGD" img="http://img2.wikia.nocookie.net/__cb20120618180714/logopedia/images/c/ce/HBO_Films_logo.png"
 ime="FOX 11 " url="http://93.184.221.133/00573D/1093/1093-0.m3u8" img="http://maranaegov.com/july4th/img/Fox-11-Logo.jpg"
 ime="Movies 4 Men" url="http://93.184.221.133/00573D/311/311-0.m3u8" img="http://takatuk.com/wp-content/uploads/2008/06/movies-4-men-m4m-logo.gif"
+ime="Fox Movies Action" url="http://103.242.13.66:5000/nn_live.ts?id=foxactionmovie-m-h" img="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_movies_hr.jpg"
+ime="Fox Movies" url="http://103.242.13.67:5000/nn_live.ts?id=foxmovies-m-h" img="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_movies_hr.jpg"
+ime="Fox Movies Premium HD" url="http://103.242.13.67:5000/nn_live.ts?id=foxmovies-m-h" img="http://farm8.staticflickr.com/7018/6530259863_e5a871a2ba_o.jpg"
 
 ime="VIJESTIIIIIII" url="-" img="-"
 ime="FOX News" url="http://50.7.69.170:1935/edge/_definst_/ohn58e97er36vjr/playlist.m3u8?wowzasessionid=1420123821" img="http://img1.wikia.nocookie.net/__cb20120407163458/logopedia/images/a/a6/Fox-news-logo-1.jpg"
