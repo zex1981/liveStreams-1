@@ -8,7 +8,6 @@ ime="Crime & Investigation" url="http://176.31.59.58:8081/live/CrimeInvestigatio
 ime="Discovery channel" url="http://185.27.237.105:8082/TV0059" img="http://www.stream2watch.com/images/thumbs/discovery%20live%20stream.jpg"
 ime="Discovery Theater" url="http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8" img="http://www.stream2watch.com/images/thumbs/discovery%20live%20stream.jpg"
 ime="DaVinci Learning" url="http://cdn.iptv.amis.net/ts/DaVinciLear/stream_wifi_1200k.m3u8" img="http://images.toggle.sg/images/110913074716_956X538.png"
-ime="Discovery ID" url="http://185.27.237.105:8082/TV0092" img="http://upload.wikimedia.org/wikipedia/en/e/ef/Discovery_ID.png"
 
 ime="Discovery World" url="http://188.227.86.4:4022/udp/239.77.0.78:1234" img="http://www.examiner.com/images/blog/replicate/EXID41517/images/discovery_world_logo(1).jpg"
 ime="Discovery World" url="http://113.160.49.34/lives/origin03/discoveryhd.isml/discoveryhd-2096k.m3u8" img="http://www.examiner.com/images/blog/replicate/EXID41517/images/discovery_world_logo(1).jpg"
