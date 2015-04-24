@@ -18,7 +18,6 @@ ime="Horse & Country" url="http://cdn.live.simplestream.com/coder5/coder.channel
 
 ime="NASA TV" url="http://media.infozen.cshls.lldns.net/infozen/media/media/media_1000.m3u8" img="http://www.nasa.gov/sites/default/files/files/tv_share.jpg"
 
-ime="National Geographic" url="http://103.242.13.67:5000/nn_live.ts?id=nationalgeographic-m-h" img="http://i0.wp.com/pmcvariety.files.wordpress.com/2014/05/national-geographic-channel-logo.jpg?crop=108px%2C56px%2C818px%2C455px&resize=670%2C377"
 ime="National Geographic Wild" url="http://hlsstr02.svc.iptv.rt.ru/hls/CH_NATGEOWILD/variant.m3u8?version=2" img="http://tvbythenumbers.zap2it.com/wp-content/uploads/2012/09/Nat-Geo-wild-new.jpg"
 ime="Outdoor Channel" url="http://cdn.iptv.amis.net/LIVE/OutdoorChannel/stream_wifi_1200k.m3u8" img="http://www.monticellolive.com/wp-content/uploads/2012/06/Outdoor-Channel-Logo.jpg"
 
