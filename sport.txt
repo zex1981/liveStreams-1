@@ -7,7 +7,6 @@ ime="Sport Klub 3 (acestream)" url="plugin://plugin.video.p2p-streams/?url=acest
 
 ime="Arena Sport 1" url="http://89.35.222.169:20000/ipvt_001" img="http://upload.wikimedia.org/wikipedia/hr/f/fa/Arenasport1.png"
 ime="Arena Sport 2" url="http://89.35.222.169:20000/ipvt_002" img="http://3.bp.blogspot.com/-jLqmPfxMt_8/VIyHhsZnVnI/AAAAAAAAALY/Sj8VLldd1p0/s1600/arena2.png"
-ime="Arena Sport 1" url="http://109.206.96.129:1935/live/arena1.stream/playlist.m3u8" img="http://upload.wikimedia.org/wikipedia/hr/f/fa/Arenasport1.png"
 
 ime="Arena Sport 1 HD (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://a3243b48bb634ecd163dd2bdbdf722d10b2602bb&mode=1&name=Arena+Sport+1" img="http://upload.wikimedia.org/wikipedia/hr/f/fa/Arenasport1.png"
 ime="Arena Sport 1 (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://5678b6325f9ba4cd18bd89a67c692c73ec75f364&mode=1&name=acestream+ArenaSport1" img="http://upload.wikimedia.org/wikipedia/hr/f/fa/Arenasport1.png"
@@ -17,7 +16,6 @@ ime="Eurosport 1 (Dual Audio)" url="http://hlsstr04.svc.iptv.rt.ru/hls/CH_EUROSP
 ime="Eurosport 1 HD (Dual Audio)" url="http://hlsstr04.svc.iptv.rt.ru/hls/CH_C02_EUROSPORTHD/variant.m3u8?version=2" img="http://www.smarttvradar.com/wp-content/uploads/2012/11/logoBritishEurosport.jpg"
 ime="Eurosport 2 (Dual Audio)" url="http://hlsstr02.svc.iptv.rt.ru/hls/CH_EUROSPORT2/variant.m3u8?version=2" img="http://images.bennetts.co.uk/PageFiles/11764/BritishEurosport.jpg"
 
-ime="BT Sport 1 " url="rtmp://80.82.78.39:443/liverepeater playpath=13 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=13&width=600&height=450 token=#atd%#$ZH" img="http://sport.bt.com/images/bt-sport-2-logo-136381974821910401-130801120415.jpg"
 ime="BT Sport 1 (acestream) " url="plugin://plugin.video.p2p-streams/?url=acestream://419d44a6565ec562ec611d4d2622e19af4df035e&mode=1&name=Arena+Sport+1" img="http://sport.bt.com/images/bt-sport-2-logo-136381974821910401-130801120415.jpg"
 ime="BT Sport 2 " url="rtmp://89.248.171.90:443/liverepeater playpath=15 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=15&width=600&height=450 token=#atd%#$ZH" img="http://sport.bt.com/images/bt-sport-2-logo-136381974821910401-130801120415.jpg"
 ime="BT Sport 2 " url="rtmp://31.220.0.206:1935/live/_definst_/btx22" img="http://sport.bt.com/images/bt-sport-2-logo-136381974821910401-130801120415.jpg"
@@ -81,10 +79,5 @@ ime="Sport time TV 4HD" url="rtmp://streamer.a1.net:1935/rtmplive/redundant/chan
 ime="Sport time TV 5HD" url="rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200" img="http://3.bp.blogspot.com/-4AF4qYRjs3w/VJARS9pOZwI/AAAAAAAAAPU/2-mAmReA2ww/s1600/s3.jpeg"
 ime="Sport time TV 6HD" url="rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200" img="http://3.bp.blogspot.com/-4AF4qYRjs3w/VJARS9pOZwI/AAAAAAAAAPU/2-mAmReA2ww/s1600/s3.jpeg"
 ime="Sport time TV 7HD" url="rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200" img="http://3.bp.blogspot.com/-4AF4qYRjs3w/VJARS9pOZwI/AAAAAAAAAPU/2-mAmReA2ww/s1600/s3.jpeg"
-
-ime="TSN 1" url="http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen8.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/tsn.jpg" 
-ime="TSN 3" url="http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/tsn.jpg"
-ime="TSN 4" url="http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open8.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/tsn.jpg"
-ime="TSN 5" url="http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN5Open8.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/tsn.jpg"
 
 
