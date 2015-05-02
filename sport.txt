@@ -1,8 +1,8 @@
 
 
 
-ime="Sport Klub 1 (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://a79fc539f691fedbc0c85c69bfc1acb285bb26e2&mode=1&name=acestream+SportKlub1" img="http://www.sportklub.rs/img/pssk1.png"
-ime="Sport Klub 2 (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://a6d9f4fad0adf8727c145b395d52b5a9432bcf0b&mode=1&name=acestream+SportKlub2" img="http://www.sportklub.rs/img/pssk2.png"
+ime="Sport Klub 1 (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://330613d3ebf6d7ad0577477c13b1d61e15b9693d&mode=1&name=acestream+SportKlub1" img="http://www.sportklub.rs/img/pssk1.png"
+ime="Sport Klub 2 (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://7624be80409aa0d307b9f5c68a6686461902ccb9&mode=1&name=acestream+SportKlub2" img="http://www.sportklub.rs/img/pssk2.png"
 ime="Sport Klub 3 (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://52908601d156e4ff620a7c6f5da3135f4844934e&mode=1&name=acestream+SportKlub3" img="http://www.sportklub.rs/img/pssk3.png"
 
 ime="Arena Sport 1" url="http://89.35.222.169:20000/ipvt_001" img="http://upload.wikimedia.org/wikipedia/hr/f/fa/Arenasport1.png"
@@ -33,8 +33,8 @@ ime="SkySports F1" url="rtmp://178.18.31.61:443/liverepeater playpath=191293 swf
 
 
 ime="SkySport 1 Germany (acestream)" url="plugin://plugin.video.p2p-streams/?url=43e2bbb8fb2bd6dbccacfa6e7adbd4dc4e184b56&mode=1&name=Sky+Sport+1" img="http://img2.wikia.nocookie.net/__cb20111117160432/logopedia/images/e/e7/Sky_Sport_1_Germany_2011.png"
-ime="Bein 1 France (acestream)" url="plugin://plugin.video.p2p-streams/?url=1c23f6125d756ecca36ca8967ab7a8543433f957&mode=1&name=BeIN+1" img="http://3.bp.blogspot.com/-0jSHXWvdVec/VAz5CZaqxlI/AAAAAAAACCQ/0ppCYPuE4OM/s1600/bein%2B1.png"
-ime="Bein 2 France (acestream)" url="plugin://plugin.video.p2p-streams/?url=5cf38454ebf2ffa99f8793ba138d2e7e1ee89afe&mode=1&name=BeIN+2" img="http://3.bp.blogspot.com/-I56U3a-u6cU/U_uqWMMDA2I/AAAAAAAAEeI/oCodiXScOJg/s1600/bein%2B2hd.png"
+ime="Bein 1 France (acestream)" url="plugin://plugin.video.p2p-streams/?url=c6c497a1755a30b3739d2d90a02ccaa00db1dedc&mode=1&name=BeIN+1" img="http://3.bp.blogspot.com/-0jSHXWvdVec/VAz5CZaqxlI/AAAAAAAACCQ/0ppCYPuE4OM/s1600/bein%2B1.png"
+ime="Bein 2 France (acestream)" url="plugin://plugin.video.p2p-streams/?url=0c0a330521c891d9017e884f47db46dadff0e2b2&mode=1&name=BeIN+2" img="http://3.bp.blogspot.com/-I56U3a-u6cU/U_uqWMMDA2I/AAAAAAAAEeI/oCodiXScOJg/s1600/bein%2B2hd.png"
 
 
 ime="ESPN" url="http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8" img="http://stacypaetz.com/wp-content/uploads/2014/07/espn-logo.jpg"
