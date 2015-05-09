@@ -2,7 +2,5 @@ ime="BabyTV" url="http://cdn.iptv.amis.net/LIVE/BabyTV/stream_wifi_1200k.m3u8" i
 ime="Baby TV" url="http://hlsstr03.svc.iptv.rt.ru/hls/CH_BABYTV/variant.m3u8" img="http://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png"
 ime="Boomerang" url="http://cdn.iptv.amis.net/LIVE/Boomerang/stream_wifi_1200k.m3u8" img="http://tvprofil.net/img/kanali-logo/boomerang-logo.png"
 ime="Cartoon Network" url="http://cdn.iptv.amis.net/LIVE/CartoonTCM/stream_wifi_1200k.m3u8" img="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/2000px-Cartoon_Network_2004_logo.svg.png"
-ime="Disney Channel" url="http://188.227.189.18:8082/TV0110" img="http://www.adweek.com/files/imagecache/node-inline-wide/outdoing-dischannel-logo-2014.jpg"
 ime="Disney Channel" url="http://cdn.iptv.amis.net/LIVE/CRODISNEY/stream_wifi_1200k.m3u8" img="http://www.adweek.com/files/imagecache/node-inline-wide/outdoing-dischannel-logo-2014.jpg"
 ime="Disney XD" url="http://cdn.iptv.amis.net/LIVE/DisneyXD/stream_wifi_1200k.m3u8" img="http://imageserver.moviepilot.com/-8a9cebc8-2879-4315-9926-6cd6d5744340.jpeg"
-ime="Disney XD" url="http://188.227.189.18:8082/TV0112" img="http://imageserver.moviepilot.com/-8a9cebc8-2879-4315-9926-6cd6d5744340.jpeg"
