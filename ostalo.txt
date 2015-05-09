@@ -1,19 +1,13 @@
 ime="DW Europa" url="http://www.metafilegenerator.de/DWelle/tv-europa/ios/master.m3u8" img="http://www.dw.de/cssi/dwlogo-print.gif"
 ime="DW Usa" url="http://www.metafilegenerator.de/DWelle/tv-northamerica/ios/master.m3u8" img="http://www.dw.de/cssi/dwlogo-print.gif"
-ime="DW-TV" 		url="http://hlsstr04.svc.iptv.rt.ru/hls/CH_DEUTSCHEWELLE/variant.m3u8?version=2" 		img="http://www.dw.de/cssi/dwlogo-print.gif"
+ime="DW-TV" url="http://hlsstr04.svc.iptv.rt.ru/hls/CH_DEUTSCHEWELLE/variant.m3u8?version=2" 		img="http://www.dw.de/cssi/dwlogo-print.gif"
 
-ime="VIASAT EXPLORER RU" 	url="http://hlsstr01.svc.iptv.rt.ru/hls/CH_VIASATEXPLORER/variant.m3u8?version=2" 		img="http://upload.wikimedia.org/wikipedia/en/5/59/Viasat_explorer.png"
+ime="Viasat Explorer RU" url="http://hlsstr01.svc.iptv.rt.ru/hls/CH_VIASATEXPLORER/variant.m3u8?version=2" 		img="http://upload.wikimedia.org/wikipedia/en/5/59/Viasat_explorer.png"
+ime="Viasat History RU"	url="http://hlsstr02.svc.iptv.rt.ru/hls/CH_VIASATHISTORY/variant.m3u8?version=2" 		img="http://upload.wikimedia.org/wikipedia/en/0/0d/Viasat_history.png"
+ime="Viasat Nature RU" url="http://hlsstr03.svc.iptv.rt.ru/hls/CH_VIASATNATURE/variant.m3u8?version=2" 		img="http://logonoid.com/images/viasat-nature-logo.jpg"
 
-ime="VIASAT HISTORY RU" 	url="http://hlsstr02.svc.iptv.rt.ru/hls/CH_VIASATHISTORY/variant.m3u8?version=2" 		img="http://upload.wikimedia.org/wikipedia/en/0/0d/Viasat_history.png"
-
-ime="VIASAT NATURE RU" 	url="http://hlsstr03.svc.iptv.rt.ru/hls/CH_VIASATNATURE/variant.m3u8?version=2" 		img="http://logonoid.com/images/viasat-nature-logo.jpg"
-
-ime="test" url="plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=s0R5kwty3qY" img="-"
-
-ime="FOX MOVIES HD" url="http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8" img="-"
+ime="Fox Movies HD" url="http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8" img="-"
 ime="Sony SCI-FI" url="http://hls.svc.moyo.tv/hls/CH_SCI-FI/variant.m3u8?version=2" img="-"
 ime="Fox life" url="http://hls.svc.moyo.tv/hls/CH_FOXLIVE/variant.m3u8?version=2" img="-"
 ime="Diva universal" url="http://hls.svc.moyo.tv/hls/CH_DIVA_UNIVERSAL/variant.m3u8?version=2" img="-"
 ime="Universal channel" url="http://hls.svc.moyo.tv/hls/CH_UNIVERSAL/variant.m3u8?version=2" img="-"
-
-ime="Test ace" url="plugin://plugin.video.p2p-streams/?url=acestream://419d44a6565ec562ec611d4d2622e19af4df035e&mode=1&name=acestream+BTSport1" img="-"
