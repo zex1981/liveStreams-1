@@ -8,26 +8,30 @@ ime="Sport Klub 3 (acestream)" url="plugin://plugin.video.p2p-streams/?url=acest
 ime="Arena Sport 1" url="http://89.35.222.169:20000/ipvt_001" img="http://upload.wikimedia.org/wikipedia/hr/f/fa/Arenasport1.png"
 ime="Arena Sport 2" url="http://89.35.222.169:20000/ipvt_002" img="http://3.bp.blogspot.com/-jLqmPfxMt_8/VIyHhsZnVnI/AAAAAAAAALY/Sj8VLldd1p0/s1600/arena2.png"
 
-ime="Arena Sport 1 HD (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://a3243b48bb634ecd163dd2bdbdf722d10b2602bb&mode=1&name=Arena+Sport+1" img="http://upload.wikimedia.org/wikipedia/hr/f/fa/Arenasport1.png"
-ime="Arena Sport 1 (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://5678b6325f9ba4cd18bd89a67c692c73ec75f364&mode=1&name=acestream+ArenaSport1" img="http://upload.wikimedia.org/wikipedia/hr/f/fa/Arenasport1.png"
-ime="Arena Sport 3 (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://1e4f0431ba299f9cca2d2a364b88ee686ed8530e&mode=1&name=acestream+ArenaSport1" img="http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport3_s.gif"
+ime="Arena Sport 1 (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://32f136d40d74cda2feda677f3fd05ce489782b1a&mode=1&name=Arena+Sport+1" img="http://upload.wikimedia.org/wikipedia/hr/f/fa/Arenasport1.png"
+ime="Arena Sport 2 (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://182ec07c110bb15b337a5d1d4972dd60ed58765c&mode=1&name=acestream+ArenaSport1" img="http://upload.wikimedia.org/wikipedia/hr/f/fa/Arenasport1.png"
+ime="Arena Sport 3 (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://3630bded6b8dceff67c8008450b4e1e82d28f9a7&mode=1&name=acestream+ArenaSport1" img="http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport3_s.gif"
 
 ime="Eurosport 1 (Dual Audio)" url="http://hlsstr04.svc.iptv.rt.ru/hls/CH_EUROSPORT/variant.m3u8?version=2" img="http://www.smarttvradar.com/wp-content/uploads/2012/11/logoBritishEurosport.jpg"
 ime="Eurosport 1 HD (Dual Audio)" url="http://hlsstr04.svc.iptv.rt.ru/hls/CH_C02_EUROSPORTHD/variant.m3u8?version=2" img="http://www.smarttvradar.com/wp-content/uploads/2012/11/logoBritishEurosport.jpg"
 ime="Eurosport 2 (Dual Audio)" url="http://hlsstr02.svc.iptv.rt.ru/hls/CH_EUROSPORT2/variant.m3u8?version=2" img="http://images.bennetts.co.uk/PageFiles/11764/BritishEurosport.jpg"
 
-ime="BT Sport 1 (acestream) " url="plugin://plugin.video.p2p-streams/?url=acestream://419d44a6565ec562ec611d4d2622e19af4df035e&mode=1&name=Arena+Sport+1" img="http://sport.bt.com/images/bt-sport-2-logo-136381974821910401-130801120415.jpg"
+ime="BT Sport 1 (acestream) " url="plugin://plugin.video.p2p-streams/?url=acestream://be3d2364098be07752ba6b200b087975e6bb2e09&mode=1&name=Arena+Sport+1" img="http://sport.bt.com/images/bt-sport-2-logo-136381974821910401-130801120415.jpg"
 ime="BT Sport 2 " url="rtmp://89.248.171.90:443/liverepeater playpath=15 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=15&width=600&height=450 token=#atd%#$ZH" img="http://sport.bt.com/images/bt-sport-2-logo-136381974821910401-130801120415.jpg"
 
-ime="SkySports 1 (acestream)" url="plugin://plugin.video.p2p-streams/?url=e6aaeb0c93c291a4cfe2c04d05c6b1e906f54955&mode=1&name=Sky+Sports+1" img="http://3.bp.blogspot.com/-_5hLpXCOCu0/VAW6b9Z5u3I/AAAAAAAAFUY/tiCj5Ilg6Fo/s1600/sky%2Bsports%2B1%2Blive%2Bmykora.png"
+ime="SkySports 1 (acestream)" url="plugin://plugin.video.p2p-streams/?url=559e5d70ef94ffb4f86694f2def482bb009759a1&mode=1&name=Sky+Sports+1" img="http://3.bp.blogspot.com/-_5hLpXCOCu0/VAW6b9Z5u3I/AAAAAAAAFUY/tiCj5Ilg6Fo/s1600/sky%2Bsports%2B1%2Blive%2Bmykora.png"
 ime="SkySports 2" url="rtmp://80.82.64.140:443/liverepeater playpath=48 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=48&width=600&height=450 token=#atd%#$ZH" img="http://4.bp.blogspot.com/-jYg8ovLGy-g/VAW6cF2XvII/AAAAAAAAFUc/PuxutEG0yto/s1600/sky%2Bsports%2B2%2Blive%2Bmykora.png"
-ime="SkySports 2 (acestream)" url="plugin://plugin.video.p2p-streams/?url=97518ab8451a5c9e8da2b92245ac0ea6622a519c&mode=1&name=Sky+Sports+2" img="http://4.bp.blogspot.com/-jYg8ovLGy-g/VAW6cF2XvII/AAAAAAAAFUc/PuxutEG0yto/s1600/sky%2Bsports%2B2%2Blive%2Bmykora.png"
-ime="SkySports 3 (acestream)" url="plugin://plugin.video.p2p-streams/?url=7f480a00ac478b65fb75cfdde76ef38ee151b887&mode=1&name=Sky+Sports+3" img="http://4.bp.blogspot.com/-7FewPVsDh7A/VAW6c2XPZTI/AAAAAAAAFUg/weBNX1d4Ly4/s1600/sky%2Bsports%2B3%2Blive%2Bmykora.png"
+ime="SkySports 2 (acestream)" url="plugin://plugin.video.p2p-streams/?url=0c245f8959582abea08cf4874fa35b7b3722c5bc&mode=1&name=Sky+Sports+2" img="http://4.bp.blogspot.com/-jYg8ovLGy-g/VAW6cF2XvII/AAAAAAAAFUc/PuxutEG0yto/s1600/sky%2Bsports%2B2%2Blive%2Bmykora.png"
+ime="SkySports 3 (acestream)" url="plugin://plugin.video.p2p-streams/?url=af824678202ec687837752c113f2deb5aba7d1be&mode=1&name=Sky+Sports+3" img="http://4.bp.blogspot.com/-7FewPVsDh7A/VAW6c2XPZTI/AAAAAAAAFUg/weBNX1d4Ly4/s1600/sky%2Bsports%2B3%2Blive%2Bmykora.png"
 ime="SkySports 4 (acestream)" url="plugin://plugin.video.p2p-streams/?url=203e4da82989736f8c324d588acc5d622ff6bfd3&mode=1&name=Sky+Sports+4" img="http://s25.postimg.org/dvmlvo5q7/sky_sports_4.png"
 ime="SkySports 5" url="rtmp://89.248.171.90:443/liverepeater playpath=31 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=31&width=600&height=450 token=#atd%#$ZH" img="http://www1.skysports.com/core/img/channels/Sky-Sports-5-Logo.png"
-ime="SkySports 5 (acestream)" url="plugin://plugin.video.p2p-streams/?url=e72bb7060e8e4780e65ed45e81bf09bf352f496b&mode=1&name=Sky+Sports+5" img="http://www1.skysports.com/core/img/channels/Sky-Sports-5-Logo.png"
+ime="SkySports 5 (acestream)" url="plugin://plugin.video.p2p-streams/?url=41975a9489f4de37f1afa31e5bd20a589817cf22&mode=1&name=Sky+Sports+5" img="http://www1.skysports.com/core/img/channels/Sky-Sports-5-Logo.png"
 
 ime="SkySports F1" url="rtmp://178.18.31.61:443/liverepeater playpath=191293 swfUrl=http://bernardotv.club/atdedead.swf pageUrl=http://biggestplayer.me/streamcr.php?id=183055&width=620&height=490 token=#atd%#%24ZH" img="http://vignette3.wikia.nocookie.net/f1wikia/images/7/77/SkySportsF1.png/revision/latest?cb=20140320200040"
+ime="SkySports F1 (acestream)" url="plugin://plugin.video.p2p-streams/?url=a6192e7122c79a02346f674f7f9d964e713f8194&mode=1&name=Sky+Sports+F1" img="http://vignette3.wikia.nocookie.net/f1wikia/images/7/77/SkySportsF1.png/revision/latest?cb=20140320200040"
+
+
+
 
 
 ime="SkySport 1 Germany (acestream)" url="plugin://plugin.video.p2p-streams/?url=43e2bbb8fb2bd6dbccacfa6e7adbd4dc4e184b56&mode=1&name=Sky+Sport+1" img="http://img2.wikia.nocookie.net/__cb20111117160432/logopedia/images/e/e7/Sky_Sport_1_Germany_2011.png"
@@ -49,8 +53,8 @@ ime="Fox Sports 2" url="http://103.242.13.66:5000/nn_live.ts?id=starsport-m-h" i
 ime="Fox sports 2" url="http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_lam_2.jpg"
 
 ime="NBA TV" url="rtmp://213.152.180.159:1935/stream/ playpath=0f5bZcQBIw.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=1474b4j5b5l5p393v416n274s214y2s2b424w2u2v2t24394&adx=&stream=6474b4j554f4t2u2n5a4t2k5644443n234m5z264u3a4t3o4v456t254w2q274w203p2t274x2z34303y3p2o5a4j5c574o3o4r4i2k4j4v5k474n33574a414p4h4z33456t2y3s2p2l51313s274d4z284236324q264m554o5v2r2m5a4u274t254a484g54484z2o2y2t2343434t2y3s2p224&sooor=Ng==&str=is&ok=&cat=2&link=1&idom=ifirstrow.eu" img="http://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1055px-NBA_TV.svg.png"
-ime="NBA TV HD (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://20f586f024788e9faaa56de3c4ba5977af8b5071&mode=1&name=NBA+HD" img="http://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1055px-NBA_TV.svg.png"
-ime="NBA TV (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://6cb64a8da93a64b473b50a5ad91a4214fe7d24ff&mode=1&name=NBA" img="http://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1055px-NBA_TV.svg.png"
+ime="NBA TV HD (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://6c1d2af61c40f3a7f58f346848f22658c652a212&mode=1&name=NBA+HD" img="http://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1055px-NBA_TV.svg.png"
+ime="NBA TV (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://b453a0d4d60cd2beb7cb0b079ae1403b93d22d43&mode=1&name=NBA" img="http://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1055px-NBA_TV.svg.png"
 
 
 ime="NTV+ Football 1" url="http://iptv4.zargacum.net/iptv/KEKNKTM4T4/124/index.m3u8" img="http://www.goalzz.com/images/amir_ganjvar/ntv1hd.jpg"
