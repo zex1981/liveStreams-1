@@ -1,12 +1,7 @@
-
-
-
 ime="Sport Klub 1 (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://330613d3ebf6d7ad0577477c13b1d61e15b9693d&mode=1&name=acestream+SportKlub1" img="http://www.sportklub.rs/img/pssk1.png"
 ime="Sport Klub 2 (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://7624be80409aa0d307b9f5c68a6686461902ccb9&mode=1&name=acestream+SportKlub2" img="http://www.sportklub.rs/img/pssk2.png"
 ime="Sport Klub 3 (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://52908601d156e4ff620a7c6f5da3135f4844934e&mode=1&name=acestream+SportKlub3" img="http://www.sportklub.rs/img/pssk3.png"
 
-ime="Arena Sport 1" url="http://89.35.222.169:20000/ipvt_001" img="http://upload.wikimedia.org/wikipedia/hr/f/fa/Arenasport1.png"
-ime="Arena Sport 2" url="http://89.35.222.169:20000/ipvt_002" img="http://3.bp.blogspot.com/-jLqmPfxMt_8/VIyHhsZnVnI/AAAAAAAAALY/Sj8VLldd1p0/s1600/arena2.png"
 
 ime="Arena Sport 1 (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://32f136d40d74cda2feda677f3fd05ce489782b1a&mode=1&name=Arena+Sport+1" img="http://upload.wikimedia.org/wikipedia/hr/f/fa/Arenasport1.png"
 ime="Arena Sport 2 (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://182ec07c110bb15b337a5d1d4972dd60ed58765c&mode=1&name=acestream+ArenaSport1" img="http://upload.wikimedia.org/wikipedia/hr/f/fa/Arenasport1.png"
