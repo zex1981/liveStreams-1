@@ -1,3 +1,13 @@
+ime="SLO 1" url="http://cdn.iptv.amis.net/ts/Slo1/stream_wifi_11200k.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/rtv_slo1.jpg"
+ime="SLO 2" url="http://cdn.iptv.amis.net/ts/Slo2/stream_wifi_11200k.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/rtv_slo2.jpg"
+ime="POP TV" url="http://cdn.iptv.amis.net/ts/PopTV/stream_wifi_11200k.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/pop_tv_si.jpg"
+ime="Kanal A" url="http://cdn.iptv.amis.net/ts/KanalA/stream_wifi_11200k.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal_a_tr.jpg"
+ime="TV3 Medias" url="http://cdn.iptv.amis.net/ts/PinkTV3/stream_wifi_11200k.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/tv3_medias_si.jpg"
+ime="Planet TV" url="http://pcdn-07.sdn.si/22ba7f2471e9f5e894f3c50f4f16ea68/planettv/planettv.isml/planettv-video=2500000-audio101%3D128000.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/planet_tv_si.jpg"
+ime="Hayat PLUS" url="http://cdn.iptv.amis.net/ts/Hayat/stream_wifi_11200k.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/hayat_plus.jpg"
+ime="RTS Sat" url="http://cdn.iptv.amis.net/ts/RTSrbije/stream_wifi_11200k.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/rts_sat.jpg"
+
+
 ime="Al Jazeera Balkans" url="rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live playpath=aljazeera_balkans_high pageURL=http://english.aljazeera.net/watch_now/ app=aljazeeraflashlive-live?videoId=747084146001&lineUpId=&pubId=665003303001&playerId=751182905001&affiliateId= swfUrl=http://admin.brightcove.com/viewer/us1.24.04.08.2011-01-14072625/federatedVideoUI/BrightcovePlayer.swf swfVfy=true live=true" img="http://www.mojatv.ba/fileadmin/template/bht2008.1/mojatv/aljazeera_balkans1.png"
 ime="Al Jazeera Balkans" url="http://62.112.54.4/hls/al_jaz_balkan.m3u8" img="http://www.mojatv.ba/fileadmin/template/bht2008.1/mojatv/aljazeera_balkans1.png" 
 ime="Lov i Ribolov" url="http://176.31.59.58:8081/live/LovRibolov/playlist.m3u8" img="http://www.lyngsat-logo.com/hires/ll/lov_i_ribolov_bg.png"
