@@ -9,5 +9,3 @@ ime="Viasat Nature RU" url="http://hlsstr03.svc.iptv.rt.ru/hls/CH_VIASATNATURE/v
 ime="Fox Movies HD" url="http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8" img="-"
 ime="Sony SCI-FI" url="http://hls.svc.moyo.tv/hls/CH_SCI-FI/variant.m3u8?version=2" img="-"
 ime="Fox life" url="http://hls.svc.moyo.tv/hls/CH_FOXLIVE/variant.m3u8?version=2" img="-"
-ime="Diva universal" url="http://hls.svc.moyo.tv/hls/CH_DIVA_UNIVERSAL/variant.m3u8?version=2" img="-"
-ime="Universal channel" url="http://hls.svc.moyo.tv/hls/CH_UNIVERSAL/variant.m3u8?version=2" img="-"
