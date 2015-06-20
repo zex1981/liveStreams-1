@@ -52,22 +52,15 @@ ime="NBA TV HD (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestrea
 ime="NBA TV (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://b453a0d4d60cd2beb7cb0b079ae1403b93d22d43&mode=1&name=NBA" img="http://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1055px-NBA_TV.svg.png"
 
 
-ime="NTV+ Football 1" url="http://iptv4.zargacum.net/iptv/KEKNKTM4T4/124/index.m3u8" img="http://www.goalzz.com/images/amir_ganjvar/ntv1hd.jpg"
 ime="NTV+ Football 1" url="http://hls01-07.az.myvideo.az/hls-live/livepkgr/ntvfootball/ntvfootball/ntvfootball.m3u8?seyirturk=fb:simpletvipadresleri3" img="http://www.goalzz.com/images/amir_ganjvar/ntv1hd.jpg"
 ime="NTV+ Football 1 HD" url="http://46.61.226.18/hls/CH_FUTBALL1HD/bw3000000/variant.m3u8?version=2" img="http://www.goalzz.com/images/amir_ganjvar/ntv1hd.jpg"
-ime="NTV+ Football 2" url="http://iptv4.zargacum.net/iptv/EP36AAGWQQ7RT6/530/index.m3u8" img="http://www.livegoli.com/templates/livegoli/images/tv/ntvfutbol2.png"
 ime="NTV+ Football 2 HD" url="http://46.61.226.18/hls/CH_FUTBALL2HD/bw3000000/variant.m3u8?version=2" img="http://www.livegoli.com/templates/livegoli/images/tv/ntvfutbol2.png"
-ime="NTV+ Football 3" url="http://iptv4.zargacum.net/iptv/KEKNKTM4T4/522/index.m3u8" img="http://2.bp.blogspot.com/-6DpuSamxRG0/VRFN2e7P--I/AAAAAAAAB1g/jWeVzVnGVq0/s1600/ntv%2B1123.png"
 ime="NTV+ Football 3 HD" url="http://46.61.226.18/hls/CH_FUTBALL3HD/bw3000000/variant.m3u8?version=2" img="http://2.bp.blogspot.com/-6DpuSamxRG0/VRFN2e7P--I/AAAAAAAAB1g/jWeVzVnGVq0/s1600/ntv%2B1123.png"
 ime="NTV+ Sport plus" url="http://hlsstr03.svc.iptv.rt.ru/hls/CH_NTVPLUSPORT/variant.m3u8?version=2" img="http://www.television.lv/wp-content/uploads/2014/07/ntv-plus-sport.jpg"
 ime="NTV+ Basketball" url="http://hlsstr02.svc.iptv.rt.ru/hls/CH_NTVPLUSBASKETBOL/variant.m3u8?version=2" img="http://www.lyngsat-logo.com/logo/tv/nn/ntv_plus_basketbol.png"
 
 ime="PAC National HD" url="http://xrxs.net/video/live-p12netw-2328.m3u8" img="http://cdn.fansided.com/wp-content/blogs.dir/276/files/2014/02/Pac12.jpg"
 ime="PAC National Full HD" url="http://xrxs.net/video/live-p12netw-4728.m3u8" img="http://cdn.fansided.com/wp-content/blogs.dir/276/files/2014/02/Pac12.jpg"
-
-ime="Sport TV 1 (SLO)" url="http://cdn.iptv.amis.net/ts/SportKlub/stream_wifi_1200k.m3u8" img="https://pbs.twimg.com/profile_images/3064802524/ddcaa8156ffaf29c00ec0bd068f95b4f.jpeg"
-
-ime="Sport TV 2 (SLO)" url="http://cdn.iptv.amis.net/ts/S2/stream_wifi_1200k.m3u8" img="https://pbs.twimg.com/profile_images/3064802524/ddcaa8156ffaf29c00ec0bd068f95b4f.jpeg"
 
 ime="Sport" url="http://hlsstr01.svc.iptv.rt.ru/hls/CH_SPORT/variant.m3u8?version=2" img="http://www.tv-logo.com/pt-data/uploads/images/logo/sport1_ua.jpg"
 ime="Sport 1" url="http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2" img="http://www.tv-logo.com/pt-data/uploads/images/logo/sport1_ua.jpg"
@@ -80,5 +73,3 @@ ime="Sport time TV 4HD" url="rtmp://streamer.a1.net:1935/rtmplive/redundant/chan
 ime="Sport time TV 5HD" url="rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200" img="http://3.bp.blogspot.com/-4AF4qYRjs3w/VJARS9pOZwI/AAAAAAAAAPU/2-mAmReA2ww/s1600/s3.jpeg"
 ime="Sport time TV 6HD" url="rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200" img="http://3.bp.blogspot.com/-4AF4qYRjs3w/VJARS9pOZwI/AAAAAAAAAPU/2-mAmReA2ww/s1600/s3.jpeg"
 ime="Sport time TV 7HD" url="rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200" img="http://3.bp.blogspot.com/-4AF4qYRjs3w/VJARS9pOZwI/AAAAAAAAAPU/2-mAmReA2ww/s1600/s3.jpeg"
-
-
