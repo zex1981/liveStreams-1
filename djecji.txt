@@ -1,3 +1,8 @@
-ime="BabyTV" url="http://cdn.iptv.amis.net/LIVE/BabyTV/stream_wifi_1200k.m3u8" img="http://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png"
+
 ime="Baby TV" url="http://hlsstr03.svc.iptv.rt.ru/hls/CH_BABYTV/variant.m3u8" img="http://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png"
 ime="Cartoon Network" url="http://113.160.49.34/lives/origin03/cartoonsd.isml/cartoonsd.m3u8" img="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/2000px-Cartoon_Network_2004_logo.svg.png"
+ime="Tom&Jerry" url="rtmp://208.53.180.218/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html" img="http://www.bh-index.com/wp-content/uploads/2015/04/maxresdefault.jpg"
+
+ime="JimJam" url="http://212.220.30.219/hls/CH_JIMJAM/bw1500000/variant.m3u8?version=2" img="http://thewatchtv.com/wp-content/uploads/2013/04/Watch-Polsat-JimJam-Live-TV-from-Poland.jpg"
+
+ime="Niclelodeon DE" url="http://pebbles105-lh.akamaihd.net/i/nickcc_1@97455/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21" img="http://4.bp.blogspot.com/-BbPuy3NOYO8/UHHB3ujJadI/AAAAAAAABMI/k-obhzXndiY/s1600/Nickelodeon_logo.png"
