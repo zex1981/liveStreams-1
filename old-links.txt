@@ -1,3 +1,23 @@
+ime="HRVATSKI" url="-" img="-"
+ime="CBS Reality" url="http://cdn.iptv.amis.net/LIVE/CROREALITY/stream_wifi_1200k.m3u8" img="http://tvprofil.net/img/kanali-logo/CBS-REALITY.png"
+ime="CMC" url="http://cdn.iptv.amis.net/LIVE/CMC/stream_wifi_1200k.m3u8" img="http://tvprofil.net/img/kanali-logo/cmc-logo.png"
+ime="FOX Crime" url="http://cdn.iptv.amis.net/LIVE/FOXCRIMEHRVATSKA/stream_wifi_1200k.m3u8" img="http://tvprofil.net/img/kanali-logo/fox-crime-logo.png"
+ime="FOX Life" url="http://cdn.iptv.amis.net/LIVE/FOXLIFEHRVATSKA/stream_wifi_1200k.m3u8" img="http://tvprofil.net/img/kanali-logo/fox-life-logo.PNG"
+ime="History Channel" url="http://cdn.iptv.amis.net/LIVE/CROHISTORYCH/stream_wifi_1200k.m3u8" img="http://tvprofil.net/img/kanali-logo/history-logo.png"
+ime="Klasik TV" url="http://cdn.iptv.amis.net/LIVE/KlasikTV/stream_wifi_1200k.m3u8" img="http://tvprofil.net/img/kanali-logo/klasiktv-logo.png"
+ime="MTV Adria" url="http://cdn.iptv.amis.net/LIVE/MTV/stream_wifi_1200k.m3u8" img="http://tvprofil.net/img/kanali-logo/mtv-logo.png"
+ime="National Geographic" url="http://cdn.iptv.amis.net/LIVE/NGCCroatia/stream_wifi_1200k.m3u8" img="http://tvprofil.net/img/kanali-logo/nat-geographic-logo.png"
+ime="National Geographic Wild" url="http://cdn.iptv.amis.net/LIVE/NGCWildCRO/stream_wifi_1200k.m3u8" img="http://tvprofil.net/img/kanali-logo/nat-geo-wild-logo.png"
+ime="RTL" url="http://cdn.iptv.amis.net/LIVE/RTLHrvatska/stream_wifi_1200k.m3u8" img="http://www.web-tv-portal.de/img/fernsehen/rtl-logo.png"
+ime="RTL 2" url="http://cdn.iptv.amis.net/LIVE/RTL2Hrvatska/stream_wifi_1200k.m3u8" img="http://tvprofil.net/img/kanali-logo/RTL2-logo.png"
+ime="RTL Living" url="http://cdn.iptv.amis.net/LIVE/RTLplus/stream_wifi_1200k.m3u8" img="http://tvprofil.net/img/kanali-logo/RTL_Living_logo.png"
+ime="Travel Channel" url="http://cdn.iptv.amis.net/LIVE/CROTRAVEL/stream_wifi_1200k.m3u8" img="http://tvprofil.net/img/kanali-logo/travel-channel-logo.png"
+ime="Universal Channel" url="http://cdn.iptv.amis.net/ts/UniversalChannelCRO/stream_wifi_1200k.m3u8" img="http://tvprofil.net/img/kanali-logo/universal-channel-logo.png"
+ime="Viasat History" url="http://cdn.iptv.amis.net/LIVE/CROHISTORY/stream_wifi_1200k.m3u8" img="http://tvprofil.net/img/kanali-logo/viasat-history.png"
+ime="Viasat Explore" url="http://cdn.iptv.amis.net/LIVE/CROEXPLORER/stream_wifi_1200k.m3u8" img="http://tvprofil.net/img/kanali-logo/viasat-explore.png"
+
+
+
 ime="FILMSKIIIIIIIIII" url="-" img="-"
 ime="24/7 HD Movies 1" url="http://50.7.69.170:1935/edge/_definst_/asn0crzhq351g0w/playlist.m3u8?wowzasessionid=1420171902" img="http://www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg"
 ime="24/7 HD Movies 2" url="http://50.7.69.170:1935/edge/_definst_/3mu6xhoy4xa8l7w/playlist.m3u8?wowzasessionid=1420172620" img="http://www.thecomicbookcast.com/wordpress/wp-content/uploads/2014/07/movie-logo.jpg"
