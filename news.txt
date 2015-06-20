@@ -4,4 +4,4 @@ ime="BBC World" url="http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/l
 ime="Bloomberg" url="http://cdn3.videos.bloomberg.com/btv/us/master.m3u8" img="http://cdn.gotraffic.net/custom_contents/bloombergonblack.jpg?v=20150112_141850"
 ime="CNBC" url="http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_,264,528,828,.m3u8" img="http://talkingbiznews.com/wp-content/uploads/2013/06/CNBC.png"
 ime="CNN" url="http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_,264,528,828,.m3u8" img="https://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED.png"
-ime="CNN International" url="http://cdn.iptv.amis.net/LIVE/CNN/stream_wifi_1200k.m3u8" img="https://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED.png"
+
