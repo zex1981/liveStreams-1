@@ -85,6 +85,15 @@ ime="KCN 1" url="http://player.telegraf.spectar.tv/kopernikus/_definst_/smil:KCN
 ime="KCN 2" url="http://player.telegraf.spectar.tv/kopernikus/_definst_/smil:KCN2/playlist.m3u8?min" img="http://www.tvkcn.net/data/uploads/slide/k201.jpg"
 ime="KCN 3" url="http://player.telegraf.spectar.tv/kopernikus/_definst_/smil:KCN3/playlist.m3u8?min" img="http://www.tvkcn.net/data/uploads/slide/k303.jpg"
 
+ime="SLO 1" url="http://cdn.iptv.amis.net/ts/Slo1/stream_wifi_11200k.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/rtv_slo1.jpg"
+ime="SLO 2" url="http://cdn.iptv.amis.net/ts/Slo2/stream_wifi_11200k.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/rtv_slo2.jpg"
+ime="POP TV" url="http://cdn.iptv.amis.net/ts/PopTV/stream_wifi_11200k.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/pop_tv_si.jpg"
+ime="Kanal A" url="http://cdn.iptv.amis.net/ts/KanalA/stream_wifi_11200k.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal_a_tr.jpg"
+ime="TV3 Medias" url="http://cdn.iptv.amis.net/ts/PinkTV3/stream_wifi_11200k.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/tv3_medias_si.jpg"
+ime="Hayat PLUS" url="http://cdn.iptv.amis.net/ts/Hayat/stream_wifi_11200k.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/hayat_plus.jpg"
+ime="RTS Sat" url="http://cdn.iptv.amis.net/ts/RTSrbije/stream_wifi_11200k.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/rts_sat.jpg"
+
+
 
 
 
