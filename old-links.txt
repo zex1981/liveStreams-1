@@ -1,3 +1,14 @@
+ime="Horse & Country" url="http://llnw.live.simplestream.com/coder3/coder.channels.channel5/hls/3/playlist.m3u8" img="http://www.britishdressage.co.uk/uploads/Image/horse%20and%20country.jpg"
+
+ime="NASA TV" url="http://media.infozen.cshls.lldns.net/infozen/media/media/media_1000.m3u8" img="http://www.nasa.gov/sites/default/files/files/tv_share.jpg"
+ime="Outdoor Channel" url="http://cdn.iptv.amis.net/LIVE/OutdoorChannel/stream_wifi_1200k.m3u8" img="http://www.monticellolive.com/wp-content/uploads/2012/06/Outdoor-Channel-Logo.jpg"
+ime="BBC One (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://304528e8bd201ae6eec3bb321ab3247f3f09366f&mode=1&name=BBC+One" img="http://upload.wikimedia.org/wikipedia/commons/1/1a/BBC_One_2002.png"
+ime="BBC Two (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://7c4d5ec7f9dcfb7c8d6bcc8bd942fae1971d20e4&mode=1&name=BBC+Two" img="http://i1.cdnds.net/10/24/broadcasting_bbc_two.jpg"
+
+ime="Fox Life HD (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://4f831a2ae4b5daa954a068b9a854def82cf20261&mode=1&name=FOX+Life+HD" img="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_life_lam.jpg"
+ime="Hallmark" url="http://50.7.69.170:1935/edge/_definst_/v4ynnryunsoxzbq/playlist.m3u8?wowzasessionid=1419874236" img="http://www.broadbandtvnews.com/wp-content/uploads/2011/06/hallmark_channel_logo.jpg"
+
+
 ime="HRVATSKI" url="-" img="-"
 ime="CBS Reality" url="http://cdn.iptv.amis.net/LIVE/CROREALITY/stream_wifi_1200k.m3u8" img="http://tvprofil.net/img/kanali-logo/CBS-REALITY.png"
 ime="CMC" url="http://cdn.iptv.amis.net/LIVE/CMC/stream_wifi_1200k.m3u8" img="http://tvprofil.net/img/kanali-logo/cmc-logo.png"
@@ -34,6 +45,23 @@ ime="Movies 4 Men" url="http://93.184.221.133/00573D/311/311-0.m3u8" img="http:/
 ime="Fox Movies Action" url="http://103.242.13.66:5000/nn_live.ts?id=foxactionmovie-m-h" img="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_movies_hr.jpg"
 ime="Fox Movies" url="http://103.242.13.67:5000/nn_live.ts?id=foxmovies-m-h" img="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_movies_hr.jpg"
 ime="Fox Movies Premium HD" url="http://103.242.13.67:5000/nn_live.ts?id=foxmovies-m-h" img="http://farm8.staticflickr.com/7018/6530259863_e5a871a2ba_o.jpg"
+
+ime="Sky Movies Premiere" url="http://188.227.189.18:8082/TV4251" img="http://www.sky.com/mysky/export/sites/www.sky.com/mysky/__Images/latestnews/SkyMoviesApp_185x150.jpg_380694475.jpg"
+ime="Sky Movies Premiere+" url="http://188.227.189.18:8082/TV4252" img="http://www.sky.com/mysky/export/sites/www.sky.com/mysky/__Images/latestnews/SkyMoviesApp_185x150.jpg_380694475.jpg"
+ime="Sky Movies Select" url="http://188.227.189.18:8082/TV4254" img="http://www.sky.com/mysky/export/sites/www.sky.com/mysky/__Images/latestnews/SkyMoviesApp_185x150.jpg_380694475.jpg"
+ime="Sky Movies Action & Adventure" url="http://188.227.189.18:8082/TV4245" img="http://www.sky.com/mysky/export/sites/www.sky.com/mysky/__Images/latestnews/SkyMoviesApp_185x150.jpg_380694475.jpg"
+ime="Sky Movies Comedy" url="http://188.227.189.18:8082/TV4246" img="http://www.sky.com/mysky/export/sites/www.sky.com/mysky/__Images/latestnews/SkyMoviesApp_185x150.jpg_380694475.jpg"
+ime="Sky Movies Disney" url="http://188.227.189.18:8082/TV4247" img="http://www.sky.com/mysky/export/sites/www.sky.com/mysky/__Images/latestnews/SkyMoviesApp_185x150.jpg_380694475.jpg"
+ime="Sky Movies Family" url="http://188.227.189.18:8082/TV4248" img="http://www.sky.com/mysky/export/sites/www.sky.com/mysky/__Images/latestnews/SkyMoviesApp_185x150.jpg_380694475.jpg"
+ime="Sky Movies Family" url="http://188.227.189.18:8082/TV4249" img="http://www.sky.com/mysky/export/sites/www.sky.com/mysky/__Images/latestnews/SkyMoviesApp_185x150.jpg_380694475.jpg"
+ime="Sky Movies Premiere" url="http://188.227.189.18:8082/TV4251" img="http://www.sky.com/mysky/export/sites/www.sky.com/mysky/__Images/latestnews/SkyMoviesApp_185x150.jpg_380694475.jpg"
+ime="Sky Movies Premiere+" url="http://188.227.189.18:8082/TV4252" img="http://www.sky.com/mysky/export/sites/www.sky.com/mysky/__Images/latestnews/SkyMoviesApp_185x150.jpg_380694475.jpg"
+ime="Sky Sky Movies Select" url="http://188.227.189.18:8082/TV4254" img="http://www.sky.com/mysky/export/sites/www.sky.com/mysky/__Images/latestnews/SkyMoviesApp_185x150.jpg_380694475.jpg"
+ime="Sky Movies Action & Adventure" url="http://188.227.189.18:8082/TV4245" img="http://www.sky.com/mysky/export/sites/www.sky.com/mysky/__Images/latestnews/SkyMoviesApp_185x150.jpg_380694475.jpg"
+ime="Sky Movies Comedy" url="http://188.227.189.18:8082/TV4246" img="http://www.sky.com/mysky/export/sites/www.sky.com/mysky/__Images/latestnews/SkyMoviesApp_185x150.jpg_380694475.jpg"
+ime="Sky Movies Disney" url="http://188.227.189.18:8082/TV4247" img="http://www.sky.com/mysky/export/sites/www.sky.com/mysky/__Images/latestnews/SkyMoviesApp_185x150.jpg_380694475.jpg"
+ime="Sky Movies Family" url="http://188.227.189.18:8082/TV4248" img="http://www.sky.com/mysky/export/sites/www.sky.com/mysky/__Images/latestnews/SkyMoviesApp_185x150.jpg_380694475.jpg"
+ime="Sky Movies SciFi" url="http://188.227.189.18:8082/TV4248" img="http://www.sky.com/mysky/export/sites/www.sky.com/mysky/__Images/latestnews/SkyMoviesApp_185x150.jpg_380694475.jpg"
 
 ime="VIJESTIIIIIII" url="-" img="-"
 ime="FOX News" url="http://50.7.69.170:1935/edge/_definst_/ohn58e97er36vjr/playlist.m3u8?wowzasessionid=1420123821" img="http://img1.wikia.nocookie.net/__cb20120407163458/logopedia/images/a/a6/Fox-news-logo-1.jpg"
