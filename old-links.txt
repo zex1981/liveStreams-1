@@ -106,3 +106,8 @@ ime="Yesterday" url="http://93.184.221.133/00573D/294/294-0.m3u8" img="http://ye
 
 ime="DJECJIIIIIIIIII" url="-" img="-"
 ime="Jimjam" url="http://185.38.12.20:8088/jimjam/" img="http://logonoid.com/images/jimjam-logo.jpg"
+ime="Boomerang" url="http://cdn.iptv.amis.net/LIVE/Boomerang/stream_wifi_1200k.m3u8" img="http://tvprofil.net/img/kanali-logo/boomerang-logo.png"
+
+ime="Disney Channel" url="http://cdn.iptv.amis.net/LIVE/CRODISNEY/stream_wifi_1200k.m3u8" img="http://www.adweek.com/files/imagecache/node-inline-wide/outdoing-dischannel-logo-2014.jpg"
+ime="Disney XD" url="http://cdn.iptv.amis.net/LIVE/DisneyXD/stream_wifi_1200k.m3u8" img="http://imageserver.moviepilot.com/-8a9cebc8-2879-4315-9926-6cd6d5744340.jpeg"
+ime="Cartoon Network" url="http://cdn.iptv.amis.net/LIVE/CartoonTCM/stream_wifi_1200k.m3u8" img="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/2000px-Cartoon_Network_2004_logo.svg.png"
