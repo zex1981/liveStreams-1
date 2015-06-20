@@ -1,13 +1,14 @@
 
 ime="MTV" url="rtmp://83.218.202.202/live swfUrl=http://webtv.md/swf/WebTV.swf playpath=wt_mtv.stream" img="http://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/2000px-MTV_Logo.svg.png"
 
-ime="MTV Music" url="http://93.184.221.133/00573D/1345/1345-0.m3u8" img="http://upload.wikimedia.org/wikipedia/en/1/1f/MTV_Music_logo_2013.png"
+ime="MTV Live HD" url="http://46.61.226.18/hls/CH_C03_MTVLIVEHD/bw3000000/variant.m3u8?version=2" img="http://upload.wikimedia.org/wikipedia/en/1/1f/MTV_Music_logo_2013.png"
 
 ime="MTV Dance" url="http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVDANCE/variant.m3u8?b?b*t$" img="http://www.stream2watch.com/images/thumbs/mtv%20dance%20live%20stream.gif"
 
 ime="MTV Rocks" url="http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8" img="http://mtvdigital.de/images/channel/logos_onwhite_rgb_mtvrocks.jpg"
 
 ime="MTV Hits" url="http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVHITS/variant.m3u8" img="http://static.timefor.tv/imgs/epg/logos/mtvhits_big.png"
+ime="Virgin Radio" url="rtmp://fms.105.net:1935/live/virgin1" img="https://upload.wikimedia.org/wikipedia/en/d/d1/VirginRadio.png"
 
 ime="Mezzo" url="http://hlsstr02.svc.iptv.rt.ru/hls/CH_MEZZO/variant.m3u8?version=2" img="http://cdn-premiere.ladmedia.fr/var/premiere/storage/images/tele/news-tele/mezzo-la-chaine-passe-en-clair-sur-la-bbox-du-9-novembre-au-9-decembre-2010/37060894-1-fre-FR/Mezzo-La-chaine-passe-en-clair-sur-la-Bbox-du-9-novembre-au-9-decembre-2010_portrait_w532.jpg"
 
@@ -27,4 +28,4 @@ ime="VEVO 3" url="http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/p
 
 ime="Gold TV" url="http://87.248.160.8/edge/smil:goldtv/playlist.m3u8" img="http://www.goldtv.it/images/LOGOGOLDTV-800-600.png"
 
-ime="Jazz TV" url="rtmp://149.11.34.78/live/jazztv.stream" img="http://home.comcast.net/~redhousejazz/weblog_images/jazztv.jpg"
+
