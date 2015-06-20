@@ -1,23 +1,17 @@
-ime="Animal planet" url="http://sjc-uhls-vip01.ustream.tv/watch/playlist.m3u8?cid=12762028" img="http://www.tv-logo.com/pt-data/uploads/images/logo/animal_planet_europe.jpg"
-ime="Animal Planet (SLO)" url="http://cdn.iptv.amis.net/LIVE/Animal/stream_wifi_1200k.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/animal_planet_europe.jpg"
-ime="BBC One (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://304528e8bd201ae6eec3bb321ab3247f3f09366f&mode=1&name=BBC+One" img="http://upload.wikimedia.org/wikipedia/commons/1/1a/BBC_One_2002.png"
-ime="BBC Two (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://7c4d5ec7f9dcfb7c8d6bcc8bd942fae1971d20e4&mode=1&name=BBC+Two" img="http://i1.cdnds.net/10/24/broadcasting_bbc_two.jpg"
-ime="Crime & Investigation" url="http://176.31.59.58:8081/live/CrimeInvestigation/playlist.m3u8" img="http://tvprofil.net/img/kanali-logo/crime-investigation-channel-logo.png"
+ime="Animal planet" url="http://80.80.160.168/live/1/live.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/animal_planet_europe.jpg"
+ime="Investigation Discovery" url="http://176.31.59.58:8081/live/CrimeInvestigation/playlist.m3u8" img="http://www.extreme-tv.com/logo/InvestigationDiscovery.png"
 
 ime="Discovery Theater" url="http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8" img="http://www.stream2watch.com/images/thumbs/discovery%20live%20stream.jpg"
-ime="DaVinci Learning" url="http://cdn.iptv.amis.net/ts/DaVinciLear/stream_wifi_1200k.m3u8" img="http://images.toggle.sg/images/110913074716_956X538.png"
 
-ime="Discovery World" url="http://188.227.86.4:4022/udp/239.77.0.78:1234" img="http://www.examiner.com/images/blog/replicate/EXID41517/images/discovery_world_logo(1).jpg"
-ime="Discovery World" url="http://113.160.49.34/lives/origin03/discoveryhd.isml/discoveryhd-2096k.m3u8" img="http://www.examiner.com/images/blog/replicate/EXID41517/images/discovery_world_logo(1).jpg"
+ime="Discovery World" url="http://78.30.254.43:8989/udp/239.0.0.47:4000" img="http://www.examiner.com/images/blog/replicate/EXID41517/images/discovery_world_logo(1).jpg"
+ime="Discovery World HD" url="http://113.160.49.34/lives/origin03/discoveryhd.isml/discoveryhd-2096k.m3u8" img="http://www.examiner.com/images/blog/replicate/EXID41517/images/discovery_world_logo(1).jpg"
 
-ime="History Channel" url="http://cdn.iptv.amis.net/LIVE/CROHISTORYCH/stream_wifi_1200k.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/history_us.jpg"
-ime="Horse & Country" url="http://llnw.live.simplestream.com/coder3/coder.channels.channel5/hls/3/playlist.m3u8" img="http://www.britishdressage.co.uk/uploads/Image/horse%20and%20country.jpg"
-
-ime="NASA TV" url="http://media.infozen.cshls.lldns.net/infozen/media/media/media_1000.m3u8" img="http://www.nasa.gov/sites/default/files/files/tv_share.jpg"
-
+ime="History Channel" url="http://bit.do/52Xg" img="http://www.tv-logo.com/pt-data/uploads/images/logo/history_us.jpg"
+ime="National Geographic" url="http://hls.svc.moyo.tv/hls/CH_NATGEO/variant.m3u8?version=2" img="http://tvprofil.net/img/kanali-logo/nat-geographic-logo.png"
 ime="National Geographic Wild" url="http://hlsstr02.svc.iptv.rt.ru/hls/CH_NATGEOWILD/variant.m3u8?version=2" img="http://tvbythenumbers.zap2it.com/wp-content/uploads/2012/09/Nat-Geo-wild-new.jpg"
-ime="Outdoor Channel" url="http://cdn.iptv.amis.net/LIVE/OutdoorChannel/stream_wifi_1200k.m3u8" img="http://www.monticellolive.com/wp-content/uploads/2012/06/Outdoor-Channel-Logo.jpg"
+ime="Travel Channel" url="http://80.80.160.168/live/3/live.m3u8" img="http://tvprofil.net/img/kanali-logo/travel-channel-logo.png"
+
 
 ime="RT Documentary" url="http://odna.octoshape.net/f3f5m2v4/cds/ch5_720p/chunklist.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/rt_america.jpg"
 ime="TLC HD" url="http://hlsstr02.svc.iptv.rt.ru/hls/CH_C04_TLCHD/variant.m3u8?version=2" img="http://www.tv-logo.com/pt-data/uploads/images/logo/tlc_east_hd.jpg"
-ime="TLC (SLO)" url="http://cdn.iptv.amis.net/LIVE/TLC/stream_wifi_1200k.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/tlc_east_hd.jpg"
+ime="TLC " url="http://80.80.160.168/live/2/live.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/tlc_east_hd.jpg"
