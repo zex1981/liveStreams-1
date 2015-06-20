@@ -8,6 +8,13 @@ ime="BBC Two (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream:
 ime="Fox Life HD (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://4f831a2ae4b5daa954a068b9a854def82cf20261&mode=1&name=FOX+Life+HD" img="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_life_lam.jpg"
 ime="Hallmark" url="http://50.7.69.170:1935/edge/_definst_/v4ynnryunsoxzbq/playlist.m3u8?wowzasessionid=1419874236" img="http://www.broadbandtvnews.com/wp-content/uploads/2011/06/hallmark_channel_logo.jpg"
 
+ime="CNN International" url="http://cdn.iptv.amis.net/LIVE/CNN/stream_wifi_1200k.m3u8" img="https://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED.png"
+
+ime="24 Kitchen" url="http://cdn.iptv.amis.net/LIVE/CRODOQ/stream_wifi_1200k.m3u8" img="http://images.web-m.org/img3/1202/24_kitchen_tv_logo.jpg"
+ime="Food Network (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://f9094180656eb239db9240d249108140fac091b3&mode=1&name=Food+Network" img="http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2013/11/13/0/FN-3D-Logo-336x252.jpg"
+ime="Food Network" url="http://llnw.live.simplestream.com/coder2/coder.channels.channel2/hls/3/playlist.m3u8" img="http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2013/11/13/0/FN-3D-Logo-336x252.jpg"
+
+ime="Ginx" url="http://cdn.iptv.amis.net/LIVE/CROGINX/stream_wifi_1200k.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/ginx_tv.jpg"
 
 ime="HRVATSKI" url="-" img="-"
 ime="CBS Reality" url="http://cdn.iptv.amis.net/LIVE/CROREALITY/stream_wifi_1200k.m3u8" img="http://tvprofil.net/img/kanali-logo/CBS-REALITY.png"
