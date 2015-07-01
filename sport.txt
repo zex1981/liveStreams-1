@@ -1,3 +1,14 @@
+ime="Sport Klub 1" url="http://195.154.227.38:1935/Iive/skhd1lsh/playlist.m3u8" img="http://www.sportklub.rs/img/pssk1.png"
+ime="Sport Klub 2" url="http://195.154.227.38:1935/Iive/skhd2lsh/playlist.m3u8" img="http://www.sportklub.rs/img/pssk2.png"
+ime="Sport Klub 3" url="http://195.154.227.38:1935/Iive/skhd3lsh/playlist.m3u8" img="http://www.sportklub.rs/img/pssk3.png"
+
+
+ime="Arena Sport 1" url="http://178.33.24.14:2510/posjetite...www.sipragezabava.com" img="http://upload.wikimedia.org/wikipedia/hr/f/fa/Arenasport1.png"
+ime="Arena Sport 1" url="http://195.154.227.38:1935/Iive/arhd1lsh/playlist.m3u8" img="http://upload.wikimedia.org/wikipedia/hr/f/fa/Arenasport1.png"
+ime="Arena Sport 2" url="http://195.154.227.38:1935/Iive/arhd2lsh/playlist.m3u8" img="http://3.bp.blogspot.com/-jLqmPfxMt_8/VIyHhsZnVnI/AAAAAAAAALY/Sj8VLldd1p0/s1600/arena2.png"
+ime="Arena Sport 3" url="http://195.154.227.38:1935/Iive/arhd3lsh/playlist.m3u8" img="http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport3_s.gif"
+ime="Arena Sport 4" url="http://195.154.227.38:1935/Iive/arhd4lsh/playlist.m3u8" img="http://mali-ekrani.com/wp-content/uploads/2014/11/arena-sport-4.gif"
+
 
 ime="Eurosport 1 (Dual Audio)" url="http://hlsstr04.svc.iptv.rt.ru/hls/CH_EUROSPORT/variant.m3u8?version=2" img="http://www.smarttvradar.com/wp-content/uploads/2012/11/logoBritishEurosport.jpg"
 ime="Eurosport 1 HD (Dual Audio)" url="http://hlsstr04.svc.iptv.rt.ru/hls/CH_C02_EUROSPORTHD/variant.m3u8?version=2" img="http://www.smarttvradar.com/wp-content/uploads/2012/11/logoBritishEurosport.jpg"
