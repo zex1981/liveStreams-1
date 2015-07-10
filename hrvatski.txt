@@ -4,7 +4,7 @@ ime="HRT 2" url="http://213.5.58.58:1935/hrt_live/smil:hrt2.smil/playlist.m3u8" 
 ime="HRT 3" url="http://213.5.58.58:1935/hrt_live/smil:hrt3.smil/playlist.m3u8" img="http://tvprofil.net/img/kanali-logo/hrt3-logo.png"
 ime="HRT 4" url="http://213.5.58.58:1935/hrt_live/smil:hrt4.smil/playlist.m3u8" img="http://img3.wikia.nocookie.net/__cb20121221162234/logopedia/images/d/dc/HRT4.png"
 
-ime="Nova TV" url="http://178.33.24.14:2503/posjetite...www.sipragezabava.com" img="http://upload.wikimedia.org/wikipedia/en/4/4e/Novatv_hr.png"
+ime="Nova TV" url="http://178.33.24.14:2503/welcome_to_www.sipragezabava.com" img="http://upload.wikimedia.org/wikipedia/en/4/4e/Novatv_hr.png"
 
 ime="Jabuka TV" url="http://iphone-streaming.ustream.tv/ustreamVideo/12591767/streams/live/playlist.m3u8" img="http://www.jabuka.tv/wp-content/uploads/2012/09/JABUKA_TV.jpg"
 ime="Sportska televizija" url="http://80.80.58.168:1935/sporttv/smil:sptv.smil/playlist.m3u8" img="http://tvprofil.net/img/kanali-logo/sptv-logo.png"
