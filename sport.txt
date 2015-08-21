@@ -18,6 +18,6 @@ ime="Big Ten Network 720p"   url="http://bigten247.cdnak.bigtenhd.neulion.com/nl
 
 ime="Sports tonight Live 720p" url="rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD timeout=10" img="https://fiskeharrison.files.wordpress.com/2011/11/sportstonight_03.gif?w=640"
 
-ime="Setanta Sport 480p" url=rtmp://109.200.1.82:1935/tes/setanta.stream?e607b5b743e1842ee50e1556bbf3ae42 timeout=10" img="http://www.ican.ie/ican09/projects/setanta/subscription-drive/project.jpg"
+ime="Setanta Sport 480p" url="rtmp://109.200.1.82:1935/tes/setanta.stream?e607b5b743e1842ee50e1556bbf3ae42 timeout=10" img="http://www.ican.ie/ican09/projects/setanta/subscription-drive/project.jpg"
 
 ime="MBC Prosports 1 HQ" url="http://intigral_live-lh.akamaihd.net/i/DPS3CPCHILXAHL130215_1@135296/index_1200_av-b.m3u8" img="http://prosports.mbc.net/ar/ogImageBinary/39746f5e12f1005f959d3006aeb23df4d19b1650/prosport_og.jpg"
