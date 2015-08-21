@@ -22,6 +22,6 @@ ime="Sport 1 720p" url="http://87.245.214.43/streaming/sport1/16/tvrec/playlist.
 
 ime="Setanta Sport 480p" url="rtmp://109.200.1.82:1935/tes/setanta.stream?e607b5b743e1842ee50e1556bbf3ae42 timeout=10" img="http://www.ican.ie/ican09/projects/setanta/subscription-drive/project.jpg"
 
-ime="CANAL+ Futbol HQ" url="rtmp://50.22.223.47/pull/ playpath=futbol932?keys=XtSPPrsqdnPy8fKQ8spdoQ&keyt=1439947743 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=futbol932&width=600&height=450" ime="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Canal%2B_F%C3%BAtbol_2008.svg/200px-Canal%2B_F%C3%BAtbol_2008.svg.png"
+ime="CANAL+ Futbol HQ" url="rtmp://50.22.223.47/pull/ playpath=futbol932?keys=XtSPPrsqdnPy8fKQ8spdoQ&keyt=1439947743 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=futbol932&width=600&height=450" img="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Canal%2B_F%C3%BAtbol_2008.svg/200px-Canal%2B_F%C3%BAtbol_2008.svg.png"
 
 ime="MBC Prosports 1 HQ" url="http://intigral_live-lh.akamaihd.net/i/DPS3CPCHILXAHL130215_1@135296/index_1200_av-b.m3u8" img="http://prosports.mbc.net/ar/ogImageBinary/39746f5e12f1005f959d3006aeb23df4d19b1650/prosport_og.jpg"
