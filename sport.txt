@@ -1,18 +1,9 @@
-
-ime="Arena Sport 1 (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://c70805467a2451dfdaa2ce6e667c22ee455174e6&mode=1&name=Arena+Sport+1" img="http://upload.wikimedia.org/wikipedia/hr/f/fa/Arenasport1.png"
-ime="Arena Sport 2 (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://9fd516db2196c14de75167d3e7d635b8d90b571c&mode=1&name=acestream+ArenaSport1" img="http://upload.wikimedia.org/wikipedia/hr/f/fa/Arenasport1.png"
-ime="Arena Sport 3 (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://10f5a884a83766445dcaad4066d3761d6b812386&mode=1&name=acestream+ArenaSport1" img="http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport3_s.gif"
-ime="Arena Sport 4 (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://2b4c08102cc44a17efa593df5bf79127a9eea16d&mode=1&name=acestream+ArenaSport1" img="http://mali-ekrani.com/wp-content/uploads/2014/11/arena-sport-4.gif"
+ime="ESPN" url="http://80.80.160.168/live/6/live.m3u8" img="http://stacypaetz.com/wp-content/uploads/2014/07/espn-logo.jpg"
+ime="British Eurosport 1" url="http://84.232.5.115/liveedge3/eurosport.stream/playlist.m3u8" img="http://www.smarttvradar.com/wp-content/uploads/2012/11/logoBritishEurosport.jpg"
+ime="British Eurosport 2" url="http://84.232.5.115/liveedge3/eurosport2.stream/playlist.m3u8" img="http://images.bennetts.co.uk/PageFiles/11764/BritishEurosport.jpg"
 
 
-ime="Arena Sport 1 HD (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://3755d3c9ffd4d01cc65c179777b147f82d6fd3a8&mode=1&name=Arena+Sport+1" img="http://upload.wikimedia.org/wikipedia/hr/f/fa/Arenasport1.png"
-ime="Arena Sport 2 HD (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://1aeeb02d98bdc605e5303d0853d3d96674cc4477&mode=1&name=acestream+ArenaSport1" img="http://upload.wikimedia.org/wikipedia/hr/f/fa/Arenasport1.png"
-ime="Arena Sport 3 HD (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://4fe51412d33c9be200a92d70b812e0ebd124d891&mode=1&name=acestream+ArenaSport1" img="http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport3_s.gif"
-ime="Arena Sport 4 HD (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://e34be62395a5b6a8d1092398327b8f2398bb9a05&mode=1&name=acestream+ArenaSport1" img="http://mali-ekrani.com/wp-content/uploads/2014/11/arena-sport-4.gif"
+ime="Big Ten Network"   url="http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8" img="http://www.nr4w.com/wp-content/uploads/2014/11/btn.jpg"
 
-
-
-
-ime="PAC National HD" url="http://xrxs.net/video/live-p12netw-2328.m3u8" img="http://cdn.fansided.com/wp-content/blogs.dir/276/files/2014/02/Pac12.jpg"
-ime="PAC National Full HD" url="http://xrxs.net/video/live-p12netw-4728.m3u8" img="http://cdn.fansided.com/wp-content/blogs.dir/276/files/2014/02/Pac12.jpg"
+ime="MMA" url="rtmp://extondemand.livestream.com:80/ondemand/trans/dv10/mogulus-user-files/chmmabaytv/2010/09/12/d9fbeee7-79aa-4ec2-98d2-1f1f168b91a3" img="https://mmaniacs.files.wordpress.com/mixed-martial-arts-mma-logo.jpg"
 
