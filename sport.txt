@@ -1,7 +1,3 @@
-ime="Sport Klub 1" url="http://195.154.227.38:1935/Iive/skhd1lsh/playlist.m3u8" img="http://www.sportklub.rs/img/pssk1.png"
-ime="Sport Klub 2" url="http://195.154.227.38:1935/Iive/skhd2lsh/playlist.m3u8" img="http://www.sportklub.rs/img/pssk2.png"
-ime="Sport Klub 3" url="http://195.154.227.38:1935/Iive/skhd3lsh/playlist.m3u8" img="http://www.sportklub.rs/img/pssk3.png"
-
 
 ime="Arena Sport 1" url="http://178.33.24.14:2510/posjetite...www.sipragezabava.com" img="http://upload.wikimedia.org/wikipedia/hr/f/fa/Arenasport1.png"
 ime="Arena Sport 1" url="http://195.154.227.38:1935/Iive/arhd1lsh/playlist.m3u8" img="http://upload.wikimedia.org/wikipedia/hr/f/fa/Arenasport1.png"
@@ -10,17 +6,7 @@ ime="Arena Sport 3" url="http://195.154.227.38:1935/Iive/arhd3lsh/playlist.m3u8"
 ime="Arena Sport 4" url="http://195.154.227.38:1935/Iive/arhd4lsh/playlist.m3u8" img="http://mali-ekrani.com/wp-content/uploads/2014/11/arena-sport-4.gif"
 
 
-ime="Eurosport 1 (Dual Audio)" url="http://hlsstr04.svc.iptv.rt.ru/hls/CH_EUROSPORT/variant.m3u8?version=2" img="http://www.smarttvradar.com/wp-content/uploads/2012/11/logoBritishEurosport.jpg"
-ime="Eurosport 1 HD (Dual Audio)" url="http://hlsstr04.svc.iptv.rt.ru/hls/CH_C02_EUROSPORTHD/variant.m3u8?version=2" img="http://www.smarttvradar.com/wp-content/uploads/2012/11/logoBritishEurosport.jpg"
-ime="Eurosport 2 (Dual Audio)" url="http://hlsstr02.svc.iptv.rt.ru/hls/CH_EUROSPORT2/variant.m3u8?version=2" img="http://images.bennetts.co.uk/PageFiles/11764/BritishEurosport.jpg"
 
-
-
-
-
-
-ime="Fight club" url="http://hlsstr03.svc.iptv.rt.ru/hls/CH_FIGHTCLUB/variant.m3u8?version=2" img="http://upload.wikimedia.org/wikipedia/commons/4/46/TV_channel_logo_Fight_club.jpg"
-ime="Football RUS" url="http://hlsstr04.svc.iptv.rt.ru/hls/CH_FUTBALL/variant.m3u8?version=2" img="http://www.televesti.ru/uploads/posts/2010-09/1283693476_telekanal-futbol.jpg"
 
 
 ime="NBA TV HD (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream%3A%2F%2Fa11e9f3efc3dbee014331b84d4a4a98523faca70&mode=1&name=NBA+HD" img="http://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1055px-NBA_TV.svg.png"
@@ -36,14 +22,3 @@ ime="NTV+ Basketball" url="http://hlsstr02.svc.iptv.rt.ru/hls/CH_NTVPLUSBASKETBO
 ime="PAC National HD" url="http://xrxs.net/video/live-p12netw-2328.m3u8" img="http://cdn.fansided.com/wp-content/blogs.dir/276/files/2014/02/Pac12.jpg"
 ime="PAC National Full HD" url="http://xrxs.net/video/live-p12netw-4728.m3u8" img="http://cdn.fansided.com/wp-content/blogs.dir/276/files/2014/02/Pac12.jpg"
 
-ime="Sport" url="http://hlsstr01.svc.iptv.rt.ru/hls/CH_SPORT/variant.m3u8?version=2" img="http://www.tv-logo.com/pt-data/uploads/images/logo/sport1_ua.jpg"
-ime="Sport 1" url="http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2" img="http://www.tv-logo.com/pt-data/uploads/images/logo/sport1_ua.jpg"
-ime="Sport 1 HD" url="http://hlsstr03.svc.iptv.rt.ru/hls/CH_C04_SPORT1HD/variant.m3u8?version=2" img="http://www.tv-logo.com/pt-data/uploads/images/logo/sport1_ua.jpg"
-
-ime="Sport time TV 1HD" url="rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200" img="http://3.bp.blogspot.com/-4AF4qYRjs3w/VJARS9pOZwI/AAAAAAAAAPU/2-mAmReA2ww/s1600/s3.jpeg"
-ime="Sport time TV 2HD" url="rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200" img="http://3.bp.blogspot.com/-4AF4qYRjs3w/VJARS9pOZwI/AAAAAAAAAPU/2-mAmReA2ww/s1600/s3.jpeg"
-ime="Sport time TV 3HD" url="rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200" img="http://3.bp.blogspot.com/-4AF4qYRjs3w/VJARS9pOZwI/AAAAAAAAAPU/2-mAmReA2ww/s1600/s3.jpeg"
-ime="Sport time TV 4HD" url="rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200" img="http://3.bp.blogspot.com/-4AF4qYRjs3w/VJARS9pOZwI/AAAAAAAAAPU/2-mAmReA2ww/s1600/s3.jpeg"
-ime="Sport time TV 5HD" url="rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200" img="http://3.bp.blogspot.com/-4AF4qYRjs3w/VJARS9pOZwI/AAAAAAAAAPU/2-mAmReA2ww/s1600/s3.jpeg"
-ime="Sport time TV 6HD" url="rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200" img="http://3.bp.blogspot.com/-4AF4qYRjs3w/VJARS9pOZwI/AAAAAAAAAPU/2-mAmReA2ww/s1600/s3.jpeg"
-ime="Sport time TV 7HD" url="rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200" img="http://3.bp.blogspot.com/-4AF4qYRjs3w/VJARS9pOZwI/AAAAAAAAAPU/2-mAmReA2ww/s1600/s3.jpeg"
