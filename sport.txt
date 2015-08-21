@@ -1,23 +1,17 @@
 
-ime="Arena Sport 1" url="http://178.33.24.14:2510/posjetite...www.sipragezabava.com" img="http://upload.wikimedia.org/wikipedia/hr/f/fa/Arenasport1.png"
-ime="Arena Sport 1" url="http://195.154.227.38:1935/Iive/arhd1lsh/playlist.m3u8" img="http://upload.wikimedia.org/wikipedia/hr/f/fa/Arenasport1.png"
-ime="Arena Sport 2" url="http://195.154.227.38:1935/Iive/arhd2lsh/playlist.m3u8" img="http://3.bp.blogspot.com/-jLqmPfxMt_8/VIyHhsZnVnI/AAAAAAAAALY/Sj8VLldd1p0/s1600/arena2.png"
-ime="Arena Sport 3" url="http://195.154.227.38:1935/Iive/arhd3lsh/playlist.m3u8" img="http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport3_s.gif"
-ime="Arena Sport 4" url="http://195.154.227.38:1935/Iive/arhd4lsh/playlist.m3u8" img="http://mali-ekrani.com/wp-content/uploads/2014/11/arena-sport-4.gif"
+ime="Arena Sport 1 (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://c70805467a2451dfdaa2ce6e667c22ee455174e6&mode=1&name=Arena+Sport+1" img="http://upload.wikimedia.org/wikipedia/hr/f/fa/Arenasport1.png"
+ime="Arena Sport 2 (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://9fd516db2196c14de75167d3e7d635b8d90b571c&mode=1&name=acestream+ArenaSport1" img="http://upload.wikimedia.org/wikipedia/hr/f/fa/Arenasport1.png"
+ime="Arena Sport 3 (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://10f5a884a83766445dcaad4066d3761d6b812386&mode=1&name=acestream+ArenaSport1" img="http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport3_s.gif"
+ime="Arena Sport 4 (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://2b4c08102cc44a17efa593df5bf79127a9eea16d&mode=1&name=acestream+ArenaSport1" img="http://mali-ekrani.com/wp-content/uploads/2014/11/arena-sport-4.gif"
+
+
+ime="Arena Sport 1 HD (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://3755d3c9ffd4d01cc65c179777b147f82d6fd3a8&mode=1&name=Arena+Sport+1" img="http://upload.wikimedia.org/wikipedia/hr/f/fa/Arenasport1.png"
+ime="Arena Sport 2 HD (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://1aeeb02d98bdc605e5303d0853d3d96674cc4477&mode=1&name=acestream+ArenaSport1" img="http://upload.wikimedia.org/wikipedia/hr/f/fa/Arenasport1.png"
+ime="Arena Sport 3 HD (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://4fe51412d33c9be200a92d70b812e0ebd124d891&mode=1&name=acestream+ArenaSport1" img="http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport3_s.gif"
+ime="Arena Sport 4 HD (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream://e34be62395a5b6a8d1092398327b8f2398bb9a05&mode=1&name=acestream+ArenaSport1" img="http://mali-ekrani.com/wp-content/uploads/2014/11/arena-sport-4.gif"
 
 
 
-
-
-ime="NBA TV HD (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream%3A%2F%2Fa11e9f3efc3dbee014331b84d4a4a98523faca70&mode=1&name=NBA+HD" img="http://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1055px-NBA_TV.svg.png"
-
-ime="SkySports F1 (acestream)" url="plugin://plugin.video.p2p-streams/?url=acestream%3A%2F%2Fa1afab567f9c3badc850b90823054f2d8d8b01a4&mode=1&name=Sky+Sports+F1" img="http://vignette3.wikia.nocookie.net/f1wikia/images/7/77/SkySportsF1.png/revision/latest?cb=20140320200040"
-
-ime="NTV+ Football 1 HD" url="http://46.61.226.18/hls/CH_FUTBALL1HD/bw3000000/variant.m3u8?version=2" img="http://www.goalzz.com/images/amir_ganjvar/ntv1hd.jpg"
-ime="NTV+ Football 2 HD" url="http://46.61.226.18/hls/CH_FUTBALL2HD/bw3000000/variant.m3u8?version=2" img="http://www.livegoli.com/templates/livegoli/images/tv/ntvfutbol2.png"
-ime="NTV+ Football 3 HD" url="http://46.61.226.18/hls/CH_FUTBALL3HD/bw3000000/variant.m3u8?version=2" img="http://2.bp.blogspot.com/-6DpuSamxRG0/VRFN2e7P--I/AAAAAAAAB1g/jWeVzVnGVq0/s1600/ntv%2B1123.png"
-ime="NTV+ Sport plus" url="http://hlsstr03.svc.iptv.rt.ru/hls/CH_NTVPLUSPORT/variant.m3u8?version=2" img="http://www.television.lv/wp-content/uploads/2014/07/ntv-plus-sport.jpg"
-ime="NTV+ Basketball" url="http://hlsstr02.svc.iptv.rt.ru/hls/CH_NTVPLUSBASKETBOL/variant.m3u8?version=2" img="http://www.lyngsat-logo.com/logo/tv/nn/ntv_plus_basketbol.png"
 
 ime="PAC National HD" url="http://xrxs.net/video/live-p12netw-2328.m3u8" img="http://cdn.fansided.com/wp-content/blogs.dir/276/files/2014/02/Pac12.jpg"
 ime="PAC National Full HD" url="http://xrxs.net/video/live-p12netw-4728.m3u8" img="http://cdn.fansided.com/wp-content/blogs.dir/276/files/2014/02/Pac12.jpg"
