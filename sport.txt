@@ -1,6 +1,23 @@
-ime="ESPN" url="http://80.80.160.168/live/6/live.m3u8" img="http://stacypaetz.com/wp-content/uploads/2014/07/espn-logo.jpg"
+ime="ESPN 720p" url="http://80.80.160.168/live/6/live.m3u8" img="http://stacypaetz.com/wp-content/uploads/2014/07/espn-logo.jpg"
 
-ime="Big Ten Network"   url="http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8" img="http://www.nr4w.com/wp-content/uploads/2014/11/btn.jpg"
+ime="NBC SN 720p" url="http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104" img="http://www.milb.com/assets/images/5/3/0/56738530/cuts/NBCSN_onm95p8a_g6notz62.jpg"
 
-ime="MMA" url="rtmp://extondemand.livestream.com:80/ondemand/trans/dv10/mogulus-user-files/chmmabaytv/2010/09/12/d9fbeee7-79aa-4ec2-98d2-1f1f168b91a3" img="https://mmaniacs.files.wordpress.com/mixed-martial-arts-mma-logo.jpg"
+ime="NBC SN 1080p" url="http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104"
+img="http://www.milb.com/assets/images/5/3/0/56738530/cuts/NBCSN_onm95p8a_g6notz62.jpg"
 
+ime="NBC Golf 720p" url="http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104" img="http://www.tourismpei.com/photos/sites/visitorsguide/GOLF_HD_LOGO.jpg"
+
+ime="NBC Golf 1080p" url="http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104"
+img="http://www.tourismpei.com/photos/sites/visitorsguide/GOLF_HD_LOGO.jpg"
+
+ime="NBC Golf SD" url="http://bit.do/ba5jN"
+img="http://www.tourismpei.com/photos/sites/visitorsguide/GOLF_HD_LOGO.jpg"
+
+
+ime="Big Ten Network 720p"   url="http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8" img="http://www.nr4w.com/wp-content/uploads/2014/11/btn.jpg"
+
+ime="Sports tonight Live 720p" url="rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD timeout=10" img="https://fiskeharrison.files.wordpress.com/2011/11/sportstonight_03.gif?w=640"
+
+ime="Setanta Sport 480p" url=rtmp://109.200.1.82:1935/tes/setanta.stream?e607b5b743e1842ee50e1556bbf3ae42 timeout=10" img="http://www.ican.ie/ican09/projects/setanta/subscription-drive/project.jpg"
+
+ime="MBC Prosports 1 HQ" url="http://intigral_live-lh.akamaihd.net/i/DPS3CPCHILXAHL130215_1@135296/index_1200_av-b.m3u8" img="http://prosports.mbc.net/ar/ogImageBinary/39746f5e12f1005f959d3006aeb23df4d19b1650/prosport_og.jpg"
