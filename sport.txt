@@ -10,9 +10,6 @@ ime="NBC Golf 720p" url="http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/259
 ime="NBC Golf 1080p" url="http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104"
 img="http://www.tourismpei.com/photos/sites/visitorsguide/GOLF_HD_LOGO.jpg"
 
-ime="NBC Golf SD" url="http://bit.do/ba5jN"
-img="http://www.tourismpei.com/photos/sites/visitorsguide/GOLF_HD_LOGO.jpg"
-
 
 ime="Big Ten Network 720p"   url="http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8" img="http://www.nr4w.com/wp-content/uploads/2014/11/btn.jpg"
 
