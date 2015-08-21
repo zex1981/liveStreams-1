@@ -1,17 +1,10 @@
 ime="Animal planet" url="http://80.80.160.168/live/1/live.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/animal_planet_europe.jpg"
-ime="Investigation Discovery" url="http://176.31.59.58:8081/live/CrimeInvestigation/playlist.m3u8" img="http://www.extreme-tv.com/logo/InvestigationDiscovery.png"
+ime="Discovery" url="http://80.80.160.168/live/8/live.m3u8" img="http://www.etonline.com/media/photo/2013/02/23991899/640_discovery_channel_logo_discovery.jpg"
 
-ime="Discovery Theater" url="http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8" img="http://www.stream2watch.com/images/thumbs/discovery%20live%20stream.jpg"
-
-ime="Discovery World" url="http://78.30.254.43:8989/udp/239.0.0.47:4000" img="http://www.examiner.com/images/blog/replicate/EXID41517/images/discovery_world_logo(1).jpg"
-ime="Discovery World HD" url="http://113.160.49.34/lives/origin03/discoveryhd.isml/discoveryhd-2096k.m3u8" img="http://www.examiner.com/images/blog/replicate/EXID41517/images/discovery_world_logo(1).jpg"
-
-ime="History Channel" url="http://bit.do/52Xg" img="http://www.tv-logo.com/pt-data/uploads/images/logo/history_us.jpg"
-ime="National Geographic" url="http://hls.svc.moyo.tv/hls/CH_NATGEO/variant.m3u8?version=2" img="http://tvprofil.net/img/kanali-logo/nat-geographic-logo.png"
-ime="National Geographic Wild" url="http://hlsstr02.svc.iptv.rt.ru/hls/CH_NATGEOWILD/variant.m3u8?version=2" img="http://tvbythenumbers.zap2it.com/wp-content/uploads/2012/09/Nat-Geo-wild-new.jpg"
-ime="Travel Channel" url="http://80.80.160.168/live/3/live.m3u8" img="http://tvprofil.net/img/kanali-logo/travel-channel-logo.png"
+ime="Discovery Science" url="http://80.80.160.168/live/9/live.m3u8" img="https://upload.wikimedia.org/wikipedia/en/6/6d/Discovery_Science_Canada_2011.PNG"
 
 
-ime="RT Documentary" url="http://odna.octoshape.net/f3f5m2v4/cds/ch5_720p/chunklist.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/rt_america.jpg"
-ime="TLC HD" url="http://hlsstr02.svc.iptv.rt.ru/hls/CH_C04_TLCHD/variant.m3u8?version=2" img="http://www.tv-logo.com/pt-data/uploads/images/logo/tlc_east_hd.jpg"
-ime="TLC " url="http://80.80.160.168/live/2/live.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/tlc_east_hd.jpg"
+ime="National Geographic" url="http://167.114.119.209:1935/flu555/_definst_/natgeo/playlist.m3u8?token=" img="http://tvprofil.net/img/kanali-logo/nat-geographic-logo.png"
+ime="National Geographic Wild" url="rtmp://109.200.1.82:1935/tes/natgeowild.stream?e607b5b743e1842ee50e1556bbf3ae42" img="http://tvbythenumbers.zap2it.com/wp-content/uploads/2012/09/Nat-Geo-wild-new.jpg"
+
+ime="Investigation Dicovery" url="http://80.80.160.168/live/5/live.m3u8" img="http://tvruckus.com/wp-content/uploads/2014/07/new_id_logo_sd_black_-1.png"
