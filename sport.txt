@@ -1,3 +1,9 @@
+ime="Arena Sport 1 720p" url="http://bit.do/beNTp" img="https://upload.wikimedia.org/wikipedia/hr/f/fa/Arenasport1.png"
+ime="Arena Sport 2 720p" url="http://bit.do/beNSR" img="http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport2_s.gif"
+ime="Arena Sport 3 720p" url="http://bit.do/beNR6" img="http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport3_s.gif"
+ime="Arena Sport 4 720p" url="http://bit.do/beNQX" img="http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport4_s.gif"
+ime="Arena Sport 5 720p" url="http://bit.do/beNRA" img="http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport5_s.gif"
+
 ime="ESPN 720p" url="http://80.80.160.168/live/6/live.m3u8" img="http://stacypaetz.com/wp-content/uploads/2014/07/espn-logo.jpg"
 
 ime="NBC SN 720p" url="http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104" img="http://www.milb.com/assets/images/5/3/0/56738530/cuts/NBCSN_onm95p8a_g6notz62.jpg"
