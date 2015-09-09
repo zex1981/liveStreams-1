@@ -4,7 +4,7 @@ ime="Arena Sport 3 720p" url="http://bit.do/beNR6" img="http://www.tvarenasport.
 ime="Arena Sport 4 720p" url="http://bit.do/beNQX" img="http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport4_s.gif"
 ime="Arena Sport 5 720p" url="http://bit.do/beNRA" img="http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport5_s.gif"
 
-ime="ESPN 720p" url="http://80.80.160.168/live/6/live.m3u8" img="http://stacypaetz.com/wp-content/uploads/2014/07/espn-logo.jpg"
+
 
 ime="NBC SN 720p" url="http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104" img="http://www.milb.com/assets/images/5/3/0/56738530/cuts/NBCSN_onm95p8a_g6notz62.jpg"
 
@@ -25,6 +25,3 @@ ime="Sports tonight Live 720p" url="rtmp://freeview.fms.visionip.tv/live/sports_
 ime="Sport 1 720p" url="http://87.245.214.43/streaming/sport1/16/tvrec/playlist.m3u8" img="http://www.frosat.net/images/logotv/original/Sport-1_ru.jpg"
 
 
-ime="CANAL+ Futbol HQ" url="rtmp://50.22.223.47/pull/ playpath=futbol932?keys=XtSPPrsqdnPy8fKQ8spdoQ&keyt=1439947743 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=futbol932&width=600&height=450" img="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Canal%2B_F%C3%BAtbol_2008.svg/200px-Canal%2B_F%C3%BAtbol_2008.svg.png"
-
-ime="MBC Prosports 1 HQ" url="http://intigral_live-lh.akamaihd.net/i/DPS3CPCHILXAHL130215_1@135296/index_1200_av-b.m3u8" img="http://prosports.mbc.net/ar/ogImageBinary/39746f5e12f1005f959d3006aeb23df4d19b1650/prosport_og.jpg"
