@@ -1,4 +1,11 @@
-ime="Al Jazeera" url="rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/ playpath=aljazeera_eng_high swfUrl=http://www.watcharab.com/tv/swf/al_jazeera_english.swf/[[DYNAMIC]]/2/[[DYNAMIC]]/3 live=1 pageUrl=http://www.watcharab.com/tv/swf/al_jazeera_english.swf timeout=10" img="https://pbs.twimg.com/profile_images/448478192022474752/yOHtpEoL.jpeg"
-ime="Al Jazeera Balkans" url="rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live playpath=aljazeera_balkans_high pageURL=http://english.aljazeera.net/watch_now/ app=aljazeeraflashlive-live?videoId=747084146001&lineUpId=&pubId=665003303001&playerId=751182905001&affiliateId= swfUrl=http://admin.brightcove.com/viewer/us1.24.04.08.2011-01-14072625/federatedVideoUI/BrightcovePlayer.swf swfVfy=true live=true" img="http://www.mojatv.ba/fileadmin/template/bht2008.1/mojatv/aljazeera_balkans1.png"
-ime="Bloomberg" url="http://cdn3.videos.bloomberg.com/btv/us/master.m3u8" img="http://cdn.gotraffic.net/custom_contents/bloombergonblack.jpg?v=20150112_141850"
-ime="ABC News" url="http://abclive.abcnews.com/i/abc_live4@136330/index_800_av-b.m3u8?" img="https://upload.wikimedia.org/wikipedia/en/f/fa/ABCNewsLogo.png"
+ime="Al Jazeera" 
+url="rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/ playpath=aljazeera_eng_high swfUrl=http://www.watcharab.com/tv/swf/al_jazeera_english.swf/[[DYNAMIC]]/2/[[DYNAMIC]]/3 live=1 pageUrl=http://www.watcharab.com/tv/swf/al_jazeera_english.swf timeout=10" 
+img="https://pbs.twimg.com/profile_images/448478192022474752/yOHtpEoL.jpeg"
+
+ime="Al Jazeera Balkans" 
+url="rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live playpath=aljazeera_balkans_high pageURL=http://english.aljazeera.net/watch_now/ app=aljazeeraflashlive-live?videoId=747084146001&lineUpId=&pubId=665003303001&playerId=751182905001&affiliateId= swfUrl=http://admin.brightcove.com/viewer/us1.24.04.08.2011-01-14072625/federatedVideoUI/BrightcovePlayer.swf swfVfy=true live=true" 
+img="http://www.mojatv.ba/fileadmin/template/bht2008.1/mojatv/aljazeera_balkans1.png"
+
+ime="ABC News" 
+url="http://abclive.abcnews.com/i/abc_live4@136330/index_800_av-b.m3u8?" 
+img="https://upload.wikimedia.org/wikipedia/en/f/fa/ABCNewsLogo.png"
