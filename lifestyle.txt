@@ -1,7 +1,19 @@
-ime="GINX" url="http://204.107.26.252:1935/live/796.high.stream/chunklist_w1818870275.m3u8" img="http://ginx.tv/wp-content/uploads/2015/04/Ginx-Logo.png"
-ime="TLC" url="http://80.80.160.168/live/2/live.m3u8" img="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Tlc_logo_discovery.jpg/320px-Tlc_logo_discovery.jpg"
+ime="GINX" 
+url="http://204.107.26.252:1935/live/796.high.stream/chunklist_w1818870275.m3u8" 
+img="http://ginx.tv/wp-content/uploads/2015/04/Ginx-Logo.png"
 
-ime="Fashion TV" url="http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8" img="http://www.tv-logo.com/pt-data/uploads/images/logo/fashion_tv.jpg"
-ime="Travel Channel" url="http://80.80.160.168/live/3/live.m3u8" img="http://tvprofil.net/img/kanali-logo/travel-channel-logo.png"
+ime="TLC" 
+url="http://80.80.160.168/live/2/live.m3u8" 
+img="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Tlc_logo_discovery.jpg/320px-Tlc_logo_discovery.jpg"
 
-ime="MTV" url="rtmp://83.218.202.202/live swfUrl=http://webtv.md/swf/WebTV.swf playpath=wt_mtv.stream" img="http://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/MTV-Logo.svg/2000px-MTV-Logo.svg.png"
+ime="Fashion TV" 
+url="http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8" 
+img="http://www.tv-logo.com/pt-data/uploads/images/logo/fashion_tv.jpg"
+
+ime="Travel Channel" 
+url="http://80.80.160.168/live/3/live.m3u8" 
+img="http://tvprofil.net/img/kanali-logo/travel-channel-logo.png"
+
+ime="MTV" 
+url="rtmp://83.218.202.202/live swfUrl=http://webtv.md/swf/WebTV.swf playpath=wt_mtv.stream" 
+img="http://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/MTV-Logo.svg/2000px-MTV-Logo.svg.png"
