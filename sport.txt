@@ -1,27 +1,53 @@
-ime="Arena Sport 1 720p" url="http://bit.do/beNTp" img="https://upload.wikimedia.org/wikipedia/hr/f/fa/Arenasport1.png"
-ime="Arena Sport 2 720p" url="http://bit.do/beNSR" img="http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport2_s.gif"
-ime="Arena Sport 3 720p" url="http://bit.do/beNR6" img="http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport3_s.gif"
-ime="Arena Sport 4 720p" url="http://bit.do/beNQX" img="http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport4_s.gif"
-ime="Arena Sport 5 720p" url="http://bit.do/beNRA" img="http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport5_s.gif"
+ime="Arena Sport 1 720p" 
+url="http://bit.do/beNTp" 
+img="http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport1_s.gif"
 
+ime="Arena Sport 2 720p" 
+url="http://bit.do/beNSR" 
+img="http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport2_s.gif"
 
+ime="Arena Sport 3 720p" 
+url="http://bit.do/beNR6" 
+img="http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport3_s.gif"
 
-ime="NBC SN 720p" url="http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104" img="http://www.milb.com/assets/images/5/3/0/56738530/cuts/NBCSN_onm95p8a_g6notz62.jpg"
+ime="Arena Sport 4 720p" 
+url="http://bit.do/beNQX" 
+img="http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport4_s.gif"
 
-ime="NBC SN 1080p" url="http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104"
+ime="Arena Sport 5 720p" 
+url="http://bit.do/beNRA" 
+img="http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport5_s.gif"
+
+ime="NBC SN 720p" 
+url="http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104" 
 img="http://www.milb.com/assets/images/5/3/0/56738530/cuts/NBCSN_onm95p8a_g6notz62.jpg"
 
-ime="NBC Golf 720p" url="http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104" img="http://www.tourismpei.com/photos/sites/visitorsguide/GOLF_HD_LOGO.jpg"
+ime="NBC SN 1080p" 
+url="http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104"
+img="http://www.milb.com/assets/images/5/3/0/56738530/cuts/NBCSN_onm95p8a_g6notz62.jpg"
 
-ime="NBC Golf 1080p" url="http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104"
+ime="NBC Golf 720p" 
+url="http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104" 
 img="http://www.tourismpei.com/photos/sites/visitorsguide/GOLF_HD_LOGO.jpg"
 
-ime="Pac 12 720p" url="http://pac12hd2-lh.akamaihd.net/i/p12netw_delivery@132840/index_2328_av-p.m3u8" img="http://usctrojans.cstv.com/blog/Pac12-Shield.jpg"
+ime="NBC Golf 1080p" 
+url="http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104"
+img="http://www.tourismpei.com/photos/sites/visitorsguide/GOLF_HD_LOGO.jpg"
 
-ime="Big Ten Network 720p"   url="http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8" img="http://www.nr4w.com/wp-content/uploads/2014/11/btn.jpg"
+ime="Pac 12 720p" 
+url="http://pac12hd2-lh.akamaihd.net/i/p12netw_delivery@132840/index_2328_av-p.m3u8" 
+img="http://usctrojans.cstv.com/blog/Pac12-Shield.jpg"
 
-ime="Sports tonight Live 720p" url="rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD timeout=10" img="https://fiskeharrison.files.wordpress.com/2011/11/sportstonight_03.gif?w=640"
+ime="Big Ten Network 720p"   
+url="http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8" 
+img="http://www.nr4w.com/wp-content/uploads/2014/11/btn.jpg"
 
-ime="Sport 1 720p" url="http://87.245.214.43/streaming/sport1/16/tvrec/playlist.m3u8" img="http://www.frosat.net/images/logotv/original/Sport-1_ru.jpg"
+ime="Sports tonight Live 720p" 
+url="rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD timeout=10" 
+img="https://fiskeharrison.files.wordpress.com/2011/11/sportstonight_03.gif?w=640"
+
+ime="Sport 1 720p" 
+url="http://87.245.214.43/streaming/sport1/16/tvrec/playlist.m3u8" 
+img="http://www.frosat.net/images/logotv/original/Sport-1_ru.jpg"
 
 
