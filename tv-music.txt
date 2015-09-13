@@ -8,9 +8,25 @@ ime="Planet POP"
 url="http://rrr.sz.xlcdn.com/?account=AATW&file=ppop&type=live&service=wowza&protocol=http&output=playlist.m3u8" 
 img="http://upload.wikimedia.org/wikipedia/en/d/d9/Planet_Pop.png"
 
-ime="VH-1" 
-url="http://bit.do/ba28u" 
-img="http://north.viacom.com/wp-content/uploads/2013/04/open-uri20121002-12868-xbmo0l.jpg"
+ime="VH-1 Classic" 
+url="http://fe-mos.svc.iptv.rt.ru/hls/CH_C03_VH1CLASSIC/variant.m3u8?version=2" 
+img="https://upload.wikimedia.org/wikipedia/en/3/31/Vh1_classic.png"
+
+ime="MTV Hits"
+url="http://fe-mos.svc.iptv.rt.ru/hls/CH_C02_MTVHITS/variant.m3u8?version=2"
+img="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/MTV_Hits.svg/2000px-MTV_Hits.svg.png"
+
+ime="MTV Rocks"
+url="http://fe-nw.svc.iptv.rt.ru/hls/CH_C01_MTVROCKS/variant.m3u8?version=2"
+img="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/MTV_ROCKS_logo.svg/2000px-MTV_ROCKS_logo.svg.png"
+
+ime="MTV Dance"
+url="http://fe-mos.svc.iptv.rt.ru/hls/CH_C06_MTVDANCE/variant.m3u8?version="
+img="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/MTV_DANCE_logo.svg/493px-MTV_DANCE_logo.svg.png"
+
+ime="MTV USA"
+url="rtmpe://179.43.188.11:1935/goLive playpath=mtv swfUrl=http://cdn.ibrod.tv/player/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 live=1swfVfy=1 pageUrl=http://zerocast.tv/ token=OOG17t.x#K9Vh#|"
+img="http://www.raceschool.com/images/clients/mtv-logo.png"
 
 ime="VEVO 1" 
 url="http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8" 
