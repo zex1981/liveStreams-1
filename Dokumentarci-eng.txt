@@ -18,3 +18,15 @@ img="http://tvbythenumbers.zap2it.com/wp-content/uploads/2012/09/Nat-Geo-wild-ne
 ime="History Channel" 
 url="http://fe-sth.svc.iptv.rt.ru/hls/CH_C05_HISTORY/variant.m3u8?version=2" 
 img="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/2000px-History_Logo.svg.png"
+
+ime="Viasat History"
+url="http://fe-sth.svc.iptv.rt.ru/hls/CH_C02_VIASATHISTORY/variant.m3u8?version=2"
+img="http://telenettv.ru/tv/public/logos/History.jpg"
+
+ime="Viasat Nature"
+url="http://fe-dv.svc.iptv.rt.ru/hls/CH_C01_VIASATNATURE/variant.m3u8?version=2"
+img="https://www.telia.se/mediaObject/telia-se/pics/logotyper/viasat-nature-2014-180x180/resolutions/res-256x256/viasat-nature-2014-180x180.png"
+
+ime="Viasat Explore"
+url="http://fe-sth.svc.iptv.rt.ru/hls/CH_C02_VIASATEXPLORER/variant.m3u8?version=2"
+img="http://cdn.ntvplus.ru/files/2014/04/24/585342.png"
