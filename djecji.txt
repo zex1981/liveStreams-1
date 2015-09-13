@@ -17,11 +17,11 @@ img="http://www.granville.lib.nc.us/wp-content/uploads/2012/08/nickjr.gif"
 
 ime="Boomerang"
 url="http://fe-sth.svc.iptv.rt.ru/hls/CH_C05_BOOMERANG/variant.m3u8?version=2"
-img="http://i61.tinypic.com/2i8g3s1.png"
+img="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/2000px-Boomerang_2014_logo.svg.png"
 
 ime="Jim Jam"
 url="http://fe-mos.svc.iptv.rt.ru/hls/CH_C04_JIMJAM/variant.m3u8?version=2"
-img="http://i61.tinypic.com/2i8g3s1.png"
+img="http://logonoid.com/images/jimjam-logo.jpg"
 
 ime="Niclelodeon DE" 
 url="http://pebbles105-lh.akamaihd.net/i/nickcc_1@97455/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21" 
