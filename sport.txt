@@ -36,7 +36,7 @@ img="http://www.tourismpei.com/photos/sites/visitorsguide/GOLF_HD_LOGO.jpg"
 
 ime="Viasat Sport"
 url="http://fe-dv.svc.iptv.rt.ru/hls/CH_C01_VIASATSPORT/variant.m3u8?version=2"
-img="http://i61.tinypic.com/2i8g3s1.png"
+img="https://upload.wikimedia.org/wikipedia/fi/4/45/Viasatsport.png"
 
 ime="Eurosport 1"
 url="http://fe-sth.svc.iptv.rt.ru/hls/CH_C06_EUROSPORT/variant.m3u8?version=2"
