@@ -16,7 +16,7 @@ url="http://213.5.58.58:1935/hrt_live/smil:hrt4.smil/playlist.m3u8"
 img="http://img3.wikia.nocookie.net/__cb20121221162234/logopedia/images/d/dc/HRT4.png"
 
 ime="NOVA TV"
-url="PlayMedia(&quot;plugin://plugin.video.live.streamspro/?url=plugin%3A%2F%2Fplugin.video.SportsDevil%2F%3Fmode%3D1%26amp%3Bitem%3Dcatcher%253dstreams%2526url%3Dhttp%3A%2F%2Fvijesti-dana.com%2Fprenos%2Fnovatv.html%2526referer%3Dhttp%3A%2F%2Fvijesti-dana.com&amp;mode=12&quot;)"
+url="plugin://plugin.video.live.streamspro/?url=plugin%3A%2F%2Fplugin.video.SportsDevil%2F%3Fmode%3D1%26amp%3Bitem%3Dcatcher%253dstreams%2526url%3Dhttp%3A%2F%2Fvijesti-dana.com%2Fprenos%2Fnovatv.html%2526referer%3Dhttp%3A%2F%2Fvijesti-dana.com&mode=12"
 
 img="https://upload.wikimedia.org/wikipedia/hr/7/75/Nova_logo_final_red_RGB.JPG"
 
