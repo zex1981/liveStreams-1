@@ -1,32 +1,28 @@
-ime="Animal planet" 
-url="http://fe-sth.svc.iptv.rt.ru/hls/CH_C03_ANIMALPLANET/variant.m3u8?version=2" 
-img="http://www.tv-logo.com/pt-data/uploads/images/logo/animal_planet_europe.jpg"
-
-ime="Discovery Channel" 
-url="http://fe-sth.svc.iptv.rt.ru/hls/CH_C05_DISCOVERYCHANNEL/variant.m3u8?version=2" 
-img="http://www.etonline.com/media/photo/2013/02/23991899/640_discovery_channel_logo_discovery.jpg"
-
-
-ime="National Geographic" 
-url="http://fe-sth.svc.iptv.rt.ru/hls/CH_C01_NATGEO/variant.m3u8?version=2" 
-img="http://tvprofil.net/img/kanali-logo/nat-geographic-logo.png"
-
-ime="National Geographic Wild" 
-url="http://lag2.tv-mobile.org/prgg.m3u8" 
-img="http://tvbythenumbers.zap2it.com/wp-content/uploads/2012/09/Nat-Geo-wild-new.jpg"
-
-ime="History Channel" 
-url="http://fe-sth.svc.iptv.rt.ru/hls/CH_C05_HISTORY/variant.m3u8?version=2" 
-img="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/2000px-History_Logo.svg.png"
 
 ime="Viasat History"
-url="http://fe-sth.svc.iptv.rt.ru/hls/CH_C02_VIASATHISTORY/variant.m3u8?version=2"
-img="http://telenettv.ru/tv/public/logos/History.jpg"
-
-ime="Viasat Nature"
-url="http://fe-dv.svc.iptv.rt.ru/hls/CH_C01_VIASATNATURE/variant.m3u8?version=2"
-img="https://www.telia.se/mediaObject/telia-se/pics/logotyper/viasat-nature-2014-180x180/resolutions/res-256x256/viasat-nature-2014-180x180.png"
+url="http://cdn.iptv.amis.net/LIVE/CROHISTORY/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
+img="http://tvprofil.net/img/kanali-logo/viasat-history.png"
 
 ime="Viasat Explore"
-url="http://fe-sth.svc.iptv.rt.ru/hls/CH_C02_VIASATEXPLORER/variant.m3u8?version=2"
-img="http://cdn.ntvplus.ru/files/2014/04/24/585342.png"
+url="http://cdn.iptv.amis.net/LIVE/CROEXPLORER/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
+img="http://tvprofil.net/img/kanali-logo/viasat-explore.png"
+
+ime="Animal Planet"
+url="http://cdn.iptv.amis.net/LIVE/Animal/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
+img="http://www.warl.org/wp-content/uploads/2014/09/animal-planet-logo.png"
+
+ime="History Channel"
+url="http://cdn.iptv.amis.net/LIVE/CROHISTORYCH/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
+img="http://tvprofil.net/img/kanali-logo/history-logo.png"
+
+ime="National Geographic"
+url="http://cdn.iptv.amis.net/LIVE/NGCCroatia/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
+img="http://tvprofil.net/img/kanali-logo/nat-geographic-logo.png"
+
+ime="National Geographic Wild"
+url="http://cdn.iptv.amis.net/LIVE/NGCWildCRO/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
+img="http://tvprofil.net/img/kanali-logo/nat-geo-wild-logo.png"
+
+ime="Outdoor Channel"
+url="http://cdn.iptv.amis.net/LIVE/OutdoorChannel/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
+img="http://www.monticellolive.com/wp-content/uploads/2012/06/Outdoor-Channel-Logo.jpg"
