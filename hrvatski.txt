@@ -15,10 +15,6 @@ ime="RTL 2"
 url="http://cdn.iptv.amis.net/LIVE/RTL2Hrvatska/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0" 
 img="http://tvprofil.net/img/kanali-logo/RTL2-logo.png"
 
-ime="RTL Living" 
-url="http://cdn.iptv.amis.net/LIVE/RTLplus/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0" 
-img="http://tvprofil.net/img/kanali-logo/RTL_Living_logo.png"
-
 
 ime="HRT 3" 
 url="http://213.5.58.58:1935/hrt_live/smil:hrt3.smil/playlist.m3u8" 
