@@ -3,6 +3,9 @@ ime="Boomerang"
 url="http://cdn.iptv.amis.net/LIVE/Boomerang/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
 img="http://tvprofil.net/img/kanali-logo/boomerang-logo.png"
 
+ime="Baby TV"
+url="http://cdn.iptv.amis.net/LIVE/BabyTV/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
+img="https://www.montagecabletv.com/sites/default/files/baby_tv_logo.jpg"
 
 ime="Disney Channel"
 url="http://cdn.iptv.amis.net/LIVE/CRODISNEY/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
