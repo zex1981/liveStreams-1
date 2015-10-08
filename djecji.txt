@@ -1,29 +1,18 @@
 
-ime="Cartoon Network" 
-url="http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8" 
-img="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/2000px-Cartoon_Network_2004_logo.svg.png"
-
-ime="Cartoon Network" 
-url="http://fe-sth.svc.iptv.rt.ru/hls/CH_C05_CARTOONNETWORK/variant.m3u8?version=2" 
-img="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/2000px-Cartoon_Network_2004_logo.svg.png"
-
-ime="Nickelodeon" 
-url="http://fe-sth.svc.iptv.rt.ru/hls/CH_C03_NICKELODEON/variant.m3u8?version=2" 
-img="http://4.bp.blogspot.com/-BbPuy3NOYO8/UHHB3ujJadI/AAAAAAAABMI/k-obhzXndiY/s1600/Nickelodeon_logo.png"
-
-ime="Nick Jr." 
-url="http://fe-sib.svc.iptv.rt.ru/hls/CH_C02_NICKJUNIOR/variant.m3u8?version=2" 
-img="http://www.granville.lib.nc.us/wp-content/uploads/2012/08/nickjr.gif"
-
 ime="Boomerang"
-url="http://fe-sth.svc.iptv.rt.ru/hls/CH_C05_BOOMERANG/variant.m3u8?version=2"
-img="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/2000px-Boomerang_2014_logo.svg.png"
+url="http://cdn.iptv.amis.net/LIVE/Boomerang/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
+img="http://tvprofil.net/img/kanali-logo/boomerang-logo.png"
 
-ime="Jim Jam"
-url="http://fe-mos.svc.iptv.rt.ru/hls/CH_C04_JIMJAM/variant.m3u8?version=2"
-img="http://logonoid.com/images/jimjam-logo.jpg"
 
-ime="Niclelodeon DE" 
-url="http://pebbles105-lh.akamaihd.net/i/nickcc_1@97455/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21" 
-img="http://4.bp.blogspot.com/-BbPuy3NOYO8/UHHB3ujJadI/AAAAAAAABMI/k-obhzXndiY/s1600/Nickelodeon_logo.png"
+ime="Disney Channel"
+url="http://cdn.iptv.amis.net/LIVE/CRODISNEY/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
+img="http://www.adweek.com/files/imagecache/node-inline-wide/outdoing-dischannel-logo-2014.jpg"
 
+ime="Disney XD"
+url="http://cdn.iptv.amis.net/LIVE/DisneyXD/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
+img="http://imageserver.moviepilot.com/-8a9cebc8-2879-4315-9926-6cd6d5744340.jpeg"
+
+ime="Cartoon Network"
+url="http://cdn.iptv.amis.net/LIVE/CartoonTCM/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
+img="http://upload.wik
+imedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/2000px-Cartoon_Network_2004_logo.svg.png"
