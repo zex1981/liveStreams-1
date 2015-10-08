@@ -14,6 +14,9 @@ ime="Fashion TV"
 url="http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8" 
 img="http://www.tv-logo.com/pt-data/uploads/images/logo/fashion_tv.jpg"
 
+ime="TLC"
+url="http://cdn.iptv.amis.net/LIVE/TLC/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
+img="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tlc_logo_discovery.svg/964px-Tlc_logo_discovery.svg.png"
 
 ime="Travel Channel" 
 url="http://cdn.iptv.amis.net/LIVE/CROTRAVEL/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0" 
