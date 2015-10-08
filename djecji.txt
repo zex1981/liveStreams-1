@@ -17,8 +17,7 @@ img="http://imageserver.moviepilot.com/-8a9cebc8-2879-4315-9926-6cd6d5744340.jpe
 
 ime="Cartoon Network"
 url="http://cdn.iptv.amis.net/LIVE/CartoonTCM/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
-img="http://upload.wik
-imedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/2000px-Cartoon_Network_2004_logo.svg.png"
+img="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2000px-Cartoon_Network_2010_logo.svg.png"
 
 ime="Da Vinci Learning"
 url="http://cdn.iptv.amis.net/LIVE/DaVinciLear/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
