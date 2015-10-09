@@ -14,6 +14,10 @@ ime="Jugoton TV"
 url="http://95.128.236.80:1935/kaltura/smil:jugotontv.smil/playlist.m3u8"
 img="http://mojtv.hr/thumb.ashx?path=/images/f3d04f24-f9ee-4a62-9b0c-451c7ff08943.jpg&w=491&h=250"
 
+ime="Mezzo"
+url="http://cdn.iptv.amis.net/LIVE/Mezzo/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
+img="-"
+
 ime="A One" 
 url="http://euro.online.hls.cn.ru/streaming/aone/126/tvrec/playlist.m3u8" 
 img="http://iformula.ru/images/channel/A-ONE.jpg"
