@@ -1,42 +1,52 @@
 ime="CMC"
 url="http://95.128.236.80:1935/kaltura/smil:cmc.smil/playlist.m3u8"
 img="http://4.bp.blogspot.com/-Xv4biH2TkD0/VIx0WAyNRaI/AAAAAAAAAKI/0eHIXdGfu-M/s1600/CMC.jpg"
+epg="32"
+
 
 ime="CMC"
 url="http://cdn.iptv.amis.net/LIVE/CMC/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
 img="http://4.bp.blogspot.com/-Xv4biH2TkD0/VIx0WAyNRaI/AAAAAAAAAKI/0eHIXdGfu-M/s1600/CMC.jpg"
+epg="32"
 
 ime="VH-1"
 url="http://cdn.iptv.amis.net/LIVE/VH1/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
 img="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/VH1_logo.svg/1280px-VH1_logo.svg.png"
+epg="87"
 
 ime="Jugoton TV"
 url="http://95.128.236.80:1935/kaltura/smil:jugotontv.smil/playlist.m3u8"
 img="http://mojtv.hr/thumb.ashx?path=/images/f3d04f24-f9ee-4a62-9b0c-451c7ff08943.jpg&w=491&h=250"
+epg="308"
 
 ime="Mezzo"
 url="http://cdn.iptv.amis.net/LIVE/Mezzo/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
-img="-"
+img="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/2000px-Mezzo_Logo.svg.png"
+epg="227"
 
 ime="A One" 
 url="http://euro.online.hls.cn.ru/streaming/aone/126/tvrec/playlist.m3u8" 
 img="http://iformula.ru/images/channel/A-ONE.jpg"
+epg="-"
 
 ime="MTV Adria" 
 url="http://cdn.iptv.amis.net/LIVE/MTV/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0" 
 img="http://tvprofil.net/img/kanali-logo/mtv-logo.png"
+epg="165"
 
 ime="VEVO 1" 
 url="http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8" 
 img="http://www.viralmediaboost.com/wp-content/uploads/2013/05/vevooo.png"
+epg="-"
 
 ime="VEVO 2" 
 url="http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8" 
 img="http://www.viralmediaboost.com/wp-content/uploads/2013/05/vevooo.png"
+epg="-"
 
 ime="VEVO 3" 
 url="http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8" 
 img="http://www.viralmediaboost.com/wp-content/uploads/2013/05/vevooo.png"
-
+epg="-"
 
 
