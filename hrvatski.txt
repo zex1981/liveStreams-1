@@ -11,10 +11,17 @@ ime="RTL"
 url="http://cdn.iptv.amis.net/LIVE/RTLHrvatska/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0" 
 img="http://www.web-tv-portal.de/img/fernsehen/rtl-logo.png"
 
+ime="NOVA TV"
+url="http://www.sipragezabava.com/kanal_3_hr.php"
+img="https://upload.wikimedia.org/wikipedia/sh/4/4e/Novatv_hr.png"
+
 ime="RTL 2" 
 url="http://cdn.iptv.amis.net/LIVE/RTL2Hrvatska/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0" 
 img="http://tvprofil.net/img/kanali-logo/RTL2-logo.png"
 
+ime="Doma TV"
+url="http://www.netraja.net/2014/05/doma-tv.html"
+img="http://static.etrend.sk/uploads/tx_media/2009/6/tv_doma_logo_6.gif"
 
 ime="HRT 3" 
 url="http://213.5.58.58:1935/hrt_live/smil:hrt3.smil/playlist.m3u8" 
