@@ -13,6 +13,10 @@ url="http://www.lshstream.com/embed.php?u=skhd2lsh&vw=720&vh=420&live.realstream
 img="http://www.sportklub.rs/img/pssk2.png"
 epg="63"
 
+ime="Sport Klub 3" 
+img="http://www.sportklub.rs/img/pssk3.png"
+url="http://www.lshstream.com/embed.php?u=skhd3lsh&vw=720&vh=420&live.realstreamunited.com=serbiaplus.com"
+epg="296"
 
 ime="NBC SN 720p" 
 url="http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104" 
