@@ -3,6 +3,16 @@ url="http://www.sipragezabava.com/kanal_2_yu.php"
 img="http://blog.mtel.ba/wp-content/uploads/2015/08/infokanal_30_arenasport1.png"
 epg="http://tvprofil.net/xmltv/data/tv-arena-sport-1.sport/weekly_tv-arena-sport-1.sport_tvprofil.net.xml"
 
+ime="Sport Klub 1" 
+url="http://lshstream.com/embed.php?u=skhd1lsh&vw=720&vh=420&live.realstreamunited.com=serbiaplus.com" 
+img="http://www.sportklub.rs/img/pssk1.png"
+epg="62"
+
+ime="Sport Klub 2" 
+url="http://www.lshstream.com/embed.php?u=skhd2lsh&vw=720&vh=420&live.realstreamunited.com=serbiaplus.com" 
+img="http://www.sportklub.rs/img/pssk2.png"
+epg="63"
+
 
 ime="NBC SN 720p" 
 url="http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104" 
