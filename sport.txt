@@ -7,53 +7,59 @@ epg="179"
 ime="NBC SN 720p" 
 url="http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104" 
 img="http://www.milb.com/assets/images/5/3/0/56738530/cuts/NBCSN_onm95p8a_g6notz62.jpg"
+epg="-"
 
 ime="NBC SN 1080p" 
 url="http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104"
 img="http://www.milb.com/assets/images/5/3/0/56738530/cuts/NBCSN_onm95p8a_g6notz62.jpg"
+epg="-"
 
 ime="NBC Golf 720p" 
 url="http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104" 
 img="http://www.tourismpei.com/photos/sites/visitorsguide/GOLF_HD_LOGO.jpg"
+epg="-"
 
 ime="NBC Golf 1080p" 
 url="http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104"
 img="http://www.tourismpei.com/photos/sites/visitorsguide/GOLF_HD_LOGO.jpg"
+epg="-"
 
 ime="Viasat Sport"
 url="http://fe-dv.svc.iptv.rt.ru/hls/CH_C01_VIASATSPORT/variant.m3u8?version=2"
 img="https://upload.wikimedia.org/wikipedia/fi/4/45/Viasatsport.png"
+epg="-"
 
 ime="Eurosport 1"
 url="http://fe-sth.svc.iptv.rt.ru/hls/CH_C06_EUROSPORT/variant.m3u8?version=2"
 img="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Eurosport_Logo.svg/2000px-Eurosport_Logo.svg.png"
+epg="-"
 
 ime="Eurosport 2"
 url="http://fe-ural.svc.iptv.rt.ru/hls/CH_C04_EUROSPORT2/variant.m3u8?version=2"
 img="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Eurosport_Logo.svg/2000px-Eurosport_Logo.svg.png"
+epg="-"
 
 ime="Eurosport News"
 url="http://fe-mos.svc.iptv.rt.ru/hls/CH_C06_EURONEWS/variant.m3u8?version=2"
 img="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Eurosport_Logo.svg/2000px-Eurosport_Logo.svg.png"
-
+epg="-"
 
 ime="Pac 12 720p" 
 url="http://pac12hd2-lh.akamaihd.net/i/p12netw_delivery@132840/index_2328_av-p.m3u8" 
 img="http://usctrojans.cstv.com/blog/Pac12-Shield.jpg"
+epg="-"
 
 ime="Big Ten Network 720p"   
 url="http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8" 
 img="http://www.nr4w.com/wp-content/uploads/2014/11/btn.jpg"
+epg="-"
 
 ime="Sports tonight Live 720p" 
 url="rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD timeout=10" 
 img="https://fiskeharrison.files.wordpress.com/2011/11/sportstonight_03.gif?w=640"
+epg="-"
 
 ime="Sport 1 720p" 
 url="http://87.245.214.43/streaming/sport1/16/tvrec/playlist.m3u8" 
 img="http://www.frosat.net/images/logotv/original/Sport-1_ru.jpg"
-
-
-ime="Sky Sports 1"
-url="ActivateWindow(10025,&quot;plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bSports%2b1%26url%3dhttp%253A%252F%252Fcricfree.sx%252Fsky-sports-1-live-stream-4%26videoTitle%3dSky%2bSports%2b1%26director%3dcricfree.tv%26genre%3dTV%26referer%3dhttp%253A%252F%252Fcricfree.sx%252F%26definedIn%3dtv%252Fcricfree.tv.cfg%26link%3dsky-sports-1-live-stream-4%26type%3drss%26icon%3dC%253A%255CUsers%255CNatko%255CAppData%255CRoaming%255CKodi%255Caddons%255Cplugin.video.SportsDevil%255Cresources%255Cimages%255Cchannels%252Fsky_uk_sports1.png&amp;mode=1&quot;,return)"
-img="http://www.livetvscreen.com/wp-content/uploads/2012/09/Sky-Sports-1-HD-1024x159.jpg"
+epg="-"
