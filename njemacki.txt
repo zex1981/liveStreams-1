@@ -1,115 +1,144 @@
 ime="3 PLUS" 
 url="http://pebbles114-lh.akamaihd.net/i/3plus_1@97489/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21" 
 img="http://upload.wikimedia.org/wikipedia/it/9/9e/3Plus-Logo.png"
+epg="-"
 
 ime="ARD" 
 url="http://pebbles112-lh.akamaihd.net/i/daserste_1@97481/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21" 
 img="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/DasErste-Logo.svg/120px-DasErste-Logo.svg.png"
+epg="-"
 
 ime="ARD 1" 
 url="http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8" 
 img="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/DasErste-Logo.svg/120px-DasErste-Logo.svg.png"
+epg="-"
 
 ime="ATV" 
 url="http://pebbles114-lh.akamaihd.net/i/atv_1@97491/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21" 
 img="http://images.wookmark.com/237763_738_atv.jpg"
+epg="39"
 
 ime="DISNEY CHANNEL" 
 url="https://de_fta_simulcast-lh.akamaihd.net/i/live_1@153866/master.m3u8|X-Forwarded-For=91.63.136.21" 
 img="http://img2.wikia.nocookie.net/__cb20101205140109/logopedia/images/4/48/Disney_channel_Logo_2010.png"
+epg="-"
 
 ime="DISNEY CHANNEL" 
 url="http://pebbles104-lh.akamaihd.net/i/disney_channel_de_1@97396/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21" 
 img="http://img2.wikia.nocookie.net/__cb20101205140109/logopedia/images/4/48/Disney_channel_Logo_2010.png"
+epg="-"
 
 ime="DMAX" 
 url="http://pebbles104-lh.akamaihd.net/i/dmax_1@97398/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21" 
 img="http://sicilia.onderadio.net/Loghi/TV/DMax.png"
+epg="-"
 
 ime="DW-TV" 
 url="http://hlsstr04.svc.iptv.rt.ru/hls/CH_DEUTSCHEWELLE/variant.m3u8?version=2" 
 img="http://www.dw.de/cssi/dwlogo-print.gif"
+epg="288"
 
 ime="EUROSPORT" 
 url="http://pebbles105-lh.akamaihd.net/i/eurosportde_1@97452/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21" 
 img="http://www.martymactv.com/resources/Eurosport%20logo%202011.png"
+epg="50"
 
 ime="KIKA" 
 url="http://pebbles113-lh.akamaihd.net/i/kika_1@97487/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21" 
 img="http://zdf-enterprises.de/sites/default/files/pressrelease/800px-kika-logosvg.jpg"
+epg="99"
 
 ime="NICKELODEON" 
 url="http://pebbles105-lh.akamaihd.net/i/nickcc_1@97455/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21" 
 img="http://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Nickelodeon_logo.svg/1024px-Nickelodeon_logo.svg.png"
+epg="-"
 
 ime="ORF 1" 
 url="http://pebbles113-lh.akamaihd.net/i/orf1_1@97573/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21" 
 img="http://www.wienersymphoniker.at/Portals/0/Images/709px-ORF_logo.svg.png"
+epg="90"
 
 ime="ORF 2" 
 url="http://pebbles113-lh.akamaihd.net/i/orf2_1@97574/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21" 
 img="http://www.wienersymphoniker.at/Portals/0/Images/709px-ORF_logo.svg.png"
+epg="91"
 
 ime="PRO 7" 
 url="http://pebbles106-lh.akamaihd.net/i/prosieben_1@97456/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21" 
 img="http://www.starsontv.com/wp-content/uploads/pro-sieben-logo-neu_680x479.jpg"
+epg="95"
 
 ime="PRO 7 MAXX" 
 url="http://pebbles107-lh.akamaihd.net/i/pro7maxx_1@97522/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21" 
 img="http://www.normcast.de/bilder/medien/2013_09_03_pro7maxxlogo.jpg"
+epg="-"
 
 ime="RTL" 
 url="http://pebbles106-lh.akamaihd.net/i/rtl_1@97459/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21" 
 img="http://upload.wikimedia.org/wikipedia/de/0/0b/RTL_Logo_2004.jpg"
+epg="96"
 
 ime="RTL 2" 
 url="http://pebbles107-lh.akamaihd.net/i/rtl2_1@97460/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21" 
 img="http://upload.wikimedia.org/wikipedia/fr/d/dd/RTL_2_logo_1999.png"
+epg="-"
 
 ime="RTL NITRO" 
 url="http://pebbles106-lh.akamaihd.net/i/rtlnitro_1@97458/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21" 
 img="http://www.broadbandtvnews.com/wp-content/uploads/2012/02/RTL-Nitro-logo-2012.png"
+epg="-"
 
 ime="SAT 1" 
 url="http://pebbles107-lh.akamaihd.net/i/sat1_1@97461/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21" 
 img="http://www.web-tv-portal.de/img/fernsehen/sat1-logo.png"
+epg="94"
 
 ime="SUPER RTL" 
 url="http://pebbles107-lh.akamaihd.net/i/superrtl_1@97463/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21" 
 img="http://img2.wikia.nocookie.net/__cb20121017100743/disney/images/b/b9/Super_RTL.png"
+epg="101"
 
 ime="SPORT 1" 
 url="http://pebbles108-lh.akamaihd.net/i/sport1_1@97464/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21" 
 img="http://www.androidinside.de/wp-content/uploads/2014/01/20140124_sport1_logo.jpg"
+epg="52"
 
 ime="SRF 1" 
 url="http://pebbles110-lh.akamaihd.net/i/sf1_1@97474/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21" 
 img="http://a1420.phobos.apple.com/us/r30/Purple4/v4/9c/24/0e/9c240e6e-b74c-e0f3-323b-0d28b1b1bda0/mzl.ugodeqkr.png"
+epg="-"
 
 ime="SRF 2" 
 url="http://pebbles110-lh.akamaihd.net/i/sf2_1@97475/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21" 
 img="http://a1420.phobos.apple.com/us/r30/Purple4/v4/9c/24/0e/9c240e6e-b74c-e0f3-323b-0d28b1b1bda0/mzl.ugodeqkr.png"
+epg="-"
 
 ime="VIVA" 
 url="http://pebbles105-lh.akamaihd.net/i/viva_1@97493/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21" 
 img="http://www.easywayfacility.com/images/VivaTV.png"
+epg="152"
 
 ime="VOX" 
 url="http://pebbles108-lh.akamaihd.net/i/vox_1@97466/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21" 
 img="http://upload.wikimedia.org/wikipedia/de/a/ac/VOX_Logo.png"
+epg="98"
 
 ime="WDR" 
 url="http://pebbles114-lh.akamaihd.net/i/wdr_1@97490/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21" 
 img="http://www.lyngsat-logo.com/hires/ww/wdr_fernsehen.png"
+epg="-"
 
 ime="WDR" 
 url="http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8" 
 img="http://www.lyngsat-logo.com/hires/ww/wdr_fernsehen.png"
+epg="-"
 
 ime="ZDF" 
 url="http://pebbles112-lh.akamaihd.net/i/zdf_1@97483/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21" 
 img="http://www.tv14.net/wp-content/uploads/2010/09/zdf.jpg"
+epg="93"
 
 ime="ZDF NEO" 
 url="http://pebbles111-lh.akamaihd.net/i/zdfneo_1@97479/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21" 
 img="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/ZDFneo.svg/555px-ZDFneo.svg.png"
+epg="-"
