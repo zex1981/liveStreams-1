@@ -2,19 +2,19 @@
 ime="CBS Reality"
 url="http://cdn.iptv.amis.net/LIVE/CROREALITY/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
 img="http://tvprofil.net/img/kanali-logo/CBS-REALITY.png"
+epg="76"
 
 ime="FOX Crime"
 url="http://cdn.iptv.amis.net/LIVE/FOXCRIMEHRVATSKA/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
 img="http://tvprofil.net/img/kanali-logo/fox-crime-logo.png"
+epg="70"
 
 ime="FOX Life"
 url="http://cdn.iptv.amis.net/LIVE/FOXLIFEHRVATSKA/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
 img="http://tvprofil.net/img/kanali-logo/fox-life-logo.PNG"
+epg="69"
 
 ime="Universal Channel" 
 url="http://cdn.iptv.amis.net/ts/UniversalChannelCRO/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0" 
 img="http://tvprofil.net/img/kanali-logo/universal-channel-logo.png"
-
-ime="Klasik TV" 
-url="http://cdn.iptv.amis.net/LIVE/KlasikTV/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0" 
-img="http://tvprofil.net/img/kanali-logo/klasiktv-logo.png"
+epg="40"
