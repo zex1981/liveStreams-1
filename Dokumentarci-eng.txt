@@ -2,27 +2,35 @@
 ime="Viasat History"
 url="http://cdn.iptv.amis.net/LIVE/CROHISTORY/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
 img="http://tvprofil.net/img/kanali-logo/viasat-history.png"
+epg="73"
 
 ime="Viasat Explore"
 url="http://cdn.iptv.amis.net/LIVE/CROEXPLORER/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
 img="http://tvprofil.net/img/kanali-logo/viasat-explore.png"
+epg="74"
 
-ime="Animal Planet"
-url="http://cdn.iptv.amis.net/LIVE/Animal/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
-img="http://www.warl.org/wp-content/uploads/2014/09/animal-planet-logo.png"
 
 ime="History Channel"
 url="http://cdn.iptv.amis.net/LIVE/CROHISTORYCH/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
 img="http://tvprofil.net/img/kanali-logo/history-logo.png"
+epg="140"
 
 ime="National Geographic"
 url="http://cdn.iptv.amis.net/LIVE/NGCCroatia/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
 img="http://tvprofil.net/img/kanali-logo/nat-geographic-logo.png"
+epg="48"
 
 ime="National Geographic Wild"
 url="http://cdn.iptv.amis.net/LIVE/NGCWildCRO/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
 img="http://tvprofil.net/img/kanali-logo/nat-geo-wild-logo.png"
+epg="120"
+
+ime="Animal Planet SLO"
+url="http://cdn.iptv.amis.net/LIVE/Animal/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
+img="http://www.warl.org/wp-content/uploads/2014/09/animal-planet-logo.png"
+epg="58"
 
 ime="Outdoor Channel"
 url="http://cdn.iptv.amis.net/LIVE/OutdoorChannel/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
 img="http://www.monticellolive.com/wp-content/uploads/2012/06/Outdoor-Channel-Logo.jpg"
+epg="-"
