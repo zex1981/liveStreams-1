@@ -2,74 +2,92 @@
 ime="HRT 1" 
 url="http://213.5.58.58:1935/hrt_live/smil:hrt1.smil/playlist.m3u8" 
 img="http://tvprofil.net/img/kanali-logo/htv1-logo.png"
+epg="1"
 
 ime="HRT 2" 
 url="http://213.5.58.58:1935/hrt_live/smil:hrt2.smil/playlist.m3u8" 
 img="http://tvprofil.net/img/kanali-logo/htv2-logo.png"
+epg="2"
 
 ime="RTL" 
 url="http://cdn.iptv.amis.net/LIVE/RTLHrvatska/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0" 
 img="http://www.web-tv-portal.de/img/fernsehen/rtl-logo.png"
+epg="4"
 
 ime="NOVA TV"
 url="http://www.sipragezabava.com/kanal_3_hr.php"
 img="https://upload.wikimedia.org/wikipedia/sh/4/4e/Novatv_hr.png"
+epg="3"
 
 ime="RTL 2" 
 url="http://cdn.iptv.amis.net/LIVE/RTL2Hrvatska/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0" 
 img="http://tvprofil.net/img/kanali-logo/RTL2-logo.png"
+epg="186"
 
 ime="Doma TV"
 url="http://www.netraja.net/2014/05/doma-tv.html"
 img="http://static.etrend.sk/uploads/tx_media/2009/6/tv_doma_logo_6.gif"
+epg="185"
 
 ime="HRT 3" 
 url="http://213.5.58.58:1935/hrt_live/smil:hrt3.smil/playlist.m3u8" 
 img="http://tvprofil.net/img/kanali-logo/hrt3-logo.png"
+epg="310"
 
 ime="HRT 4" 
 url="http://213.5.58.58:1935/hrt_live/smil:hrt4.smil/playlist.m3u8" 
 img="http://img3.wikia.nocookie.net/__cb20121221162234/logopedia/images/d/dc/HRT4.png"
+epg="341"
 
 ime="Klasik TV" 
 url="http://cdn.iptv.amis.net/LIVE/KlasikTV/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0" 
 img="http://tvprofil.net/img/kanali-logo/klasiktv-logo.png"
+epg="184"
 
 ime="MTV Adria" 
 url="http://cdn.iptv.amis.net/LIVE/MTV/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0" 
 img="http://tvprofil.net/img/kanali-logo/mtv-logo.png"
-
+epg="165"
 
 ime="N1"
 url="http://best.str.n1info.com:8080/stream?sp=n1info&channel=n1hr&stream=1mb&b=6&player=m3u8&u=n1info&p=n1Sh4redSecre7iNf0"
 img="https://upload.wikimedia.org/wikipedia/en/1/14/N1teleLogo.jpg"
+epg="77"
 
 ime="CMC"
 url="http://95.128.236.80:1935/kaltura/smil:cmc.smil/playlist.m3u8"
 img="http://4.bp.blogspot.com/-Xv4biH2TkD0/VIx0WAyNRaI/AAAAAAAAAKI/0eHIXdGfu-M/s1600/CMC.jpg"
+epg="32"
+
 
 ime="Jugoton TV"
 url="http://95.128.236.80:1935/kaltura/smil:jugotontv.smil/playlist.m3u8"
 img="http://mojtv.hr/thumb.ashx?path=/images/f3d04f24-f9ee-4a62-9b0c-451c7ff08943.jpg&w=491&h=250"
+epg="308"
 
 ime="Jabuka TV" 
 url="http://iphone-streaming.ustream.tv/ustreamVideo/12591767/streams/live/playlist.m3u8" 
 img="http://www.jabuka.tv/wp-content/uploads/2012/09/JABUKA_TV.jpg"
+epg="6"
 
 ime="Sportska televizija" 
 url="http://80.80.58.168:1935/sporttv/smil:sptv.smil/playlist.m3u8" 
 img="http://tvprofil.net/img/kanali-logo/sptv-logo.png"
+epg="244"
+
+ime="Zdrava TV" 
+url="rtmp://live.videonet.rs/videonet-live/play/videonet4.stream" 
+img="http://www.bnet.hr/var/ezflow_site/storage/images/zdrava_televizija_u_vasem_domu/18614-1-cro-HR/zdrava_televizija_u_vasem_domu_view_full.jpg"
+epg="187"
 
 ime="TV Student" 
 url="rtmp://213.202.73.202/iskon/studentska_b2.stream" 
 img="https://i.vimeocdn.com/portrait/4980926_300x300.jpg"
+epg="-"
 
 ime="RTV Banovina" 
 url="rtmp://video.radio-banovina.hr/live/myStream" 
 img="http://radio-online.square7.net/uploads/articles/d3f636ea.png"
+epg="-"
 
-
-ime="Zdrava TV" 
-url="rtmp://live.videonet.rs/videonet-live/play/videonet4.stream" 
-img="http://mali-ekrani.com/wp-content/uploads/2015/05/zdravatelevizija.jpg"
 
