@@ -2,23 +2,29 @@
 ime="Boomerang"
 url="http://cdn.iptv.amis.net/LIVE/Boomerang/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
 img="http://tvprofil.net/img/kanali-logo/boomerang-logo.png"
+epg="54"
 
 ime="Baby TV"
 url="http://cdn.iptv.amis.net/LIVE/BabyTV/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
 img="https://www.montagecabletv.com/sites/default/files/baby_tv_logo.jpg"
+epg="167"
 
 ime="Disney Channel"
 url="http://cdn.iptv.amis.net/LIVE/CRODISNEY/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
 img="http://www.adweek.com/files/imagecache/node-inline-wide/outdoing-dischannel-logo-2014.jpg"
+epg="297"
 
 ime="Disney XD"
 url="http://cdn.iptv.amis.net/LIVE/DisneyXD/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
 img="http://imageserver.moviepilot.com/-8a9cebc8-2879-4315-9926-6cd6d5744340.jpeg"
+epg="316"
 
 ime="Cartoon Network"
 url="http://cdn.iptv.amis.net/LIVE/CartoonTCM/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
 img="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2000px-Cartoon_Network_2010_logo.svg.png"
+epg="125"
 
 ime="Da Vinci Learning"
 url="http://cdn.iptv.amis.net/LIVE/DaVinciLear/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
 img="http://ovhd-main.liquidpreview.com//media/160356/davincilearning.png"
+epg="269"
