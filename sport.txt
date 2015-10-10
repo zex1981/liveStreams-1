@@ -3,6 +3,11 @@ url="http://www.sipragezabava.com/kanal_2_yu.php"
 img="http://blog.mtel.ba/wp-content/uploads/2015/08/infokanal_30_arenasport1.png"
 epg="http://tvprofil.net/xmltv/data/tv-arena-sport-1.sport/weekly_tv-arena-sport-1.sport_tvprofil.net.xml"
 
+ime="Arena Sport 3" 
+img="http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport3_s.gif"
+url="http://www.lshstream.com/embed.php?u=arhd3lsh58&vw=720&vh=420&live.realstreamunited.com=serbiaplus.com"
+epg="253"
+
 ime="Sport Klub 1" 
 url="http://lshstream.com/embed.php?u=skhd1lsh&vw=720&vh=420&live.realstreamunited.com=serbiaplus.com" 
 img="http://www.sportklub.rs/img/pssk1.png"
