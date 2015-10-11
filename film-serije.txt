@@ -1,8 +1,4 @@
 
-ime="CBS Reality"
-url="http://cdn.iptv.amis.net/LIVE/CROREALITY/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
-img="http://tvprofil.net/img/kanali-logo/CBS-REALITY.png"
-epg="76"
 
 ime="FOX Crime"
 url="http://cdn.iptv.amis.net/LIVE/FOXCRIMEHRVATSKA/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
@@ -18,3 +14,23 @@ ime="Universal Channel"
 url="http://cdn.iptv.amis.net/ts/UniversalChannelCRO/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0" 
 img="http://tvprofil.net/img/kanali-logo/universal-channel-logo.png"
 epg="40"
+
+ime="CBS Reality"
+url="http://cdn.iptv.amis.net/LIVE/CROREALITY/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
+img="http://tvprofil.net/img/kanali-logo/CBS-REALITY.png"
+epg="76"
+
+ime="CBS Drama"
+url="https://www.filmon.com/tv/cbs-drama"
+img="http://www.optitv.hr/UserDocsImages/Naslovna/cbs_drama.png"
+epg="75"
+
+ime="CBS Action"
+url="https://www.filmon.com/tv/cbs-action"
+img="https://upload.wikimedia.org/wikipedia/en/archive/9/98/20130416074750!CBS_action_RGB.png"
+epg="-"
+
+ime="truTV"
+url="https://www.filmon.com/tv/tru-tv"
+img="http://i1.wp.com/pmcvariety.files.wordpress.com/2014/07/trutv-logo.jpg?crop=101px%2C36px%2C858px%2C478px&resize=670%2C377"
+epg="-"
