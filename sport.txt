@@ -38,3 +38,8 @@ ime="Šport 2"
 url="http://cdn.iptv.amis.net/LIVE/SportKlub2/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
 img="http://rtvsporedi.si/img/sport-tv2.png"
 epg="-"
+
+ime="Sky Sports 1"
+img="http://3.bp.blogspot.com/-_5hLpXCOCu0/VAW6b9Z5u3I/AAAAAAAAFUY/tiCj5Ilg6Fo/s1600/sky%2Bsports%2B1%2Blive%2Bmykora.png"
+url="http://www.serbiaplus.com/skysports1.html"
+epg="-"
