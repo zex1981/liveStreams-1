@@ -3,3 +3,13 @@ ime="Planet TV"
 url="http://pcdn-07.sdn.si/22ba7f2471e9f5e894f3c50f4f16ea68/planettv/planettv.isml/planettv-video=2500000-audio101%3D128000.m3u8" 
 img="http://www.tv-logo.com/pt-data/uploads/images/logo/planet_tv_si.jpg"
 epg="-"
+
+ime="b92"
+url="http://abcast.net/abcat.php?file=tashg&width=610&height=470"
+img="http://b92s.net/b92.png"
+epg="-"
+
+ime="Prva TV"
+img="http://teve.ba/img/articles/2762.jpg"
+url="http://abcast.net/abcat.php?file=tasharena&width=610&height=470"
+epg="-"
