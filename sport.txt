@@ -1,5 +1,5 @@
 ime="Arena Sport 1"
-url="http://www.sipragezabava.com/kanal_2_yu.php"
+url="http://www.sipragezabava.com/kanaxl_2_yu.php||http://www.serbiaplus.com/arenasport1.html"
 img="http://blog.mtel.ba/wp-content/uploads/2015/08/infokanal_30_arenasport1.png"
 epg="http://tvprofil.net/xmltv/data/tv-arena-sport-1.sport/weekly_tv-arena-sport-1.sport_tvprofil.net.xml"
 
