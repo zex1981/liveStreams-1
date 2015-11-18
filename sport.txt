@@ -3,31 +3,26 @@ url="http://www.sipragezabava.com/kanal_2_yu.php"
 img="http://blog.mtel.ba/wp-content/uploads/2015/08/infokanal_30_arenasport1.png"
 epg="http://tvprofil.net/xmltv/data/tv-arena-sport-1.sport/weekly_tv-arena-sport-1.sport_tvprofil.net.xml"
 
+ime="Arena Sport 1"
+url="http://www.serbiaplus.com/arenasport1.html"
+img="http://blog.mtel.ba/wp-content/uploads/2015/08/infokanal_30_arenasport1.png"
+epg="http://tvprofil.net/xmltv/data/tv-arena-sport-1.sport/weekly_tv-arena-sport-1.sport_tvprofil.net.xml"
+
+ime="Arena Sport 2"
+url="http://www.serbiaplus.com/arenasport2.html"
+img="http://blog.mtel.ba/wp-content/uploads/2015/08/infokanal_30_arenasport1.png"
+epg="180"
+
 ime="Arena Sport 3" 
 img="http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport3_s.gif"
-url="http://www.lshstream.com/embed.php?u=arhd3lsh58&vw=720&vh=420&live.realstreamunited.com=serbiaplus.com"
+url="http://www.serbiaplus.com/arenasport3.html"
 epg="253"
 
 ime="Arena Sport 4"
 img="http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport4_s.gif"
-url="http://www.lshstream.com/embed.php?u=arhd4lsh&vw=720&vh=420&live.realstreamunited.com=serbiaplus.com"
+url="http://www.serbiaplus.com/arenasport4.html"
 epg="264"
 
-
-ime="Sport Klub 1" 
-url="http://lshstream.com/embed.php?u=skhd1lsh&vw=720&vh=420&live.realstreamunited.com=serbiaplus.com" 
-img="http://www.sportklub.rs/img/pssk1.png"
-epg="62"
-
-ime="Sport Klub 2" 
-url="http://www.lshstream.com/embed.php?u=skhd2lsh&vw=720&vh=420&live.realstreamunited.com=serbiaplus.com" 
-img="http://www.sportklub.rs/img/pssk2.png"
-epg="63"
-
-ime="Sport Klub 3" 
-img="http://www.sportklub.rs/img/pssk3.png"
-url="http://www.lshstream.com/embed.php?u=skhd3lsh&vw=720&vh=420&live.realstreamunited.com=serbiaplus.com"
-epg="296"
 
 ime="Šport 1"
 url="http://cdn.iptv.amis.net/LIVE/SportKlub/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
@@ -41,5 +36,5 @@ epg="-"
 
 ime="Sky Sports 1"
 img="http://3.bp.blogspot.com/-_5hLpXCOCu0/VAW6b9Z5u3I/AAAAAAAAFUY/tiCj5Ilg6Fo/s1600/sky%2Bsports%2B1%2Blive%2Bmykora.png"
-url="http://www.serbiaplus.com/skysports1.html"
+url="http://www.serbiaplus.com/skysport1.html"
 epg="bleb-sky_sports1"
