@@ -1,11 +1,11 @@
 
 ime="HRT 1" 
-url="http://hrt.live.cdn.spectar.tv/OIV_HRT1_TV/03.m3u8?token=" 
+url="http://hrt.live.cdn.spectar.tv/OIV_HRT1_TV/01.m3u8|User-Agent=Mozilla/5.0" 
 img="http://tvprofil.net/img/kanali-logo/htv1-logo.png"
 epg="1"
 
 ime="HRT 2" 
-url="http://hrt.live.cdn.spectar.tv/OIV_HRT2_TV/04.m3u8?token=" 
+url="hhttp://hrt.live.cdn.spectar.tv/OIV_HRT2_TV/01.m3u8|User-Agent=Mozilla/5.0" 
 img="http://tvprofil.net/img/kanali-logo/htv2-logo.png"
 epg="2"
 
@@ -30,12 +30,12 @@ img="http://static.etrend.sk/uploads/tx_media/2009/6/tv_doma_logo_6.gif"
 epg="185"
 
 ime="HRT 3" 
-url="http://hrt.live.cdn.spectar.tv/OIV_HRT3_TV/04.m3u8?token=" 
+url="http://hrt.live.cdn.spectar.tv/OIV_HRT3_TV/01.m3u8|User-Agent=Mozilla/5.0" 
 img="http://tvprofil.net/img/kanali-logo/hrt3-logo.png"
 epg="310"
 
 ime="HRT 4" 
-url="http://hrt.live.cdn.spectar.tv/OIV_HRT4_TV/04.m3u8?token=" 
+url="http://hrt.live.cdn.spectar.tv/OIV_HRT4_TV/01.m3u8|User-Agent=Mozilla/5.0" 
 img="http://img3.wikia.nocookie.net/__cb20121221162234/logopedia/images/d/dc/HRT4.png"
 epg="341"
 
